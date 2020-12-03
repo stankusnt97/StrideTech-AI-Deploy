@@ -1,0 +1,3283 @@
+time_stamp,left_fsr_reading_mv,right_fsr_reading_mv,hip_distance,left_vibration_trigger,right_vibration_trigger,hip_vibration_trigger,Name,Activity
+944011620,2525.0,2957.0,12.0,0,0,0,Nick_Stankus,Standing
+944011620,2179.0,3327.0,11.0,0,0,0,Nick_Stankus,Standing
+944011621,2778.0,2662.0,12.0,0,0,0,Nick_Stankus,Standing
+944011621,3623.0,3450.0,7.0,0,0,0,Nick_Stankus,Standing
+944011621,3627.0,3506.0,4.0,0,0,0,Nick_Stankus,Standing
+944011621,3679.0,3586.0,3.0,0,0,0,Nick_Stankus,Standing
+944011622,3184.0,3225.0,5.0,0,0,0,Nick_Stankus,Standing
+944011622,695.0,1743.0,12.0,0,0,0,Nick_Stankus,Standing
+944011625,3648.0,3101.0,11.0,0,0,0,Nick_Stankus,Standing
+944011625,3733.0,2850.0,7.0,0,0,0,Nick_Stankus,Standing
+944011625,1379.0,2735.0,6.0,0,0,0,Nick_Stankus,Standing
+944011626,3406.0,2808.0,6.0,0,0,0,Nick_Stankus,Standing
+944011626,3562.0,3029.0,7.0,0,0,0,Nick_Stankus,Standing
+944011629,2309.0,2819.0,12.0,0,0,0,Nick_Stankus,Standing
+944011629,3635.0,3584.0,13.0,0,0,0,Nick_Stankus,Standing
+944011629,3312.0,3423.0,11.0,0,0,0,Nick_Stankus,Standing
+944011630,3463.0,3443.0,9.0,0,0,0,Nick_Stankus,Standing
+944011630,3692.0,3635.0,9.0,0,0,0,Nick_Stankus,Standing
+944011630,3167.0,3196.0,10.0,0,0,0,Nick_Stankus,Standing
+944011633,3651.0,3553.0,13.0,0,0,0,Nick_Stankus,Standing
+944011634,3661.0,3455.0,7.0,0,0,0,Nick_Stankus,Standing
+944011634,3534.0,3333.0,6.0,0,0,0,Nick_Stankus,Standing
+944011634,2253.0,614.0,7.0,0,0,0,Nick_Stankus,Standing
+944011637,3551.0,3416.0,14.0,0,0,0,Nick_Stankus,Standing
+944011638,3589.0,3365.0,11.0,0,0,0,Nick_Stankus,Standing
+944011638,2918.0,3179.0,7.0,0,0,0,Nick_Stankus,Standing
+944011638,602.0,2595.0,10.0,0,0,0,Nick_Stankus,Standing
+944011641,3185.0,3244.0,16.0,0,0,0,Nick_Stankus,Standing
+944011641,3374.0,3123.0,13.0,0,0,0,Nick_Stankus,Standing
+944011641,3282.0,3435.0,11.0,0,0,0,Nick_Stankus,Standing
+944011644,2215.0,2679.0,14.0,0,0,0,Nick_Stankus,Standing
+944011644,3208.0,3414.0,14.0,0,0,0,Nick_Stankus,Standing
+944011644,2466.0,3330.0,10.0,0,0,0,Nick_Stankus,Standing
+944011645,2912.0,3441.0,11.0,0,0,0,Nick_Stankus,Standing
+944011647,973.0,1283.0,13.0,0,0,0,Nick_Stankus,Standing
+944011647,2639.0,1561.0,11.0,0,0,0,Nick_Stankus,Standing
+944011648,3080.0,2386.0,9.0,0,0,0,Nick_Stankus,Standing
+944011648,3029.0,1474.0,11.0,0,0,0,Nick_Stankus,Standing
+944011650,3058.0,3027.0,12.0,0,0,0,Nick_Stankus,Standing
+944011651,2961.0,3110.0,9.0,0,0,0,Nick_Stankus,Standing
+944011651,3322.0,3257.0,10.0,0,0,0,Nick_Stankus,Standing
+944011653,2963.0,3305.0,11.0,0,0,0,Nick_Stankus,Standing
+944011654,3558.0,3591.0,8.0,0,0,0,Nick_Stankus,Standing
+944011654,3593.0,3519.0,7.0,0,0,0,Nick_Stankus,Standing
+944011654,3290.0,3236.0,9.0,0,0,0,Nick_Stankus,Standing
+944011661,367.0,3272.0,12.0,0,0,0,Nick_Stankus,Standing
+944011661,2384.0,3184.0,9.0,0,0,0,Nick_Stankus,Standing
+944011661,2848.0,3458.0,10.0,0,0,0,Nick_Stankus,Standing
+944011661,680.0,1551.0,12.0,0,0,0,Nick_Stankus,Standing
+944011662,1.0,510.0,13.0,0,0,0,Nick_Stankus,Standing
+944011662,2000.0,2830.0,22.0,0,0,0,Nick_Stankus,Standing
+944011664,1337.0,687.0,23.0,0,0,0,Nick_Stankus,Standing
+944011664,2700.0,181.0,25.0,0,0,0,Nick_Stankus,Standing
+944011665,3438.0,2663.0,16.0,0,0,0,Nick_Stankus,Standing
+944011665,3373.0,3165.0,17.0,0,0,0,Nick_Stankus,Standing
+944011666,3545.0,3467.0,16.0,0,0,0,Nick_Stankus,Standing
+944011666,3554.0,3438.0,18.0,0,0,0,Nick_Stankus,Standing
+944011668,2831.0,3183.0,16.0,0,0,0,Nick_Stankus,Standing
+944011668,2094.0,2169.0,13.0,0,0,0,Nick_Stankus,Standing
+944011669,1904.0,1027.0,13.0,0,0,0,Nick_Stankus,Standing
+944011669,822.0,2820.0,14.0,0,0,0,Nick_Stankus,Standing
+944011669,3463.0,3474.0,7.0,0,0,0,Nick_Stankus,Standing
+944011669,3667.0,3596.0,7.0,0,0,0,Nick_Stankus,Standing
+944011670,3726.0,3655.0,9.0,0,0,0,Nick_Stankus,Standing
+944011670,1709.0,1157.0,13.0,0,0,0,Nick_Stankus,Standing
+944011670,1.0,1.0,13.0,0,0,0,Nick_Stankus,Standing
+944011672,3165.0,3239.0,15.0,0,0,0,Nick_Stankus,Standing
+944011673,3560.0,3297.0,13.0,0,0,0,Nick_Stankus,Standing
+944011673,3705.0,3626.0,10.0,0,0,0,Nick_Stankus,Standing
+944011673,3716.0,3650.0,12.0,0,0,0,Nick_Stankus,Standing
+944011674,2805.0,2741.0,15.0,0,0,0,Nick_Stankus,Standing
+944011679,1.0,1.0,5.0,0,0,0,Nick_Stankus,Standing
+944011681,2299.0,344.0,5.0,0,0,0,Nick_Stankus,Standing
+944011682,2059.0,124.0,1.0,0,0,0,Nick_Stankus,Standing
+944011684,3186.0,1.0,2.0,0,0,0,Nick_Stankus,Standing
+944011684,3167.0,1.0,5.0,0,0,0,Nick_Stankus,Standing
+944011688,1252.0,2991.0,6.0,0,0,0,Nick_Stankus,Standing
+944011688,2634.0,2904.0,7.0,0,0,0,Nick_Stankus,Standing
+944011688,2157.0,2232.0,7.0,0,0,0,Nick_Stankus,Standing
+944011708,1.0,2163.0,2.0,0,0,0,Nick_Stankus,Standing
+944011708,1.0,2971.0,1.0,0,0,0,Nick_Stankus,Standing
+944011708,1.0,3034.0,4.0,0,0,0,Nick_Stankus,Standing
+944011708,1121.0,2544.0,7.0,0,0,0,Nick_Stankus,Standing
+944011709,1996.0,2145.0,7.0,0,0,0,Nick_Stankus,Standing
+944011711,2739.0,1.0,2.0,0,0,0,Nick_Stankus,Standing
+944011752,3240.0,2612.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011752,3433.0,2780.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011753,3539.0,2917.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011753,3569.0,2930.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011753,3526.0,3045.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011753,2918.0,219.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011754,3484.0,2363.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011754,3598.0,2942.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011754,3642.0,3263.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011754,3669.0,3463.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011755,3672.0,3498.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011755,3502.0,3426.0,14.0,1,0,0,Nick_Stankus,Sitting
+944011755,2812.0,2497.0,22.0,0,0,0,Nick_Stankus,Sitting
+944011755,3243.0,1911.0,26.0,0,0,0,Nick_Stankus,Sitting
+944011756,2963.0,2444.0,27.0,0,0,0,Nick_Stankus,Sitting
+944011758,3209.0,1860.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011758,3577.0,2986.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011758,3644.0,3198.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011758,3567.0,3191.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011759,3565.0,3252.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011759,3591.0,3196.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011759,3640.0,3387.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011759,3604.0,3439.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011759,3559.0,3540.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011760,3578.0,3553.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011760,3576.0,3350.0,16.0,0,0,0,Nick_Stankus,Sitting
+944011760,3523.0,2811.0,26.0,0,0,0,Nick_Stankus,Sitting
+944011763,3471.0,2804.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011763,3611.0,3145.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011764,3618.0,3278.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011764,3607.0,3315.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011764,3442.0,3338.0,14.0,0,0,0,Nick_Stankus,Sitting
+944011764,3225.0,3457.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011765,3172.0,3487.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011765,3382.0,3444.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011765,3510.0,3414.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011765,3214.0,3386.0,14.0,0,0,0,Nick_Stankus,Sitting
+944011766,3125.0,2915.0,23.0,0,0,0,Nick_Stankus,Sitting
+944011766,3083.0,2943.0,28.0,0,0,0,Nick_Stankus,Sitting
+944011769,1940.0,3432.0,5.0,0,0,0,Nick_Stankus,Sitting
+944011769,3242.0,3547.0,5.0,0,0,0,Nick_Stankus,Sitting
+944011769,3487.0,3639.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011769,3630.0,3632.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011770,3675.0,3637.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011770,3657.0,3610.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011770,3650.0,3525.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011770,3508.0,3157.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011771,3483.0,3307.0,25.0,0,0,0,Nick_Stankus,Sitting
+944011773,3593.0,3039.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011774,3495.0,3401.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011774,3471.0,3548.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011774,3502.0,3538.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011774,3546.0,3480.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011775,3476.0,3564.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011775,3442.0,3586.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011775,3406.0,3555.0,5.0,0,0,0,Nick_Stankus,Sitting
+944011775,3512.0,3628.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011776,908.0,3357.0,14.0,0,0,0,Nick_Stankus,Sitting
+944011778,3408.0,2899.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011778,3523.0,3371.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011779,3581.0,3475.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011779,3562.0,3598.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011779,3598.0,3617.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011779,3635.0,3590.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011780,3673.0,3639.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011780,3658.0,3607.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011780,2360.0,2316.0,18.0,0,0,0,Nick_Stankus,Sitting
+944011780,2081.0,434.0,28.0,0,0,0,Nick_Stankus,Sitting
+944011782,2729.0,85.0,13.0,0,0,0,Nick_Stankus,Sitting
+944011782,3526.0,1950.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011783,3634.0,3330.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011783,3639.0,3413.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011783,3640.0,3407.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011783,3616.0,3367.0,14.0,0,0,0,Nick_Stankus,Sitting
+944011784,3592.0,3508.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011784,3558.0,3618.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011784,3269.0,3449.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011784,501.0,2686.0,19.0,0,0,0,Nick_Stankus,Sitting
+944011787,3022.0,3169.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011787,3119.0,3387.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011787,3088.0,3509.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011787,3361.0,3613.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011788,3333.0,3584.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011788,3425.0,3645.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011788,3453.0,3577.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011788,3494.0,3408.0,17.0,0,0,0,Nick_Stankus,Sitting
+944011789,3211.0,2686.0,27.0,0,0,0,Nick_Stankus,Sitting
+944011791,3251.0,2192.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011791,3572.0,3135.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011791,3636.0,3141.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011792,3665.0,3085.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011792,3653.0,3266.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011792,3647.0,3533.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011792,3636.0,3558.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011793,3625.0,3595.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011793,3533.0,3455.0,10.0,1,0,0,Nick_Stankus,Sitting
+944011793,3458.0,3339.0,16.0,1,0,0,Nick_Stankus,Sitting
+944011793,3176.0,3175.0,23.0,1,0,0,Nick_Stankus,Sitting
+944011794,2488.0,1840.0,28.0,0,0,0,Nick_Stankus,Sitting
+944011796,3307.0,3224.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011796,3484.0,3511.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011797,3471.0,3543.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011797,3587.0,3529.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011797,3613.0,3517.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011797,3609.0,3561.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011798,3574.0,3452.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011798,2563.0,3261.0,14.0,0,0,0,Nick_Stankus,Sitting
+944011798,2759.0,3176.0,22.0,0,0,0,Nick_Stankus,Sitting
+944011801,3309.0,2914.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011801,3624.0,3510.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011801,3624.0,3580.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011801,3619.0,3561.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011801,3392.0,3498.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011802,3682.0,3655.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011802,3688.0,3668.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011802,3584.0,3259.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011802,3596.0,2620.0,24.0,0,0,0,Nick_Stankus,Sitting
+944011805,2759.0,1659.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011806,3340.0,2614.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011806,3331.0,2733.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011806,3353.0,3065.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011806,3441.0,3414.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011807,3611.0,3581.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011807,3663.0,3632.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011807,3531.0,3476.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011807,3469.0,3357.0,21.0,0,0,0,Nick_Stankus,Sitting
+944011810,3624.0,516.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011811,3586.0,1.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011811,3598.0,242.0,11.0,0,0,0,Nick_Stankus,Sitting
+944011811,3615.0,1698.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011811,3608.0,3342.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011812,3548.0,3524.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011812,2904.0,3259.0,16.0,0,0,0,Nick_Stankus,Sitting
+944011812,1933.0,2659.0,28.0,0,0,0,Nick_Stankus,Sitting
+944011815,2886.0,1446.0,6.0,0,0,0,Nick_Stankus,Sitting
+944011815,3335.0,2473.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011815,3192.0,2312.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011815,2186.0,2483.0,9.0,0,0,0,Nick_Stankus,Sitting
+944011816,2857.0,2940.0,10.0,0,0,0,Nick_Stankus,Sitting
+944011816,3209.0,3176.0,8.0,0,0,0,Nick_Stankus,Sitting
+944011816,3468.0,3574.0,7.0,0,0,0,Nick_Stankus,Sitting
+944011816,2968.0,3309.0,12.0,0,0,0,Nick_Stankus,Sitting
+944011817,966.0,3429.0,22.0,0,0,0,Nick_Stankus,Sitting
+944011832,1321.0,1.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011832,2440.0,1.0,2.0,0,0,0,Nick_Stankus,Sitting
+944011839,648.0,108.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011848,2657.0,1.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011850,1.0,1.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011862,1.0,1.0,1.0,0,0,0,Nick_Stankus,Sitting
+944011870,1.0,1.0,4.0,0,0,0,Nick_Stankus,Sitting
+944011883,2775.0,1.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011883,2323.0,1.0,3.0,0,0,0,Nick_Stankus,Sitting
+944011885,1562.0,1.0,4.0,0,0,0,Nick_Stankus,Sitting
+944011885,1685.0,722.0,2.0,0,0,0,Nick_Stankus,Sitting
+944011888,1.0,1.0,2.0,0,0,0,Nick_Stankus,Sitting
+944011930,2769.0,1829.0,10.0,0,0,0,Nick_Stankus,Walking
+944011931,3002.0,539.0,11.0,0,0,0,Nick_Stankus,Walking
+944011931,3296.0,1350.0,13.0,0,0,0,Nick_Stankus,Walking
+944011931,3568.0,2489.0,15.0,0,0,0,Nick_Stankus,Walking
+944011932,3442.0,2664.0,15.0,0,0,0,Nick_Stankus,Walking
+944011932,3500.0,2321.0,13.0,0,0,0,Nick_Stankus,Walking
+944011932,3468.0,2681.0,12.0,0,0,0,Nick_Stankus,Walking
+944011932,3487.0,2317.0,10.0,0,0,0,Nick_Stankus,Walking
+944011933,3467.0,2501.0,11.0,0,0,0,Nick_Stankus,Walking
+944011933,3479.0,2860.0,13.0,0,0,0,Nick_Stankus,Walking
+944011933,3456.0,2901.0,13.0,0,0,0,Nick_Stankus,Walking
+944011933,3493.0,3017.0,13.0,0,0,0,Nick_Stankus,Walking
+944011934,3446.0,2490.0,13.0,0,0,0,Nick_Stankus,Walking
+944011934,3456.0,2419.0,14.0,0,0,0,Nick_Stankus,Walking
+944011934,3503.0,2793.0,13.0,0,0,0,Nick_Stankus,Walking
+944011934,3291.0,2702.0,14.0,0,0,0,Nick_Stankus,Walking
+944011935,3256.0,2680.0,15.0,0,0,0,Nick_Stankus,Walking
+944011935,3410.0,2777.0,14.0,0,0,0,Nick_Stankus,Walking
+944011935,3486.0,2743.0,12.0,0,0,0,Nick_Stankus,Walking
+944011935,3484.0,2460.0,11.0,0,0,0,Nick_Stankus,Walking
+944011936,3501.0,2448.0,9.0,0,0,0,Nick_Stankus,Walking
+944011936,3518.0,2628.0,9.0,0,0,0,Nick_Stankus,Walking
+944011936,3323.0,2782.0,10.0,0,0,0,Nick_Stankus,Walking
+944011936,3381.0,3037.0,11.0,0,0,0,Nick_Stankus,Walking
+944011937,3497.0,2861.0,11.0,0,0,0,Nick_Stankus,Walking
+944011937,3560.0,2533.0,11.0,0,0,0,Nick_Stankus,Walking
+944011937,3511.0,2293.0,11.0,0,0,0,Nick_Stankus,Walking
+944011937,3549.0,2627.0,11.0,0,0,0,Nick_Stankus,Walking
+944011938,3465.0,2786.0,11.0,0,0,0,Nick_Stankus,Walking
+944011938,3427.0,2835.0,12.0,0,0,0,Nick_Stankus,Walking
+944011938,3450.0,2963.0,13.0,0,0,0,Nick_Stankus,Walking
+944011938,3504.0,2871.0,12.0,0,0,0,Nick_Stankus,Walking
+944011939,3520.0,2869.0,11.0,0,0,0,Nick_Stankus,Walking
+944011939,3456.0,2822.0,9.0,0,0,0,Nick_Stankus,Walking
+944011939,3523.0,2923.0,8.0,0,0,0,Nick_Stankus,Walking
+944011939,3509.0,2886.0,9.0,0,0,0,Nick_Stankus,Walking
+944011940,3454.0,2903.0,10.0,0,0,0,Nick_Stankus,Walking
+944011940,3498.0,2927.0,10.0,0,0,0,Nick_Stankus,Walking
+944011940,3569.0,2630.0,9.0,0,0,0,Nick_Stankus,Walking
+944011940,3514.0,2101.0,9.0,0,0,0,Nick_Stankus,Walking
+944011941,3541.0,2499.0,9.0,0,0,0,Nick_Stankus,Walking
+944011941,3584.0,2854.0,9.0,0,0,0,Nick_Stankus,Walking
+944011941,3482.0,2961.0,11.0,0,0,0,Nick_Stankus,Walking
+944011941,3481.0,3053.0,13.0,0,0,0,Nick_Stankus,Walking
+944011942,3518.0,3129.0,13.0,0,0,0,Nick_Stankus,Walking
+944011942,3509.0,2907.0,13.0,0,0,0,Nick_Stankus,Walking
+944011942,3477.0,2989.0,11.0,0,0,0,Nick_Stankus,Walking
+944011942,3499.0,2934.0,10.0,0,0,0,Nick_Stankus,Walking
+944011943,3520.0,3042.0,9.0,0,0,0,Nick_Stankus,Walking
+944011943,3442.0,2932.0,11.0,0,0,0,Nick_Stankus,Walking
+944011943,3443.0,2880.0,13.0,0,0,0,Nick_Stankus,Walking
+944011943,3489.0,2909.0,13.0,0,0,0,Nick_Stankus,Walking
+944011944,3491.0,2715.0,12.0,0,0,0,Nick_Stankus,Walking
+944011944,3508.0,2404.0,11.0,0,0,0,Nick_Stankus,Walking
+944011944,3533.0,2696.0,11.0,0,0,0,Nick_Stankus,Walking
+944011944,3619.0,2842.0,9.0,0,0,0,Nick_Stankus,Walking
+944011945,3594.0,2761.0,11.0,0,0,0,Nick_Stankus,Walking
+944011945,3580.0,2801.0,13.0,0,0,0,Nick_Stankus,Walking
+944011945,3613.0,2840.0,13.0,0,0,0,Nick_Stankus,Walking
+944011945,3593.0,2812.0,12.0,0,0,0,Nick_Stankus,Walking
+944011945,3547.0,2648.0,11.0,1,0,0,Nick_Stankus,Walking
+944011946,3554.0,2847.0,10.0,1,0,0,Nick_Stankus,Walking
+944011946,3570.0,2812.0,9.0,1,0,0,Nick_Stankus,Walking
+944011946,3448.0,2664.0,11.0,1,0,0,Nick_Stankus,Walking
+944011947,3213.0,2456.0,12.0,1,0,0,Nick_Stankus,Walking
+944011947,2742.0,2113.0,12.0,0,0,0,Nick_Stankus,Walking
+944011947,2715.0,2422.0,11.0,0,0,0,Nick_Stankus,Walking
+944011947,3036.0,2712.0,11.0,0,0,0,Nick_Stankus,Walking
+944011948,2583.0,2452.0,13.0,0,0,0,Nick_Stankus,Walking
+944011948,2970.0,2495.0,14.0,0,0,0,Nick_Stankus,Walking
+944011948,3315.0,2733.0,13.0,0,0,0,Nick_Stankus,Walking
+944011948,3389.0,2663.0,12.0,0,0,0,Nick_Stankus,Walking
+944011949,3508.0,2645.0,11.0,0,0,0,Nick_Stankus,Walking
+944011949,3511.0,2888.0,11.0,0,0,0,Nick_Stankus,Walking
+944011949,3495.0,3079.0,10.0,0,0,0,Nick_Stankus,Walking
+944011949,3503.0,2958.0,12.0,0,0,0,Nick_Stankus,Walking
+944011950,3519.0,2937.0,13.0,0,0,0,Nick_Stankus,Walking
+944011950,3567.0,2879.0,12.0,0,0,0,Nick_Stankus,Walking
+944011950,3566.0,2820.0,12.0,0,0,0,Nick_Stankus,Walking
+944011950,3553.0,2929.0,11.0,0,0,0,Nick_Stankus,Walking
+944011951,3554.0,3030.0,10.0,0,0,0,Nick_Stankus,Walking
+944011951,3580.0,3008.0,8.0,0,0,0,Nick_Stankus,Walking
+944011951,3560.0,2810.0,9.0,0,0,0,Nick_Stankus,Walking
+944011951,3544.0,2582.0,10.0,0,0,0,Nick_Stankus,Walking
+944011951,3612.0,2643.0,10.0,0,0,0,Nick_Stankus,Walking
+944011952,3606.0,2194.0,11.0,0,0,0,Nick_Stankus,Walking
+944011952,3600.0,2309.0,11.0,0,0,0,Nick_Stankus,Walking
+944011952,3594.0,2738.0,10.0,0,0,0,Nick_Stankus,Walking
+944011952,3629.0,2965.0,9.0,1,0,0,Nick_Stankus,Walking
+944011953,3558.0,2928.0,10.0,1,0,0,Nick_Stankus,Walking
+944011953,3481.0,3032.0,11.0,1,0,0,Nick_Stankus,Walking
+944011953,3307.0,3062.0,12.0,1,0,0,Nick_Stankus,Walking
+944011953,1964.0,196.0,14.0,0,0,0,Nick_Stankus,Walking
+944011954,2469.0,1429.0,13.0,0,0,0,Nick_Stankus,Walking
+944011954,2698.0,1786.0,12.0,0,0,0,Nick_Stankus,Walking
+944011954,2454.0,2025.0,14.0,0,0,0,Nick_Stankus,Walking
+944011955,2968.0,2693.0,14.0,0,0,0,Nick_Stankus,Walking
+944011955,3272.0,3197.0,13.0,0,0,0,Nick_Stankus,Walking
+944011955,3072.0,3185.0,12.0,0,0,0,Nick_Stankus,Walking
+944011955,3047.0,3336.0,11.0,0,0,0,Nick_Stankus,Walking
+944011956,3255.0,3369.0,11.0,0,0,0,Nick_Stankus,Walking
+944011956,3280.0,3364.0,11.0,0,0,0,Nick_Stankus,Walking
+944011956,3133.0,3379.0,12.0,0,0,0,Nick_Stankus,Walking
+944011956,3270.0,3278.0,11.0,0,0,0,Nick_Stankus,Walking
+944011957,3305.0,3223.0,10.0,0,0,0,Nick_Stankus,Walking
+944011957,3171.0,3208.0,10.0,0,0,0,Nick_Stankus,Walking
+944011957,3143.0,3231.0,11.0,0,0,0,Nick_Stankus,Walking
+944011957,3265.0,3424.0,10.0,0,0,0,Nick_Stankus,Walking
+944011958,3319.0,3381.0,8.0,0,0,0,Nick_Stankus,Walking
+944011958,3143.0,3467.0,10.0,0,0,0,Nick_Stankus,Walking
+944011958,3314.0,3408.0,11.0,0,0,0,Nick_Stankus,Walking
+944011958,3375.0,3100.0,10.0,0,0,0,Nick_Stankus,Walking
+944011959,3163.0,2546.0,9.0,0,0,0,Nick_Stankus,Walking
+944011959,3150.0,2337.0,7.0,0,0,0,Nick_Stankus,Walking
+944011959,3415.0,2653.0,6.0,0,0,0,Nick_Stankus,Walking
+944011959,3308.0,2594.0,7.0,0,0,0,Nick_Stankus,Walking
+944011960,3204.0,2572.0,9.0,0,0,0,Nick_Stankus,Walking
+944011960,3366.0,2598.0,10.0,0,0,0,Nick_Stankus,Walking
+944011960,3417.0,2318.0,10.0,0,0,0,Nick_Stankus,Walking
+944011960,3372.0,2557.0,10.0,0,0,0,Nick_Stankus,Walking
+944011961,3392.0,2880.0,9.0,0,0,0,Nick_Stankus,Walking
+944011961,3449.0,3060.0,8.0,0,0,0,Nick_Stankus,Walking
+944011961,3492.0,3097.0,8.0,0,0,0,Nick_Stankus,Walking
+944011961,3546.0,3082.0,9.0,0,0,0,Nick_Stankus,Walking
+944011962,3591.0,3123.0,11.0,0,0,0,Nick_Stankus,Walking
+944011962,3621.0,3086.0,12.0,0,0,0,Nick_Stankus,Walking
+944011962,3613.0,3042.0,13.0,0,0,0,Nick_Stankus,Walking
+944011962,3629.0,3158.0,15.0,0,0,0,Nick_Stankus,Walking
+944011963,3608.0,3213.0,16.0,0,0,0,Nick_Stankus,Walking
+944011963,3583.0,3255.0,18.0,0,0,0,Nick_Stankus,Walking
+944011963,3606.0,3282.0,20.0,0,0,0,Nick_Stankus,Walking
+944011963,3612.0,3291.0,22.0,0,0,0,Nick_Stankus,Walking
+944011964,3624.0,3248.0,21.0,0,0,0,Nick_Stankus,Walking
+944011964,3589.0,3165.0,23.0,0,0,0,Nick_Stankus,Walking
+944011964,3567.0,3217.0,23.0,0,0,0,Nick_Stankus,Walking
+944011964,3515.0,3285.0,22.0,0,0,0,Nick_Stankus,Walking
+944011964,3513.0,3123.0,21.0,0,0,0,Nick_Stankus,Walking
+944011965,3531.0,3200.0,22.0,0,0,1,Nick_Stankus,Walking
+944011965,3547.0,3181.0,22.0,1,0,1,Nick_Stankus,Walking
+944011965,3597.0,3108.0,22.0,1,0,1,Nick_Stankus,Walking
+944011965,3076.0,2623.0,22.0,1,0,1,Nick_Stankus,Walking
+944011966,2935.0,2905.0,19.0,1,0,1,Nick_Stankus,Walking
+944011966,3370.0,3016.0,16.0,0,0,1,Nick_Stankus,Walking
+944011966,3159.0,2927.0,13.0,0,0,1,Nick_Stankus,Walking
+944011966,3356.0,2746.0,11.0,0,0,0,Nick_Stankus,Walking
+944011967,3371.0,2664.0,10.0,0,0,0,Nick_Stankus,Walking
+944011967,3187.0,2056.0,8.0,0,0,0,Nick_Stankus,Walking
+944011967,3247.0,2209.0,7.0,0,0,0,Nick_Stankus,Walking
+944011967,3357.0,2882.0,6.0,0,0,0,Nick_Stankus,Walking
+944011968,3340.0,3033.0,5.0,0,0,0,Nick_Stankus,Walking
+944011968,3392.0,2914.0,6.0,0,0,0,Nick_Stankus,Walking
+944011968,3409.0,2703.0,7.0,0,0,0,Nick_Stankus,Walking
+944011968,3481.0,2714.0,10.0,0,0,0,Nick_Stankus,Walking
+944011969,3399.0,2629.0,11.0,0,0,0,Nick_Stankus,Walking
+944011969,3406.0,2879.0,11.0,0,0,0,Nick_Stankus,Walking
+944011969,3412.0,2997.0,11.0,0,0,0,Nick_Stankus,Walking
+944011969,3247.0,3103.0,11.0,0,0,0,Nick_Stankus,Walking
+944011970,3203.0,3213.0,13.0,0,0,0,Nick_Stankus,Walking
+944011970,3353.0,3238.0,13.0,0,0,0,Nick_Stankus,Walking
+944011970,3391.0,2944.0,12.0,0,0,0,Nick_Stankus,Walking
+944011970,3348.0,2868.0,12.0,0,0,0,Nick_Stankus,Walking
+944011971,3409.0,2978.0,12.0,0,0,0,Nick_Stankus,Walking
+944011971,3489.0,3102.0,11.0,0,0,0,Nick_Stankus,Walking
+944011971,3515.0,3113.0,13.0,0,0,0,Nick_Stankus,Walking
+944011971,3534.0,3079.0,14.0,0,0,0,Nick_Stankus,Walking
+944011972,3535.0,2901.0,14.0,0,0,0,Nick_Stankus,Walking
+944011972,3466.0,2360.0,14.0,0,0,0,Nick_Stankus,Walking
+944011972,3392.0,2732.0,13.0,0,0,0,Nick_Stankus,Walking
+944011972,3445.0,2864.0,12.0,0,0,0,Nick_Stankus,Walking
+944011973,3382.0,2720.0,10.0,0,0,0,Nick_Stankus,Walking
+944011973,3321.0,2854.0,12.0,0,0,0,Nick_Stankus,Walking
+944011973,3363.0,3158.0,12.0,0,0,0,Nick_Stankus,Walking
+944011973,3361.0,3196.0,12.0,0,0,0,Nick_Stankus,Walking
+944011974,3427.0,2908.0,13.0,0,0,0,Nick_Stankus,Walking
+944011974,3494.0,3078.0,13.0,0,0,0,Nick_Stankus,Walking
+944011974,3246.0,2825.0,11.0,0,0,0,Nick_Stankus,Walking
+944011974,3287.0,1439.0,11.0,0,0,0,Nick_Stankus,Walking
+944011975,2352.0,1.0,8.0,0,0,0,Nick_Stankus,Walking
+944011975,2421.0,649.0,7.0,0,0,0,Nick_Stankus,Walking
+944011975,1574.0,203.0,9.0,0,0,0,Nick_Stankus,Walking
+944011975,2889.0,1947.0,10.0,0,0,0,Nick_Stankus,Walking
+944011976,3389.0,2415.0,11.0,0,0,0,Nick_Stankus,Walking
+944011976,3500.0,2305.0,11.0,0,0,0,Nick_Stankus,Walking
+944011976,3544.0,2343.0,11.0,0,0,0,Nick_Stankus,Walking
+944011976,3582.0,2500.0,10.0,0,0,0,Nick_Stankus,Walking
+944011977,3472.0,2768.0,10.0,0,0,0,Nick_Stankus,Walking
+944011977,3495.0,2906.0,12.0,0,0,0,Nick_Stankus,Walking
+944011977,3531.0,3167.0,12.0,0,0,0,Nick_Stankus,Walking
+944011977,3538.0,2990.0,11.0,0,0,0,Nick_Stankus,Walking
+944011977,3535.0,2893.0,12.0,0,0,0,Nick_Stankus,Walking
+944011978,3519.0,3283.0,12.0,0,0,0,Nick_Stankus,Walking
+944011978,3488.0,3204.0,10.0,0,0,0,Nick_Stankus,Walking
+944011978,3520.0,2804.0,11.0,0,0,0,Nick_Stankus,Walking
+944011978,3574.0,2817.0,12.0,0,0,0,Nick_Stankus,Walking
+944011979,3533.0,2846.0,12.0,0,0,0,Nick_Stankus,Walking
+944011979,3564.0,2291.0,12.0,0,0,0,Nick_Stankus,Walking
+944011979,3557.0,2629.0,12.0,0,0,0,Nick_Stankus,Walking
+944011979,3581.0,2879.0,11.0,0,0,0,Nick_Stankus,Walking
+944011980,3607.0,2794.0,9.0,0,0,0,Nick_Stankus,Walking
+944011980,2040.0,709.0,6.0,0,0,0,Nick_Stankus,Walking
+944011980,2611.0,58.0,6.0,0,0,0,Nick_Stankus,Walking
+944011980,2625.0,55.0,7.0,0,0,0,Nick_Stankus,Walking
+944011985,2859.0,2893.0,9.0,0,0,0,Nick_Stankus,Walking
+944011985,3446.0,3196.0,9.0,0,0,0,Nick_Stankus,Walking
+944011985,3581.0,2974.0,8.0,0,0,0,Nick_Stankus,Walking
+944011986,3569.0,2532.0,7.0,0,0,0,Nick_Stankus,Walking
+944011986,3362.0,2399.0,5.0,0,0,0,Nick_Stankus,Walking
+944011986,3080.0,2690.0,7.0,0,0,0,Nick_Stankus,Walking
+944011986,3441.0,3116.0,9.0,0,0,0,Nick_Stankus,Walking
+944011987,3560.0,3089.0,10.0,0,0,0,Nick_Stankus,Walking
+944011987,3624.0,3006.0,11.0,0,0,0,Nick_Stankus,Walking
+944011987,3592.0,2614.0,12.0,0,0,0,Nick_Stankus,Walking
+944011987,3608.0,2738.0,13.0,0,0,0,Nick_Stankus,Walking
+944011988,3630.0,2801.0,12.0,0,0,0,Nick_Stankus,Walking
+944011988,3624.0,2785.0,14.0,0,0,0,Nick_Stankus,Walking
+944011988,3626.0,3011.0,16.0,0,0,0,Nick_Stankus,Walking
+944011988,3615.0,3186.0,16.0,1,0,0,Nick_Stankus,Walking
+944011989,3604.0,3193.0,15.0,1,0,0,Nick_Stankus,Walking
+944011989,3632.0,3187.0,13.0,1,0,0,Nick_Stankus,Walking
+944011989,3609.0,3099.0,12.0,1,0,0,Nick_Stankus,Walking
+944011989,3316.0,3137.0,10.0,1,0,0,Nick_Stankus,Walking
+944011990,473.0,2517.0,11.0,1,0,0,Nick_Stankus,Walking
+944011990,1.0,1619.0,12.0,0,0,0,Nick_Stankus,Walking
+944011990,2074.0,1756.0,12.0,0,0,0,Nick_Stankus,Walking
+944011990,2668.0,1423.0,11.0,0,0,0,Nick_Stankus,Walking
+944011991,2843.0,1108.0,10.0,0,0,0,Nick_Stankus,Walking
+944011991,3211.0,1827.0,9.0,0,0,0,Nick_Stankus,Walking
+944011991,3489.0,892.0,8.0,0,0,0,Nick_Stankus,Walking
+944011991,3477.0,1724.0,10.0,0,0,0,Nick_Stankus,Walking
+944011991,3522.0,2482.0,11.0,0,0,0,Nick_Stankus,Walking
+944011992,3567.0,2531.0,11.0,0,0,0,Nick_Stankus,Walking
+944011992,3575.0,2496.0,12.0,0,0,0,Nick_Stankus,Walking
+944011992,3568.0,2686.0,11.0,0,0,0,Nick_Stankus,Walking
+944011992,3597.0,2811.0,9.0,0,0,0,Nick_Stankus,Walking
+944011993,3550.0,2758.0,10.0,0,0,0,Nick_Stankus,Walking
+944011993,3541.0,2841.0,11.0,0,0,0,Nick_Stankus,Walking
+944011993,3566.0,2644.0,11.0,0,0,0,Nick_Stankus,Walking
+944011993,3471.0,1360.0,9.0,0,0,0,Nick_Stankus,Walking
+944011994,3503.0,581.0,9.0,0,0,0,Nick_Stankus,Walking
+944011994,3576.0,1949.0,8.0,0,0,0,Nick_Stankus,Walking
+944011994,3613.0,2591.0,7.0,0,0,0,Nick_Stankus,Walking
+944011994,3616.0,2976.0,8.0,0,0,0,Nick_Stankus,Walking
+944011995,3590.0,3050.0,10.0,0,0,0,Nick_Stankus,Walking
+944011995,3601.0,3051.0,10.0,0,0,0,Nick_Stankus,Walking
+944011995,3621.0,2883.0,10.0,0,0,0,Nick_Stankus,Walking
+944011995,3641.0,2551.0,9.0,1,0,0,Nick_Stankus,Walking
+944011996,3652.0,2307.0,10.0,1,0,0,Nick_Stankus,Walking
+944011996,3662.0,2708.0,10.0,1,0,0,Nick_Stankus,Walking
+944011996,3432.0,2712.0,12.0,1,0,0,Nick_Stankus,Walking
+944011996,2600.0,193.0,14.0,1,0,0,Nick_Stankus,Walking
+944011997,2806.0,1.0,12.0,0,0,0,Nick_Stankus,Walking
+944011997,3080.0,1.0,10.0,0,0,0,Nick_Stankus,Walking
+944011997,3069.0,393.0,8.0,0,0,0,Nick_Stankus,Walking
+944011998,3254.0,2010.0,7.0,0,0,0,Nick_Stankus,Walking
+944011998,2977.0,3019.0,7.0,0,0,0,Nick_Stankus,Walking
+944011998,2498.0,2750.0,7.0,0,0,0,Nick_Stankus,Walking
+944011998,2785.0,2255.0,8.0,0,0,0,Nick_Stankus,Walking
+944011999,3095.0,1992.0,9.0,0,0,0,Nick_Stankus,Walking
+944011999,3021.0,1978.0,9.0,0,0,0,Nick_Stankus,Walking
+944011999,3209.0,2454.0,8.0,0,0,0,Nick_Stankus,Walking
+944011999,3304.0,2837.0,8.0,0,0,0,Nick_Stankus,Walking
+944012000,3250.0,3200.0,9.0,0,0,0,Nick_Stankus,Walking
+944012000,3292.0,3227.0,10.0,0,0,0,Nick_Stankus,Walking
+944012000,3351.0,2967.0,10.0,0,0,0,Nick_Stankus,Walking
+944012000,3265.0,3066.0,10.0,0,0,0,Nick_Stankus,Walking
+944012001,3224.0,3035.0,10.0,0,0,0,Nick_Stankus,Walking
+944012001,3267.0,3192.0,9.0,0,0,0,Nick_Stankus,Walking
+944012001,3335.0,3167.0,8.0,0,0,0,Nick_Stankus,Walking
+944012001,3362.0,3243.0,8.0,0,0,0,Nick_Stankus,Walking
+944012002,3140.0,3244.0,8.0,0,0,0,Nick_Stankus,Walking
+944012002,3218.0,3316.0,9.0,0,0,0,Nick_Stankus,Walking
+944012002,3318.0,3399.0,10.0,0,0,0,Nick_Stankus,Walking
+944012002,3303.0,3325.0,10.0,0,0,0,Nick_Stankus,Walking
+944012003,3306.0,3399.0,10.0,0,0,0,Nick_Stankus,Walking
+944012003,3272.0,3423.0,9.0,0,0,0,Nick_Stankus,Walking
+944012003,3074.0,3383.0,9.0,0,0,0,Nick_Stankus,Walking
+944012003,3093.0,3477.0,9.0,0,0,0,Nick_Stankus,Walking
+944012004,3224.0,3501.0,9.0,0,0,0,Nick_Stankus,Walking
+944012004,3275.0,3557.0,11.0,0,0,0,Nick_Stankus,Walking
+944012004,3365.0,3558.0,12.0,0,0,0,Nick_Stankus,Walking
+944012004,3385.0,3517.0,11.0,0,0,0,Nick_Stankus,Walking
+944012004,3434.0,3583.0,10.0,0,0,0,Nick_Stankus,Walking
+944012005,3388.0,3599.0,9.0,0,0,0,Nick_Stankus,Walking
+944012005,3105.0,3584.0,8.0,0,0,0,Nick_Stankus,Walking
+944012005,3137.0,3625.0,9.0,0,1,0,Nick_Stankus,Walking
+944012005,3408.0,3659.0,11.0,0,1,0,Nick_Stankus,Walking
+944012006,2896.0,3348.0,13.0,0,1,0,Nick_Stankus,Walking
+944012006,2014.0,936.0,13.0,0,1,0,Nick_Stankus,Walking
+944012007,2892.0,311.0,11.0,0,0,0,Nick_Stankus,Walking
+944012007,3287.0,1907.0,12.0,0,0,0,Nick_Stankus,Walking
+944012007,3457.0,2027.0,13.0,0,0,0,Nick_Stankus,Walking
+944012008,3466.0,2521.0,15.0,0,0,0,Nick_Stankus,Walking
+944012008,3518.0,2720.0,16.0,0,0,0,Nick_Stankus,Walking
+944012008,3515.0,2723.0,18.0,0,0,0,Nick_Stankus,Walking
+944012008,3439.0,2525.0,20.0,0,0,0,Nick_Stankus,Walking
+944012009,3475.0,2674.0,21.0,0,0,0,Nick_Stankus,Walking
+944012009,3525.0,2638.0,21.0,0,0,0,Nick_Stankus,Walking
+944012009,3430.0,2099.0,21.0,0,0,0,Nick_Stankus,Walking
+944012009,3460.0,2191.0,21.0,0,0,0,Nick_Stankus,Walking
+944012009,3475.0,2588.0,20.0,0,0,0,Nick_Stankus,Walking
+944012010,3454.0,2774.0,20.0,0,0,0,Nick_Stankus,Walking
+944012010,3471.0,2732.0,20.0,0,0,1,Nick_Stankus,Walking
+944012010,3491.0,2705.0,20.0,0,0,1,Nick_Stankus,Walking
+944012010,3508.0,2269.0,22.0,0,0,1,Nick_Stankus,Walking
+944012011,3419.0,1592.0,20.0,0,0,1,Nick_Stankus,Walking
+944012011,3447.0,1864.0,17.0,0,0,1,Nick_Stankus,Walking
+944012011,3529.0,1980.0,14.0,0,0,1,Nick_Stankus,Walking
+944012011,3393.0,1436.0,12.0,0,0,0,Nick_Stankus,Walking
+944012012,3352.0,790.0,13.0,0,0,0,Nick_Stankus,Walking
+944012012,3373.0,1475.0,13.0,0,0,0,Nick_Stankus,Walking
+944012012,3417.0,1231.0,11.0,0,0,0,Nick_Stankus,Walking
+944012013,3410.0,658.0,11.0,0,0,0,Nick_Stankus,Walking
+944012013,3188.0,2021.0,12.0,0,0,0,Nick_Stankus,Walking
+944012013,3300.0,2364.0,12.0,0,0,0,Nick_Stankus,Walking
+944012014,3498.0,1613.0,12.0,0,0,0,Nick_Stankus,Walking
+944012014,3502.0,450.0,10.0,0,0,0,Nick_Stankus,Walking
+944012014,3403.0,156.0,8.0,0,0,0,Nick_Stankus,Walking
+944012014,3439.0,482.0,7.0,0,0,0,Nick_Stankus,Walking
+944012015,3331.0,1073.0,8.0,0,0,0,Nick_Stankus,Walking
+944012015,3369.0,1269.0,8.0,0,0,0,Nick_Stankus,Walking
+944012015,3452.0,1324.0,9.0,0,0,0,Nick_Stankus,Walking
+944012015,3508.0,1673.0,10.0,0,0,0,Nick_Stankus,Walking
+944012016,3544.0,1613.0,10.0,0,0,0,Nick_Stankus,Walking
+944012016,3553.0,1735.0,10.0,0,0,0,Nick_Stankus,Walking
+944012016,3562.0,1832.0,9.0,0,0,0,Nick_Stankus,Walking
+944012016,3575.0,2159.0,11.0,0,0,0,Nick_Stankus,Walking
+944012017,3570.0,2462.0,13.0,0,0,0,Nick_Stankus,Walking
+944012017,3592.0,2286.0,14.0,0,0,0,Nick_Stankus,Walking
+944012017,3640.0,2536.0,13.0,0,0,0,Nick_Stankus,Walking
+944012017,3677.0,2401.0,13.0,0,0,0,Nick_Stankus,Walking
+944012018,3607.0,2342.0,13.0,0,0,0,Nick_Stankus,Walking
+944012018,3623.0,2574.0,12.0,0,0,0,Nick_Stankus,Walking
+944012018,3597.0,2419.0,12.0,0,0,0,Nick_Stankus,Walking
+944012018,3627.0,2388.0,13.0,0,0,0,Nick_Stankus,Walking
+944012019,3625.0,1981.0,12.0,0,0,0,Nick_Stankus,Walking
+944012019,3641.0,1245.0,11.0,0,0,0,Nick_Stankus,Walking
+944012019,3571.0,392.0,10.0,1,0,0,Nick_Stankus,Walking
+944012019,3577.0,431.0,9.0,1,0,0,Nick_Stankus,Walking
+944012020,3563.0,937.0,9.0,1,0,0,Nick_Stankus,Walking
+944012020,3200.0,1038.0,8.0,1,0,0,Nick_Stankus,Walking
+944012020,2198.0,481.0,11.0,1,0,0,Nick_Stankus,Walking
+944012020,3028.0,1280.0,12.0,0,0,0,Nick_Stankus,Walking
+944012020,3256.0,283.0,11.0,0,0,0,Nick_Stankus,Walking
+944012021,3073.0,1.0,11.0,0,0,0,Nick_Stankus,Walking
+944012021,3374.0,256.0,10.0,0,0,0,Nick_Stankus,Walking
+944012021,3245.0,2054.0,11.0,0,0,0,Nick_Stankus,Walking
+944012022,3253.0,2973.0,12.0,0,0,0,Nick_Stankus,Walking
+944012022,3398.0,3000.0,12.0,0,0,0,Nick_Stankus,Walking
+944012022,3366.0,2733.0,11.0,0,0,0,Nick_Stankus,Walking
+944012022,3384.0,3013.0,9.0,0,0,0,Nick_Stankus,Walking
+944012023,3459.0,2959.0,8.0,0,0,0,Nick_Stankus,Walking
+944012023,3470.0,3206.0,9.0,0,0,0,Nick_Stankus,Walking
+944012023,3400.0,3274.0,9.0,0,0,0,Nick_Stankus,Walking
+944012023,3372.0,3316.0,9.0,0,0,0,Nick_Stankus,Walking
+944012024,3334.0,2647.0,8.0,0,0,0,Nick_Stankus,Walking
+944012024,3137.0,1.0,8.0,0,0,0,Nick_Stankus,Walking
+944012024,3337.0,165.0,8.0,0,0,0,Nick_Stankus,Walking
+944012024,3446.0,2232.0,7.0,0,0,0,Nick_Stankus,Walking
+944012025,3349.0,2276.0,9.0,0,0,0,Nick_Stankus,Walking
+944012025,3367.0,2728.0,9.0,0,0,0,Nick_Stankus,Walking
+944012025,3422.0,2780.0,9.0,0,0,0,Nick_Stankus,Walking
+944012025,3417.0,1964.0,9.0,0,0,0,Nick_Stankus,Walking
+944012026,3399.0,2389.0,9.0,0,0,0,Nick_Stankus,Walking
+944012026,3429.0,2105.0,7.0,0,0,0,Nick_Stankus,Walking
+944012026,3445.0,2531.0,8.0,0,0,0,Nick_Stankus,Walking
+944012026,3344.0,2765.0,9.0,0,0,0,Nick_Stankus,Walking
+944012027,3344.0,2801.0,10.0,0,0,0,Nick_Stankus,Walking
+944012027,3384.0,2886.0,10.0,0,0,0,Nick_Stankus,Walking
+944012027,3376.0,2816.0,11.0,0,0,0,Nick_Stankus,Walking
+944012027,3452.0,2960.0,11.0,0,0,0,Nick_Stankus,Walking
+944012028,3487.0,2976.0,11.0,0,0,0,Nick_Stankus,Walking
+944012028,3537.0,3016.0,11.0,0,0,0,Nick_Stankus,Walking
+944012028,3495.0,3014.0,13.0,0,0,0,Nick_Stankus,Walking
+944012028,3414.0,3061.0,13.0,0,0,0,Nick_Stankus,Walking
+944012029,3452.0,2340.0,13.0,0,0,0,Nick_Stankus,Walking
+944012029,3499.0,1188.0,14.0,0,0,0,Nick_Stankus,Walking
+944012029,3474.0,351.0,13.0,0,0,0,Nick_Stankus,Walking
+944012029,3485.0,561.0,13.0,0,0,0,Nick_Stankus,Walking
+944012030,3550.0,1370.0,11.0,0,0,0,Nick_Stankus,Walking
+944012030,3560.0,2177.0,10.0,0,0,0,Nick_Stankus,Walking
+944012030,3530.0,1564.0,10.0,0,0,0,Nick_Stankus,Walking
+944012030,3545.0,1128.0,9.0,0,0,0,Nick_Stankus,Walking
+944012031,3572.0,1326.0,9.0,0,0,0,Nick_Stankus,Walking
+944012031,3627.0,1788.0,10.0,0,0,0,Nick_Stankus,Walking
+944012031,3657.0,1693.0,10.0,0,0,0,Nick_Stankus,Walking
+944012031,3648.0,1240.0,9.0,0,0,0,Nick_Stankus,Walking
+944012031,3659.0,1194.0,9.0,0,0,0,Nick_Stankus,Walking
+944012032,3653.0,1879.0,8.0,0,0,0,Nick_Stankus,Walking
+944012032,3598.0,2940.0,10.0,0,0,0,Nick_Stankus,Walking
+944012032,3593.0,3193.0,11.0,0,0,0,Nick_Stankus,Walking
+944012032,3620.0,3147.0,12.0,0,0,0,Nick_Stankus,Walking
+944012033,3609.0,3021.0,12.0,0,0,0,Nick_Stankus,Walking
+944012033,3562.0,3147.0,12.0,0,0,0,Nick_Stankus,Walking
+944012033,3543.0,3153.0,12.0,1,0,0,Nick_Stankus,Walking
+944012033,3543.0,3164.0,11.0,1,0,0,Nick_Stankus,Walking
+944012034,3470.0,3171.0,12.0,1,0,0,Nick_Stankus,Walking
+944012034,3040.0,2888.0,14.0,1,0,0,Nick_Stankus,Walking
+944012034,2759.0,1785.0,16.0,0,0,0,Nick_Stankus,Walking
+944012034,3136.0,1263.0,15.0,0,0,0,Nick_Stankus,Walking
+944012035,3179.0,153.0,14.0,0,0,0,Nick_Stankus,Walking
+944012035,3128.0,82.0,13.0,0,0,0,Nick_Stankus,Walking
+944012035,3254.0,1132.0,14.0,0,0,0,Nick_Stankus,Walking
+944012035,3147.0,1667.0,15.0,0,0,0,Nick_Stankus,Walking
+944012036,3209.0,1815.0,18.0,0,0,0,Nick_Stankus,Walking
+944012036,3360.0,2052.0,19.0,0,0,0,Nick_Stankus,Walking
+944012036,3450.0,2124.0,21.0,0,0,0,Nick_Stankus,Walking
+944012036,3400.0,1307.0,21.0,0,0,0,Nick_Stankus,Walking
+944012037,3425.0,1730.0,21.0,0,0,0,Nick_Stankus,Walking
+944012037,3431.0,2273.0,21.0,0,0,0,Nick_Stankus,Walking
+944012037,3421.0,2405.0,20.0,0,0,0,Nick_Stankus,Walking
+944012037,3363.0,2478.0,22.0,0,0,0,Nick_Stankus,Walking
+944012038,3414.0,2655.0,22.0,0,0,1,Nick_Stankus,Walking
+944012038,3474.0,2605.0,21.0,0,0,1,Nick_Stankus,Walking
+944012038,3398.0,1719.0,21.0,0,0,1,Nick_Stankus,Walking
+944012038,3472.0,2150.0,21.0,0,0,1,Nick_Stankus,Walking
+944012039,3420.0,1994.0,21.0,0,0,1,Nick_Stankus,Walking
+944012039,3325.0,1890.0,21.0,0,0,1,Nick_Stankus,Walking
+944012039,3291.0,1145.0,20.0,0,0,1,Nick_Stankus,Walking
+944012040,3271.0,103.0,18.0,0,0,1,Nick_Stankus,Walking
+944012040,3382.0,849.0,13.0,0,0,0,Nick_Stankus,Walking
+944012041,3299.0,74.0,14.0,0,0,0,Nick_Stankus,Walking
+944012041,3107.0,1.0,14.0,0,0,0,Nick_Stankus,Walking
+944012042,3217.0,448.0,11.0,0,0,0,Nick_Stankus,Walking
+944012042,3234.0,487.0,12.0,0,0,0,Nick_Stankus,Walking
+944012042,2930.0,1485.0,13.0,0,0,0,Nick_Stankus,Walking
+944012043,3152.0,2092.0,14.0,0,0,0,Nick_Stankus,Walking
+944012043,3313.0,1478.0,14.0,0,0,0,Nick_Stankus,Walking
+944012043,3273.0,816.0,13.0,0,0,0,Nick_Stankus,Walking
+944012043,3306.0,847.0,12.0,0,0,0,Nick_Stankus,Walking
+944012044,3322.0,1392.0,12.0,0,0,0,Nick_Stankus,Walking
+944012044,3137.0,2085.0,12.0,0,0,0,Nick_Stankus,Walking
+944012044,2962.0,2287.0,12.0,0,0,0,Nick_Stankus,Walking
+944012044,3307.0,1323.0,12.0,0,0,0,Nick_Stankus,Walking
+944012045,3419.0,1.0,10.0,0,0,0,Nick_Stankus,Walking
+944012045,3509.0,204.0,9.0,0,0,0,Nick_Stankus,Walking
+944012046,3528.0,311.0,10.0,0,0,0,Nick_Stankus,Walking
+944012046,3539.0,217.0,10.0,0,0,0,Nick_Stankus,Walking
+944012046,3560.0,226.0,10.0,0,0,0,Nick_Stankus,Walking
+944012046,3570.0,11.0,10.0,0,0,0,Nick_Stankus,Walking
+944012047,3602.0,271.0,11.0,0,0,0,Nick_Stankus,Walking
+944012047,3626.0,1053.0,10.0,0,0,0,Nick_Stankus,Walking
+944012047,3639.0,1479.0,9.0,0,0,0,Nick_Stankus,Walking
+944012047,3612.0,1434.0,11.0,0,0,0,Nick_Stankus,Walking
+944012047,3638.0,1594.0,12.0,0,0,0,Nick_Stankus,Walking
+944012048,3657.0,1761.0,12.0,0,0,0,Nick_Stankus,Walking
+944012048,3623.0,1411.0,12.0,0,0,0,Nick_Stankus,Walking
+944012048,3619.0,1852.0,11.0,0,0,0,Nick_Stankus,Walking
+944012048,3604.0,1781.0,10.0,0,0,0,Nick_Stankus,Walking
+944012049,3634.0,1527.0,9.0,0,0,0,Nick_Stankus,Walking
+944012049,3620.0,1196.0,9.0,1,0,0,Nick_Stankus,Walking
+944012049,3629.0,868.0,9.0,1,0,0,Nick_Stankus,Walking
+944012049,3636.0,658.0,9.0,1,0,0,Nick_Stankus,Walking
+944012050,3558.0,247.0,10.0,1,0,0,Nick_Stankus,Walking
+944012050,3460.0,1033.0,9.0,1,0,0,Nick_Stankus,Walking
+944012050,3367.0,1193.0,10.0,1,0,0,Nick_Stankus,Walking
+944012050,3258.0,1398.0,10.0,0,0,0,Nick_Stankus,Walking
+944012051,3139.0,1725.0,11.0,0,0,0,Nick_Stankus,Walking
+944012051,3339.0,1876.0,11.0,0,0,0,Nick_Stankus,Walking
+944012051,3408.0,1081.0,10.0,0,0,0,Nick_Stankus,Walking
+944012051,3283.0,880.0,10.0,0,0,0,Nick_Stankus,Walking
+944012052,3333.0,1166.0,10.0,0,0,0,Nick_Stankus,Walking
+944012052,3486.0,1836.0,10.0,0,0,0,Nick_Stankus,Walking
+944012052,3399.0,1573.0,11.0,0,0,0,Nick_Stankus,Walking
+944012052,3419.0,1843.0,12.0,0,0,0,Nick_Stankus,Walking
+944012053,3410.0,1764.0,13.0,0,0,0,Nick_Stankus,Walking
+944012053,3307.0,1094.0,11.0,0,0,0,Nick_Stankus,Walking
+944012053,3241.0,898.0,10.0,0,0,0,Nick_Stankus,Walking
+944012053,3370.0,1384.0,10.0,0,0,0,Nick_Stankus,Walking
+944012054,3445.0,2125.0,10.0,0,0,0,Nick_Stankus,Walking
+944012054,3427.0,1471.0,11.0,0,0,0,Nick_Stankus,Walking
+944012054,3352.0,979.0,10.0,0,0,0,Nick_Stankus,Walking
+944012054,3373.0,32.0,8.0,0,0,0,Nick_Stankus,Walking
+944012055,3377.0,1.0,7.0,0,0,0,Nick_Stankus,Walking
+944012055,3384.0,1.0,5.0,0,0,0,Nick_Stankus,Walking
+944012055,3072.0,1.0,6.0,0,0,0,Nick_Stankus,Walking
+944012056,3102.0,1092.0,6.0,0,0,0,Nick_Stankus,Walking
+944012056,3179.0,2160.0,9.0,0,0,0,Nick_Stankus,Walking
+944012056,3226.0,2753.0,10.0,0,0,0,Nick_Stankus,Walking
+944012056,3286.0,2810.0,9.0,0,0,0,Nick_Stankus,Walking
+944012057,3294.0,2188.0,9.0,0,0,0,Nick_Stankus,Walking
+944012057,3334.0,2106.0,10.0,0,0,0,Nick_Stankus,Walking
+944012057,3376.0,2727.0,10.0,0,0,0,Nick_Stankus,Walking
+944012057,3260.0,2763.0,11.0,0,0,0,Nick_Stankus,Walking
+944012058,3128.0,2808.0,12.0,0,0,0,Nick_Stankus,Walking
+944012058,3208.0,2802.0,12.0,0,0,0,Nick_Stankus,Walking
+944012058,3329.0,2154.0,10.0,0,0,0,Nick_Stankus,Walking
+944012058,3312.0,665.0,9.0,0,0,0,Nick_Stankus,Walking
+944012059,3289.0,1089.0,9.0,0,0,0,Nick_Stankus,Walking
+944012059,3355.0,2361.0,7.0,0,0,0,Nick_Stankus,Walking
+944012059,3263.0,1960.0,8.0,0,0,0,Nick_Stankus,Walking
+944012059,3238.0,2200.0,9.0,0,0,0,Nick_Stankus,Walking
+944012060,3190.0,2798.0,9.0,0,0,0,Nick_Stankus,Walking
+944012060,3267.0,2148.0,7.0,0,0,0,Nick_Stankus,Walking
+944012060,3294.0,2116.0,7.0,0,0,0,Nick_Stankus,Walking
+944012060,3366.0,2442.0,6.0,0,0,0,Nick_Stankus,Walking
+944012060,3406.0,2351.0,5.0,0,0,0,Nick_Stankus,Walking
+944012061,3348.0,1753.0,7.0,0,0,0,Nick_Stankus,Walking
+944012061,3317.0,2582.0,8.0,0,0,0,Nick_Stankus,Walking
+944012061,3334.0,3135.0,8.0,0,0,0,Nick_Stankus,Walking
+944012061,3384.0,3172.0,8.0,0,0,0,Nick_Stankus,Walking
+944012062,3416.0,3306.0,9.0,0,0,0,Nick_Stankus,Walking
+944012062,3405.0,3408.0,10.0,0,0,0,Nick_Stankus,Walking
+944012062,3389.0,3438.0,11.0,0,0,0,Nick_Stankus,Walking
+944012062,3417.0,3451.0,12.0,0,0,0,Nick_Stankus,Walking
+944012063,3429.0,3483.0,12.0,0,0,0,Nick_Stankus,Walking
+944012063,3432.0,3485.0,11.0,0,0,0,Nick_Stankus,Walking
+944012063,3391.0,3482.0,12.0,0,0,0,Nick_Stankus,Walking
+944012063,3222.0,3526.0,12.0,0,0,0,Nick_Stankus,Walking
+944012064,3302.0,3546.0,10.0,0,0,0,Nick_Stankus,Walking
+944012064,3264.0,3518.0,9.0,0,0,0,Nick_Stankus,Walking
+944012064,3320.0,3496.0,10.0,0,0,0,Nick_Stankus,Walking
+944012064,3431.0,3489.0,11.0,0,0,0,Nick_Stankus,Walking
+944012065,3481.0,3433.0,11.0,0,0,0,Nick_Stankus,Walking
+944012065,3467.0,3353.0,11.0,0,0,0,Nick_Stankus,Walking
+944012065,3489.0,3461.0,10.0,0,0,0,Nick_Stankus,Walking
+944012065,3495.0,3552.0,10.0,0,0,0,Nick_Stankus,Walking
+944012066,3415.0,3561.0,10.0,0,0,0,Nick_Stankus,Walking
+944012066,3427.0,3573.0,11.0,0,0,0,Nick_Stankus,Walking
+944012066,3430.0,3584.0,11.0,0,0,0,Nick_Stankus,Walking
+944012066,3433.0,3569.0,11.0,0,0,0,Nick_Stankus,Walking
+944012067,3434.0,3576.0,11.0,0,0,0,Nick_Stankus,Walking
+944012067,3479.0,3596.0,12.0,0,0,0,Nick_Stankus,Walking
+944012067,3441.0,3662.0,12.0,0,0,0,Nick_Stankus,Walking
+944012067,3327.0,3632.0,13.0,0,0,0,Nick_Stankus,Walking
+944012068,3399.0,3506.0,13.0,0,0,0,Nick_Stankus,Walking
+944012068,3473.0,3553.0,14.0,0,0,0,Nick_Stankus,Walking
+944012068,3505.0,3595.0,14.0,0,0,0,Nick_Stankus,Walking
+944012068,3528.0,3508.0,14.0,0,0,0,Nick_Stankus,Walking
+944012069,3560.0,3564.0,14.0,0,0,0,Nick_Stankus,Walking
+944012069,3543.0,3614.0,14.0,0,0,0,Nick_Stankus,Walking
+944012069,3360.0,3607.0,15.0,0,1,0,Nick_Stankus,Walking
+944012069,3437.0,3617.0,16.0,0,1,0,Nick_Stankus,Walking
+944012070,3384.0,3531.0,16.0,0,1,0,Nick_Stankus,Walking
+944012070,3244.0,2067.0,15.0,0,1,0,Nick_Stankus,Walking
+944012071,3244.0,86.0,13.0,0,0,0,Nick_Stankus,Walking
+944012071,3082.0,2320.0,12.0,0,0,0,Nick_Stankus,Walking
+944012071,3161.0,2251.0,12.0,0,0,0,Nick_Stankus,Walking
+944012071,3302.0,1856.0,11.0,0,0,0,Nick_Stankus,Walking
+944012072,3346.0,2054.0,11.0,0,0,0,Nick_Stankus,Walking
+944012072,3372.0,2799.0,11.0,0,0,0,Nick_Stankus,Walking
+944012072,3178.0,3304.0,11.0,0,0,0,Nick_Stankus,Walking
+944012073,3046.0,3289.0,12.0,0,0,0,Nick_Stankus,Walking
+944012073,3158.0,3181.0,13.0,0,0,0,Nick_Stankus,Walking
+944012073,3336.0,3144.0,13.0,0,0,0,Nick_Stankus,Walking
+944012073,3279.0,2031.0,13.0,0,0,0,Nick_Stankus,Walking
+944012074,3338.0,2226.0,13.0,0,0,0,Nick_Stankus,Walking
+944012074,3382.0,2711.0,15.0,0,0,0,Nick_Stankus,Walking
+944012074,3246.0,3004.0,16.0,0,0,0,Nick_Stankus,Walking
+944012074,3089.0,3064.0,17.0,0,0,0,Nick_Stankus,Walking
+944012075,3133.0,3049.0,16.0,0,0,0,Nick_Stankus,Walking
+944012075,3291.0,3210.0,16.0,0,0,0,Nick_Stankus,Walking
+944012075,3293.0,3032.0,17.0,0,0,0,Nick_Stankus,Walking
+944012075,3319.0,3012.0,18.0,0,0,0,Nick_Stankus,Walking
+944012076,3368.0,3193.0,18.0,0,0,0,Nick_Stankus,Walking
+944012076,3276.0,3141.0,19.0,0,0,0,Nick_Stankus,Walking
+944012076,3270.0,3037.0,20.0,0,0,0,Nick_Stankus,Walking
+944012076,3381.0,2954.0,19.0,0,0,0,Nick_Stankus,Walking
+944012076,3423.0,2779.0,18.0,0,0,0,Nick_Stankus,Walking
+944012077,3330.0,2653.0,18.0,0,0,0,Nick_Stankus,Walking
+944012077,3330.0,2849.0,18.0,0,0,0,Nick_Stankus,Walking
+944012077,3243.0,3058.0,18.0,0,0,0,Nick_Stankus,Walking
+944012077,3110.0,2939.0,17.0,0,0,0,Nick_Stankus,Walking
+944012078,3206.0,2812.0,17.0,0,0,0,Nick_Stankus,Walking
+944012078,3287.0,2815.0,17.0,0,0,0,Nick_Stankus,Walking
+944012078,3209.0,2322.0,17.0,0,0,0,Nick_Stankus,Walking
+944012078,3274.0,2673.0,17.0,0,0,0,Nick_Stankus,Walking
+944012079,3335.0,2903.0,17.0,0,0,0,Nick_Stankus,Walking
+944012079,3271.0,3122.0,16.0,0,0,0,Nick_Stankus,Walking
+944012079,3225.0,2971.0,17.0,0,0,0,Nick_Stankus,Walking
+944012079,3286.0,2885.0,17.0,0,0,0,Nick_Stankus,Walking
+944012080,3360.0,2789.0,18.0,0,0,0,Nick_Stankus,Walking
+944012080,3292.0,2546.0,19.0,0,0,0,Nick_Stankus,Walking
+944012080,3267.0,2434.0,21.0,0,0,0,Nick_Stankus,Walking
+944012081,3265.0,2865.0,23.0,0,0,0,Nick_Stankus,Walking
+944012081,3307.0,2904.0,23.0,0,0,0,Nick_Stankus,Walking
+944012082,3335.0,2785.0,21.0,0,0,0,Nick_Stankus,Walking
+944012082,3179.0,2781.0,21.0,0,0,0,Nick_Stankus,Walking
+944012083,3248.0,2892.0,21.0,0,0,0,Nick_Stankus,Walking
+944012083,3340.0,2941.0,21.0,0,0,0,Nick_Stankus,Walking
+944012084,3195.0,3067.0,22.0,0,0,0,Nick_Stankus,Walking
+944012085,3318.0,3151.0,22.0,0,0,0,Nick_Stankus,Walking
+944012089,3398.0,2987.0,25.0,0,0,0,Nick_Stankus,Walking
+944012089,3398.0,2626.0,20.0,0,0,0,Nick_Stankus,Walking
+944012090,3338.0,1272.0,19.0,0,0,0,Nick_Stankus,Walking
+944012090,3302.0,2107.0,19.0,0,0,0,Nick_Stankus,Walking
+944012090,3314.0,2705.0,18.0,0,0,0,Nick_Stankus,Walking
+944012090,3144.0,2820.0,17.0,0,0,0,Nick_Stankus,Walking
+944012091,3153.0,2753.0,17.0,0,0,0,Nick_Stankus,Walking
+944012091,3314.0,2725.0,16.0,0,0,0,Nick_Stankus,Walking
+944012091,3294.0,2066.0,16.0,0,0,0,Nick_Stankus,Walking
+944012091,3259.0,2047.0,15.0,0,0,0,Nick_Stankus,Walking
+944012092,3278.0,2478.0,15.0,0,0,0,Nick_Stankus,Walking
+944012092,3278.0,2869.0,13.0,0,0,0,Nick_Stankus,Walking
+944012092,3173.0,2697.0,13.0,0,0,0,Nick_Stankus,Walking
+944012092,3221.0,2432.0,13.0,0,0,0,Nick_Stankus,Walking
+944012093,3303.0,2388.0,12.0,0,0,0,Nick_Stankus,Walking
+944012093,3228.0,729.0,11.0,0,0,0,Nick_Stankus,Walking
+944012093,3258.0,1296.0,10.0,0,0,0,Nick_Stankus,Walking
+944012093,3258.0,2386.0,9.0,0,0,0,Nick_Stankus,Walking
+944012094,2958.0,2800.0,9.0,0,0,0,Nick_Stankus,Walking
+944012094,2502.0,2937.0,11.0,0,0,0,Nick_Stankus,Walking
+944012094,2841.0,3046.0,12.0,0,0,0,Nick_Stankus,Walking
+944012094,3154.0,3083.0,13.0,0,0,0,Nick_Stankus,Walking
+944012095,3086.0,2509.0,13.0,0,0,0,Nick_Stankus,Walking
+944012095,3126.0,2678.0,14.0,0,0,0,Nick_Stankus,Walking
+944012095,3201.0,2936.0,15.0,0,0,0,Nick_Stankus,Walking
+944012095,2908.0,2756.0,15.0,0,0,0,Nick_Stankus,Walking
+944012096,2787.0,2576.0,17.0,0,0,0,Nick_Stankus,Walking
+944012096,3079.0,2552.0,17.0,0,0,0,Nick_Stankus,Walking
+944012096,3228.0,1802.0,17.0,0,0,0,Nick_Stankus,Walking
+944012096,3003.0,675.0,17.0,0,0,0,Nick_Stankus,Walking
+944012097,3050.0,1928.0,18.0,0,0,0,Nick_Stankus,Walking
+944012097,3009.0,2442.0,17.0,0,0,0,Nick_Stankus,Walking
+944012097,2942.0,2219.0,17.0,0,0,0,Nick_Stankus,Walking
+944012097,3122.0,2212.0,17.0,0,0,0,Nick_Stankus,Walking
+944012098,3266.0,2636.0,17.0,0,0,0,Nick_Stankus,Walking
+944012098,3356.0,2617.0,17.0,0,0,0,Nick_Stankus,Walking
+944012098,3448.0,2552.0,17.0,0,0,0,Nick_Stankus,Walking
+944012098,3389.0,2921.0,16.0,0,0,0,Nick_Stankus,Walking
+944012099,3117.0,3219.0,15.0,0,0,0,Nick_Stankus,Walking
+944012099,2803.0,3041.0,14.0,0,0,0,Nick_Stankus,Walking
+944012099,3100.0,3117.0,13.0,0,0,0,Nick_Stankus,Walking
+944012099,3271.0,3226.0,13.0,0,0,0,Nick_Stankus,Walking
+944012100,3405.0,3044.0,13.0,0,0,0,Nick_Stankus,Walking
+944012100,3461.0,3065.0,13.0,0,0,0,Nick_Stankus,Walking
+944012100,3486.0,3174.0,13.0,0,0,0,Nick_Stankus,Walking
+944012100,3364.0,2974.0,15.0,0,0,0,Nick_Stankus,Walking
+944012100,3451.0,2891.0,16.0,0,0,0,Nick_Stankus,Walking
+944012101,3488.0,2378.0,15.0,0,0,0,Nick_Stankus,Walking
+944012101,3462.0,2234.0,16.0,0,0,0,Nick_Stankus,Walking
+944012101,3520.0,2832.0,18.0,0,0,0,Nick_Stankus,Walking
+944012101,3547.0,3089.0,20.0,0,0,0,Nick_Stankus,Walking
+944012102,3543.0,3011.0,20.0,0,0,0,Nick_Stankus,Walking
+944012102,3517.0,3087.0,21.0,0,0,0,Nick_Stankus,Walking
+944012102,3545.0,3068.0,20.0,0,0,0,Nick_Stankus,Walking
+944012102,3525.0,2961.0,20.0,0,0,0,Nick_Stankus,Walking
+944012103,3588.0,3113.0,20.0,0,0,0,Nick_Stankus,Walking
+944012103,3599.0,3250.0,22.0,0,0,0,Nick_Stankus,Walking
+944012103,3620.0,3285.0,21.0,0,0,1,Nick_Stankus,Walking
+944012103,3612.0,3246.0,21.0,0,0,1,Nick_Stankus,Walking
+944012104,3633.0,3286.0,22.0,0,0,1,Nick_Stankus,Walking
+944012104,3545.0,3051.0,21.0,0,0,1,Nick_Stankus,Walking
+944012104,3294.0,2222.0,19.0,0,0,1,Nick_Stankus,Walking
+944012104,3320.0,1752.0,18.0,0,0,1,Nick_Stankus,Walking
+944012105,3322.0,2439.0,16.0,0,0,1,Nick_Stankus,Walking
+944012105,3306.0,2477.0,13.0,0,0,0,Nick_Stankus,Walking
+944012105,3354.0,1377.0,14.0,0,0,0,Nick_Stankus,Walking
+944012105,3362.0,1787.0,14.0,0,0,0,Nick_Stankus,Walking
+944012106,3341.0,913.0,13.0,0,0,0,Nick_Stankus,Walking
+944012106,3344.0,521.0,12.0,0,0,0,Nick_Stankus,Walking
+944012106,3386.0,1324.0,13.0,0,0,0,Nick_Stankus,Walking
+944012106,3393.0,2644.0,13.0,0,0,0,Nick_Stankus,Walking
+944012107,3373.0,2561.0,13.0,0,0,0,Nick_Stankus,Walking
+944012107,3372.0,2651.0,14.0,0,0,0,Nick_Stankus,Walking
+944012107,3439.0,2772.0,14.0,0,0,0,Nick_Stankus,Walking
+944012107,3531.0,3026.0,14.0,0,0,0,Nick_Stankus,Walking
+944012108,3584.0,3002.0,14.0,0,0,0,Nick_Stankus,Walking
+944012108,3592.0,2959.0,14.0,0,0,0,Nick_Stankus,Walking
+944012108,3549.0,3199.0,14.0,0,0,0,Nick_Stankus,Walking
+944012108,3524.0,3226.0,14.0,0,0,0,Nick_Stankus,Walking
+944012109,3566.0,3194.0,16.0,0,0,0,Nick_Stankus,Walking
+944012109,3582.0,3195.0,16.0,0,0,0,Nick_Stankus,Walking
+944012109,3578.0,3215.0,16.0,1,0,0,Nick_Stankus,Walking
+944012109,3581.0,3056.0,15.0,1,0,0,Nick_Stankus,Walking
+944012110,3554.0,3123.0,14.0,1,0,0,Nick_Stankus,Walking
+944012110,3274.0,3188.0,13.0,1,0,0,Nick_Stankus,Walking
+944012110,2769.0,2434.0,14.0,1,0,0,Nick_Stankus,Walking
+944012110,2825.0,1307.0,14.0,0,0,0,Nick_Stankus,Walking
+944012111,3159.0,2308.0,14.0,0,0,0,Nick_Stankus,Walking
+944012111,3264.0,1623.0,14.0,0,0,0,Nick_Stankus,Walking
+944012111,3195.0,569.0,14.0,0,0,0,Nick_Stankus,Walking
+944012111,3194.0,2281.0,14.0,0,0,0,Nick_Stankus,Walking
+944012112,3155.0,2799.0,13.0,0,0,0,Nick_Stankus,Walking
+944012112,2757.0,2526.0,12.0,0,0,0,Nick_Stankus,Walking
+944012112,2653.0,2644.0,11.0,0,0,0,Nick_Stankus,Walking
+944012112,2949.0,2874.0,10.0,0,0,0,Nick_Stankus,Walking
+944012113,3126.0,1600.0,9.0,0,0,0,Nick_Stankus,Walking
+944012113,3099.0,1441.0,8.0,0,0,0,Nick_Stankus,Walking
+944012113,3191.0,2188.0,8.0,0,0,0,Nick_Stankus,Walking
+944012113,3142.0,3046.0,7.0,0,0,0,Nick_Stankus,Walking
+944012113,2802.0,3175.0,7.0,0,0,0,Nick_Stankus,Walking
+944012114,2668.0,3456.0,8.0,0,0,0,Nick_Stankus,Walking
+944012114,3008.0,3388.0,8.0,0,0,0,Nick_Stankus,Walking
+944012114,3150.0,3380.0,8.0,0,0,0,Nick_Stankus,Walking
+944012114,3156.0,3387.0,9.0,0,0,0,Nick_Stankus,Walking
+944012115,3266.0,3116.0,9.0,0,0,0,Nick_Stankus,Walking
+944012115,3151.0,2687.0,9.0,0,0,0,Nick_Stankus,Walking
+944012115,3139.0,2896.0,10.0,0,0,0,Nick_Stankus,Walking
+944012115,3180.0,3035.0,9.0,0,0,0,Nick_Stankus,Walking
+944012116,3218.0,2982.0,8.0,0,0,0,Nick_Stankus,Walking
+944012116,3264.0,3116.0,8.0,0,0,0,Nick_Stankus,Walking
+944012116,3296.0,3335.0,9.0,0,0,0,Nick_Stankus,Walking
+944012116,3251.0,3404.0,9.0,0,0,0,Nick_Stankus,Walking
+944012117,3296.0,3371.0,11.0,0,0,0,Nick_Stankus,Walking
+944012117,3332.0,3381.0,11.0,0,0,0,Nick_Stankus,Walking
+944012117,3375.0,3306.0,11.0,0,0,0,Nick_Stankus,Walking
+944012117,3364.0,3162.0,10.0,0,0,0,Nick_Stankus,Walking
+944012118,3398.0,3287.0,10.0,0,0,0,Nick_Stankus,Walking
+944012118,3448.0,3432.0,11.0,0,0,0,Nick_Stankus,Walking
+944012118,3474.0,3421.0,12.0,0,0,0,Nick_Stankus,Walking
+944012118,3485.0,3365.0,14.0,0,0,0,Nick_Stankus,Walking
+944012119,3540.0,3346.0,15.0,0,0,0,Nick_Stankus,Walking
+944012119,3583.0,3269.0,15.0,0,0,0,Nick_Stankus,Walking
+944012119,3516.0,3066.0,15.0,0,0,0,Nick_Stankus,Walking
+944012119,3508.0,2971.0,17.0,0,0,0,Nick_Stankus,Walking
+944012120,3360.0,2616.0,18.0,0,0,0,Nick_Stankus,Walking
+944012120,2398.0,1441.0,17.0,0,0,0,Nick_Stankus,Walking
+944012978,3389.0,2830.0,14.0,0,0,0,Nick_Stankus,Standing
+944012978,3399.0,3151.0,17.0,0,0,0,Nick_Stankus,Standing
+944012978,3454.0,3375.0,15.0,0,0,0,Nick_Stankus,Standing
+944012978,3383.0,3367.0,11.0,0,0,0,Nick_Stankus,Standing
+944012979,3522.0,3522.0,10.0,0,0,0,Nick_Stankus,Standing
+944012979,3620.0,3530.0,10.0,0,0,0,Nick_Stankus,Standing
+944012979,3594.0,3473.0,11.0,0,0,0,Nick_Stankus,Standing
+944012979,1652.0,685.0,11.0,0,0,0,Nick_Stankus,Standing
+944012992,2922.0,2245.0,14.0,0,0,0,Nick_Stankus,Standing
+944012993,2112.0,3100.0,15.0,0,0,0,Nick_Stankus,Standing
+944012993,3506.0,3400.0,14.0,0,0,0,Nick_Stankus,Standing
+944012993,3416.0,2965.0,13.0,0,0,0,Nick_Stankus,Standing
+944012994,2350.0,1847.0,12.0,0,0,0,Nick_Stankus,Standing
+944012997,3488.0,3550.0,14.0,0,0,0,Nick_Stankus,Standing
+944012997,3551.0,3633.0,12.0,0,0,0,Nick_Stankus,Standing
+944012998,3526.0,3687.0,10.0,0,0,0,Nick_Stankus,Standing
+944012998,3449.0,3684.0,11.0,0,0,0,Nick_Stankus,Standing
+944012998,2588.0,2871.0,12.0,0,0,0,Nick_Stankus,Standing
+944013002,2074.0,3069.0,15.0,0,0,0,Nick_Stankus,Standing
+944013002,2029.0,3325.0,13.0,0,0,0,Nick_Stankus,Standing
+944013005,2474.0,2984.0,12.0,0,0,0,Nick_Stankus,Standing
+944013005,2435.0,3249.0,9.0,0,0,0,Nick_Stankus,Standing
+944013006,535.0,3400.0,7.0,0,0,0,Nick_Stankus,Standing
+944013006,2542.0,2909.0,8.0,0,0,0,Nick_Stankus,Standing
+944013007,993.0,1041.0,12.0,0,0,0,Nick_Stankus,Standing
+944013007,3096.0,3084.0,15.0,0,0,0,Nick_Stankus,Standing
+944013007,3518.0,3515.0,15.0,0,0,0,Nick_Stankus,Standing
+944013007,3598.0,3633.0,13.0,0,0,0,Nick_Stankus,Standing
+944013008,3484.0,3356.0,12.0,0,0,0,Nick_Stankus,Standing
+944013011,3125.0,2567.0,12.0,0,0,0,Nick_Stankus,Standing
+944013011,3537.0,1981.0,12.0,0,0,0,Nick_Stankus,Standing
+944013011,3613.0,1904.0,8.0,0,0,0,Nick_Stankus,Standing
+944013011,3602.0,3077.0,9.0,0,0,0,Nick_Stankus,Standing
+944013014,1.0,3215.0,13.0,0,0,0,Nick_Stankus,Standing
+944013017,2011.0,3135.0,10.0,0,0,0,Nick_Stankus,Standing
+944013018,114.0,2765.0,10.0,0,0,0,Nick_Stankus,Standing
+944013018,152.0,2526.0,11.0,0,0,0,Nick_Stankus,Standing
+944013018,2427.0,3240.0,12.0,0,0,0,Nick_Stankus,Standing
+944013018,2366.0,3472.0,11.0,0,0,0,Nick_Stankus,Standing
+944013019,2963.0,3588.0,13.0,0,0,0,Nick_Stankus,Standing
+944013019,2118.0,2196.0,12.0,0,0,0,Nick_Stankus,Standing
+944013027,2865.0,54.0,1.0,0,0,0,Nick_Stankus,Standing
+944013028,3510.0,1.0,3.0,0,0,0,Nick_Stankus,Standing
+944013030,948.0,592.0,1.0,0,0,0,Nick_Stankus,Standing
+944013030,891.0,781.0,3.0,0,0,0,Nick_Stankus,Standing
+944013040,1.0,3375.0,3.0,0,0,0,Nick_Stankus,Standing
+944013046,1.0,3229.0,2.0,0,0,0,Nick_Stankus,Standing
+944013047,1.0,1.0,5.0,0,0,0,Nick_Stankus,Standing
+944013049,3637.0,1.0,2.0,0,0,0,Nick_Stankus,Standing
+944013089,3205.0,2961.0,12.0,0,0,0,Nick_Stankus,Sitting
+944013089,3484.0,3196.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013090,3554.0,3087.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013090,3590.0,3177.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013090,3588.0,3272.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013090,3596.0,3385.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013091,3623.0,3551.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013091,3588.0,3536.0,5.0,0,0,0,Nick_Stankus,Sitting
+944013091,3580.0,3528.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013091,3160.0,3417.0,13.0,0,0,0,Nick_Stankus,Sitting
+944013092,3104.0,3489.0,19.0,0,0,0,Nick_Stankus,Sitting
+944013092,2890.0,3301.0,24.0,0,0,0,Nick_Stankus,Sitting
+944013092,2611.0,3243.0,25.0,0,0,0,Nick_Stankus,Sitting
+944013095,3403.0,3232.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013095,3467.0,3089.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013095,3477.0,2914.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013096,3523.0,3054.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013096,3537.0,3201.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013096,3609.0,3438.0,6.0,0,0,0,Nick_Stankus,Sitting
+944013096,3597.0,3418.0,4.0,0,0,0,Nick_Stankus,Sitting
+944013097,3632.0,3621.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013097,3379.0,3359.0,17.0,0,0,0,Nick_Stankus,Sitting
+944013100,2995.0,2992.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013100,3400.0,3447.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013101,3603.0,3572.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013101,3621.0,3471.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013101,3533.0,3323.0,13.0,0,0,0,Nick_Stankus,Sitting
+944013101,3082.0,3268.0,24.0,0,0,0,Nick_Stankus,Sitting
+944013105,908.0,3226.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013105,3271.0,3456.0,7.0,0,0,0,Nick_Stankus,Sitting
+944013105,3322.0,3474.0,5.0,0,0,0,Nick_Stankus,Sitting
+944013106,2406.0,3522.0,12.0,0,0,0,Nick_Stankus,Sitting
+944013106,2542.0,3467.0,17.0,0,0,0,Nick_Stankus,Sitting
+944013108,2719.0,2120.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013108,3263.0,3185.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013109,3501.0,3516.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013109,3617.0,3648.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013109,3582.0,3643.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013109,3496.0,3417.0,15.0,0,0,0,Nick_Stankus,Sitting
+944013110,3162.0,3526.0,21.0,0,0,0,Nick_Stankus,Sitting
+944013112,3001.0,1801.0,6.0,0,0,0,Nick_Stankus,Sitting
+944013112,3479.0,2647.0,7.0,0,0,0,Nick_Stankus,Sitting
+944013113,3604.0,3042.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013113,3648.0,3311.0,7.0,0,0,0,Nick_Stankus,Sitting
+944013113,3665.0,3535.0,7.0,0,0,0,Nick_Stankus,Sitting
+944013113,3618.0,3618.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013114,2755.0,3381.0,18.0,0,0,0,Nick_Stankus,Sitting
+944013116,3264.0,1844.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013116,3535.0,2063.0,12.0,0,0,0,Nick_Stankus,Sitting
+944013117,3596.0,2843.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013117,3615.0,3416.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013117,3601.0,3521.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013117,1922.0,3493.0,17.0,0,0,0,Nick_Stankus,Sitting
+944013120,3134.0,1150.0,7.0,0,0,0,Nick_Stankus,Sitting
+944013120,3446.0,2703.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013120,3493.0,2957.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013120,3592.0,3320.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013121,3656.0,3549.0,6.0,0,0,0,Nick_Stankus,Sitting
+944013121,3449.0,3465.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013121,3591.0,3513.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013121,3332.0,2205.0,18.0,0,0,0,Nick_Stankus,Sitting
+944013123,3523.0,2971.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013124,3608.0,3209.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013124,3597.0,2960.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013124,3678.0,3473.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013124,3690.0,3616.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013125,3643.0,3489.0,11.0,0,0,0,Nick_Stankus,Sitting
+944013125,3217.0,3405.0,20.0,0,0,0,Nick_Stankus,Sitting
+944013128,3540.0,607.0,10.0,0,0,0,Nick_Stankus,Sitting
+944013128,3675.0,2525.0,9.0,0,0,0,Nick_Stankus,Sitting
+944013128,3663.0,3014.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013128,3655.0,3289.0,8.0,0,0,0,Nick_Stankus,Sitting
+944013129,3666.0,3502.0,6.0,0,0,0,Nick_Stankus,Sitting
+944013129,3677.0,3624.0,6.0,0,0,0,Nick_Stankus,Sitting
+944013129,3598.0,3272.0,12.0,0,0,0,Nick_Stankus,Sitting
+944013134,1.0,1.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013135,1.0,1.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013137,1252.0,266.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013137,1.0,1989.0,1.0,0,0,0,Nick_Stankus,Sitting
+944013141,2895.0,742.0,1.0,0,0,0,Nick_Stankus,Sitting
+944013141,2526.0,190.0,1.0,0,0,0,Nick_Stankus,Sitting
+944013156,2697.0,2539.0,1.0,0,0,0,Nick_Stankus,Sitting
+944013156,3528.0,3201.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013156,3484.0,3273.0,3.0,0,0,0,Nick_Stankus,Sitting
+944013160,1.0,1.0,4.0,0,0,0,Nick_Stankus,Sitting
+944013163,3365.0,2278.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013163,3105.0,1446.0,2.0,0,0,0,Nick_Stankus,Sitting
+944013164,3155.0,1498.0,4.0,0,0,0,Nick_Stankus,Sitting
+944013198,3119.0,1027.0,7.0,0,0,0,Nick_Stankus,Walking
+944013199,3382.0,2308.0,8.0,0,0,0,Nick_Stankus,Walking
+944013199,3441.0,2614.0,10.0,0,0,0,Nick_Stankus,Walking
+944013199,3431.0,2847.0,13.0,0,0,0,Nick_Stankus,Walking
+944013199,3543.0,2586.0,14.0,0,0,0,Nick_Stankus,Walking
+944013200,3554.0,1709.0,14.0,0,0,0,Nick_Stankus,Walking
+944013200,3560.0,1535.0,13.0,0,0,0,Nick_Stankus,Walking
+944013200,3576.0,2661.0,13.0,0,0,0,Nick_Stankus,Walking
+944013200,3525.0,3060.0,11.0,0,0,0,Nick_Stankus,Walking
+944013201,3554.0,3062.0,12.0,0,0,0,Nick_Stankus,Walking
+944013201,3614.0,3019.0,12.0,0,0,0,Nick_Stankus,Walking
+944013201,3606.0,2912.0,12.0,1,0,0,Nick_Stankus,Walking
+944013201,3543.0,2986.0,12.0,1,0,0,Nick_Stankus,Walking
+944013202,3497.0,3135.0,11.0,1,0,0,Nick_Stankus,Walking
+944013202,2206.0,2673.0,10.0,1,0,0,Nick_Stankus,Walking
+944013202,2139.0,2168.0,12.0,0,0,0,Nick_Stankus,Walking
+944013202,3016.0,2737.0,11.0,0,0,0,Nick_Stankus,Walking
+944013203,2952.0,2278.0,11.0,0,0,0,Nick_Stankus,Walking
+944013203,2776.0,2342.0,11.0,0,0,0,Nick_Stankus,Walking
+944013203,3170.0,3004.0,10.0,0,0,0,Nick_Stankus,Walking
+944013203,3136.0,3083.0,10.0,0,0,0,Nick_Stankus,Walking
+944013204,3148.0,2946.0,11.0,0,0,0,Nick_Stankus,Walking
+944013204,3271.0,3110.0,10.0,0,0,0,Nick_Stankus,Walking
+944013204,3271.0,2706.0,10.0,0,0,0,Nick_Stankus,Walking
+944013204,3256.0,2596.0,10.0,0,0,0,Nick_Stankus,Walking
+944013205,3350.0,3154.0,10.0,0,0,0,Nick_Stankus,Walking
+944013205,3216.0,3027.0,11.0,0,0,0,Nick_Stankus,Walking
+944013205,3241.0,3010.0,11.0,0,0,0,Nick_Stankus,Walking
+944013205,3309.0,3021.0,11.0,0,0,0,Nick_Stankus,Walking
+944013206,3297.0,2515.0,11.0,0,0,0,Nick_Stankus,Walking
+944013206,3321.0,2702.0,12.0,0,0,0,Nick_Stankus,Walking
+944013206,3350.0,3020.0,11.0,0,0,0,Nick_Stankus,Walking
+944013206,3177.0,3030.0,12.0,0,0,0,Nick_Stankus,Walking
+944013206,3143.0,2958.0,13.0,0,0,0,Nick_Stankus,Walking
+944013207,3173.0,2925.0,13.0,0,0,0,Nick_Stankus,Walking
+944013207,2901.0,2744.0,13.0,0,0,0,Nick_Stankus,Walking
+944013207,2671.0,2733.0,12.0,0,0,0,Nick_Stankus,Walking
+944013207,2905.0,2904.0,12.0,0,0,0,Nick_Stankus,Walking
+944013208,3128.0,2986.0,11.0,0,0,0,Nick_Stankus,Walking
+944013208,3344.0,3063.0,11.0,0,0,0,Nick_Stankus,Walking
+944013208,3420.0,3197.0,12.0,0,0,0,Nick_Stankus,Walking
+944013208,3321.0,3234.0,12.0,0,0,0,Nick_Stankus,Walking
+944013209,3340.0,3325.0,11.0,0,0,0,Nick_Stankus,Walking
+944013209,3348.0,3466.0,10.0,0,0,0,Nick_Stankus,Walking
+944013209,3228.0,3582.0,11.0,0,0,0,Nick_Stankus,Walking
+944013209,3299.0,3573.0,12.0,0,0,0,Nick_Stankus,Walking
+944013210,3443.0,3560.0,13.0,0,0,0,Nick_Stankus,Walking
+944013210,3491.0,3551.0,13.0,0,0,0,Nick_Stankus,Walking
+944013210,3485.0,3585.0,13.0,0,0,0,Nick_Stankus,Walking
+944013210,3497.0,3593.0,12.0,0,0,0,Nick_Stankus,Walking
+944013211,3450.0,3601.0,11.0,0,0,0,Nick_Stankus,Walking
+944013211,3235.0,3612.0,11.0,0,1,0,Nick_Stankus,Walking
+944013211,3369.0,3622.0,11.0,0,1,0,Nick_Stankus,Walking
+944013211,3400.0,3584.0,13.0,0,1,0,Nick_Stankus,Walking
+944013212,3010.0,2737.0,13.0,0,1,0,Nick_Stankus,Walking
+944013212,3019.0,1356.0,14.0,0,1,0,Nick_Stankus,Walking
+944013212,2542.0,2132.0,13.0,0,0,0,Nick_Stankus,Walking
+944013212,2356.0,1340.0,13.0,0,0,0,Nick_Stankus,Walking
+944013213,2748.0,2217.0,13.0,0,0,0,Nick_Stankus,Walking
+944013213,3142.0,1982.0,13.0,0,0,0,Nick_Stankus,Walking
+944013213,3174.0,1921.0,18.0,0,0,0,Nick_Stankus,Walking
+944013213,3275.0,2708.0,16.0,0,0,0,Nick_Stankus,Walking
+944013214,3293.0,2938.0,17.0,0,0,0,Nick_Stankus,Walking
+944013215,3175.0,2974.0,27.0,0,0,0,Nick_Stankus,Walking
+944013215,3185.0,2865.0,28.0,0,0,0,Nick_Stankus,Walking
+944013216,3329.0,2859.0,21.0,0,0,0,Nick_Stankus,Walking
+944013224,3143.0,2911.0,27.0,0,0,0,Nick_Stankus,Walking
+944013224,3036.0,2380.0,26.0,0,0,0,Nick_Stankus,Walking
+944013224,3023.0,2135.0,21.0,0,0,0,Nick_Stankus,Walking
+944013225,3077.0,1432.0,19.0,0,0,0,Nick_Stankus,Walking
+944013225,3084.0,1774.0,20.0,0,0,0,Nick_Stankus,Walking
+944013225,3040.0,2554.0,24.0,0,0,0,Nick_Stankus,Walking
+944013225,3033.0,3026.0,28.0,0,0,0,Nick_Stankus,Walking
+944013231,3464.0,3175.0,16.0,0,0,0,Nick_Stankus,Walking
+944013231,3463.0,3197.0,15.0,0,0,0,Nick_Stankus,Walking
+944013232,3080.0,3125.0,13.0,0,0,0,Nick_Stankus,Walking
+944013232,2923.0,3167.0,15.0,0,0,0,Nick_Stankus,Walking
+944013232,3128.0,3254.0,14.0,0,0,0,Nick_Stankus,Walking
+944013232,3217.0,3202.0,14.0,0,0,0,Nick_Stankus,Walking
+944013233,2890.0,3217.0,14.0,0,0,0,Nick_Stankus,Walking
+944013233,2986.0,3244.0,12.0,0,0,0,Nick_Stankus,Walking
+944013233,2799.0,3027.0,12.0,0,0,0,Nick_Stankus,Walking
+944013233,2992.0,2863.0,12.0,0,0,0,Nick_Stankus,Walking
+944013234,3302.0,2236.0,13.0,0,0,0,Nick_Stankus,Walking
+944013234,3382.0,1268.0,14.0,0,0,0,Nick_Stankus,Walking
+944013234,3308.0,2644.0,16.0,0,0,0,Nick_Stankus,Walking
+944013235,3333.0,2767.0,20.0,0,0,0,Nick_Stankus,Walking
+944013235,3373.0,2788.0,20.0,0,0,0,Nick_Stankus,Walking
+944013239,3400.0,3093.0,17.0,0,0,0,Nick_Stankus,Walking
+944013239,3267.0,3146.0,16.0,0,0,0,Nick_Stankus,Walking
+944013240,3303.0,3010.0,17.0,0,0,0,Nick_Stankus,Walking
+944013240,3407.0,2981.0,16.0,0,0,0,Nick_Stankus,Walking
+944013241,3522.0,3292.0,17.0,0,0,0,Nick_Stankus,Walking
+944013241,3534.0,3287.0,16.0,0,0,0,Nick_Stankus,Walking
+944013241,3580.0,3324.0,15.0,0,0,0,Nick_Stankus,Walking
+944013242,3624.0,3300.0,16.0,0,0,0,Nick_Stankus,Walking
+944013242,3614.0,3080.0,17.0,0,0,0,Nick_Stankus,Walking
+944013242,3639.0,3161.0,17.0,0,0,0,Nick_Stankus,Walking
+944013242,3639.0,3313.0,15.0,0,0,0,Nick_Stankus,Walking
+944013242,3657.0,3266.0,15.0,0,0,0,Nick_Stankus,Walking
+944013243,3623.0,3322.0,15.0,0,0,0,Nick_Stankus,Walking
+944013243,3602.0,3312.0,13.0,0,0,0,Nick_Stankus,Walking
+944013243,3644.0,3066.0,13.0,0,0,0,Nick_Stankus,Walking
+944013243,3635.0,3254.0,13.0,0,0,0,Nick_Stankus,Walking
+944013244,3621.0,3448.0,12.0,0,0,0,Nick_Stankus,Walking
+944013244,3582.0,3429.0,12.0,0,0,0,Nick_Stankus,Walking
+944013244,3647.0,3447.0,12.0,1,0,0,Nick_Stankus,Walking
+944013244,3675.0,3424.0,12.0,1,0,0,Nick_Stankus,Walking
+944013245,3423.0,2914.0,12.0,1,0,0,Nick_Stankus,Walking
+944013245,1426.0,3145.0,13.0,1,0,0,Nick_Stankus,Walking
+944013245,971.0,3269.0,12.0,0,0,0,Nick_Stankus,Walking
+944013245,1843.0,2798.0,12.0,0,0,0,Nick_Stankus,Walking
+944013246,2214.0,905.0,12.0,0,0,0,Nick_Stankus,Walking
+944013246,2757.0,1488.0,12.0,0,0,0,Nick_Stankus,Walking
+944013246,2884.0,1.0,12.0,0,0,0,Nick_Stankus,Walking
+944013246,3048.0,3460.0,12.0,0,0,0,Nick_Stankus,Walking
+944013247,3130.0,3638.0,11.0,0,0,0,Nick_Stankus,Walking
+944013247,3124.0,3677.0,11.0,0,0,0,Nick_Stankus,Walking
+944013247,3114.0,3679.0,11.0,0,0,0,Nick_Stankus,Walking
+944013247,3256.0,3660.0,11.0,0,0,0,Nick_Stankus,Walking
+944013248,3255.0,3552.0,12.0,0,0,0,Nick_Stankus,Walking
+944013248,3346.0,3569.0,14.0,0,0,0,Nick_Stankus,Walking
+944013248,3353.0,3638.0,15.0,0,0,0,Nick_Stankus,Walking
+944013248,3194.0,3672.0,13.0,0,0,0,Nick_Stankus,Walking
+944013249,3245.0,3673.0,15.0,0,0,0,Nick_Stankus,Walking
+944013249,3260.0,3664.0,14.0,0,0,0,Nick_Stankus,Walking
+944013249,3278.0,3621.0,14.0,0,0,0,Nick_Stankus,Walking
+944013249,3251.0,3620.0,17.0,0,0,0,Nick_Stankus,Walking
+944013250,3228.0,3662.0,18.0,0,0,0,Nick_Stankus,Walking
+944013250,3210.0,3642.0,20.0,0,0,0,Nick_Stankus,Walking
+944013250,3149.0,3617.0,20.0,0,1,0,Nick_Stankus,Walking
+944013251,3135.0,3507.0,20.0,0,1,0,Nick_Stankus,Walking
+944013251,2908.0,3376.0,17.0,0,1,0,Nick_Stankus,Walking
+944013251,1563.0,921.0,17.0,0,1,0,Nick_Stankus,Walking
+944013251,1927.0,2164.0,15.0,0,0,0,Nick_Stankus,Walking
+944013252,2991.0,763.0,13.0,0,0,0,Nick_Stankus,Walking
+944013252,2335.0,1541.0,16.0,0,0,0,Nick_Stankus,Walking
+944013253,2618.0,2672.0,17.0,0,0,0,Nick_Stankus,Walking
+944013253,1996.0,2307.0,23.0,0,0,0,Nick_Stankus,Walking
+944013253,2431.0,2456.0,25.0,0,0,0,Nick_Stankus,Walking
+944013253,2855.0,2832.0,18.0,0,0,0,Nick_Stankus,Walking
+944013254,2998.0,2790.0,16.0,0,0,0,Nick_Stankus,Walking
+944013255,2970.0,2935.0,21.0,0,0,0,Nick_Stankus,Walking
+944013260,3191.0,3227.0,19.0,0,0,0,Nick_Stankus,Walking
+944013264,3308.0,3205.0,19.0,0,0,0,Nick_Stankus,Walking
+944013269,3304.0,1.0,27.0,0,0,0,Nick_Stankus,Walking
+944013270,3265.0,2514.0,19.0,0,0,0,Nick_Stankus,Walking
+944013270,3241.0,3010.0,20.0,0,0,0,Nick_Stankus,Walking
+944013271,2793.0,2316.0,15.0,0,0,0,Nick_Stankus,Walking
+944013272,3114.0,1486.0,15.0,0,0,0,Nick_Stankus,Walking
+944013272,3177.0,2915.0,15.0,0,0,0,Nick_Stankus,Walking
+944013272,2976.0,3371.0,14.0,0,0,0,Nick_Stankus,Walking
+944013272,3001.0,2931.0,14.0,0,0,0,Nick_Stankus,Walking
+944013273,3136.0,2825.0,15.0,0,0,0,Nick_Stankus,Walking
+944013273,3365.0,2671.0,16.0,0,0,0,Nick_Stankus,Walking
+944013273,3321.0,2835.0,18.0,0,0,0,Nick_Stankus,Walking
+944013275,2980.0,2252.0,23.0,0,0,0,Nick_Stankus,Walking
+944013276,3013.0,2633.0,21.0,0,0,0,Nick_Stankus,Walking
+944013276,3135.0,2932.0,18.0,0,0,0,Nick_Stankus,Walking
+944013276,3180.0,2891.0,19.0,0,0,0,Nick_Stankus,Walking
+944013276,3211.0,3092.0,23.0,0,0,0,Nick_Stankus,Walking
+944013277,3257.0,3384.0,25.0,0,0,0,Nick_Stankus,Walking
+944013277,3277.0,3422.0,27.0,0,0,0,Nick_Stankus,Walking
+944013277,3277.0,3350.0,27.0,0,0,0,Nick_Stankus,Walking
+944013277,3375.0,3423.0,24.0,0,0,1,Nick_Stankus,Walking
+944013278,3400.0,3305.0,20.0,0,0,1,Nick_Stankus,Walking
+944013278,3218.0,3346.0,17.0,0,0,0,Nick_Stankus,Walking
+944013279,3147.0,2968.0,17.0,0,0,0,Nick_Stankus,Walking
+944013279,3246.0,3272.0,15.0,0,0,0,Nick_Stankus,Walking
+944013279,3219.0,3144.0,15.0,0,0,0,Nick_Stankus,Walking
+944013279,2869.0,2445.0,14.0,0,0,0,Nick_Stankus,Walking
+944013280,3126.0,3104.0,13.0,0,0,0,Nick_Stankus,Walking
+944013280,2858.0,2942.0,14.0,0,0,0,Nick_Stankus,Walking
+944013280,2915.0,2914.0,15.0,0,0,0,Nick_Stankus,Walking
+944013280,3163.0,2950.0,15.0,0,0,0,Nick_Stankus,Walking
+944013281,3170.0,2935.0,16.0,0,0,0,Nick_Stankus,Walking
+944013281,3090.0,3147.0,17.0,0,0,0,Nick_Stankus,Walking
+944013281,3180.0,3326.0,17.0,0,0,0,Nick_Stankus,Walking
+944013281,3110.0,3126.0,18.0,0,0,0,Nick_Stankus,Walking
+944013292,3474.0,3520.0,24.0,0,0,0,Nick_Stankus,Walking
+944013292,3417.0,3434.0,18.0,0,0,0,Nick_Stankus,Walking
+944013293,3407.0,3430.0,17.0,0,0,0,Nick_Stankus,Walking
+944013293,3377.0,3449.0,18.0,0,0,0,Nick_Stankus,Walking
+944013293,3135.0,2819.0,15.0,0,0,0,Nick_Stankus,Walking
+944013293,2958.0,2643.0,13.0,0,0,0,Nick_Stankus,Walking
+944013294,3175.0,2669.0,12.0,0,0,0,Nick_Stankus,Walking
+944013294,3187.0,2032.0,12.0,0,0,0,Nick_Stankus,Walking
+944013294,2973.0,2097.0,12.0,0,0,0,Nick_Stankus,Walking
+944013294,3074.0,3173.0,12.0,0,0,0,Nick_Stankus,Walking
+944013295,2967.0,2952.0,11.0,0,0,0,Nick_Stankus,Walking
+944013295,2755.0,1351.0,11.0,0,0,0,Nick_Stankus,Walking
+944013295,2950.0,1885.0,11.0,0,0,0,Nick_Stankus,Walking
+944013295,3084.0,1103.0,10.0,0,0,0,Nick_Stankus,Walking
+944013296,3038.0,72.0,12.0,0,0,0,Nick_Stankus,Walking
+944013296,3036.0,1739.0,13.0,0,0,0,Nick_Stankus,Walking
+944013296,3114.0,2962.0,12.0,0,0,0,Nick_Stankus,Walking
+944013296,3093.0,2726.0,13.0,0,0,0,Nick_Stankus,Walking
+944013297,3045.0,2707.0,14.0,0,0,0,Nick_Stankus,Walking
+944013297,3160.0,2784.0,14.0,0,0,0,Nick_Stankus,Walking
+944013297,2998.0,2644.0,15.0,0,0,0,Nick_Stankus,Walking
+944013297,3055.0,3223.0,16.0,0,0,0,Nick_Stankus,Walking
+944013298,3066.0,3159.0,16.0,0,0,0,Nick_Stankus,Walking
+944013298,2340.0,2429.0,15.0,0,0,0,Nick_Stankus,Walking
+944013298,2589.0,2586.0,15.0,0,0,0,Nick_Stankus,Walking
+944013298,2859.0,2702.0,14.0,0,0,0,Nick_Stankus,Walking
+944013299,2845.0,2307.0,15.0,0,0,0,Nick_Stankus,Walking
+944013299,2776.0,3007.0,15.0,0,0,0,Nick_Stankus,Walking
+944013299,2951.0,3402.0,15.0,0,0,0,Nick_Stankus,Walking
+944013299,3090.0,3465.0,16.0,0,0,0,Nick_Stankus,Walking
+944013300,3040.0,3480.0,18.0,0,0,0,Nick_Stankus,Walking
+944013300,3177.0,3501.0,17.0,0,0,0,Nick_Stankus,Walking
+944013300,3344.0,3432.0,15.0,0,0,0,Nick_Stankus,Walking
+944013300,3336.0,3239.0,17.0,0,0,0,Nick_Stankus,Walking
+944013301,3367.0,3415.0,17.0,0,0,0,Nick_Stankus,Walking
+944013301,3362.0,3474.0,15.0,0,0,0,Nick_Stankus,Walking
+944013301,3336.0,3433.0,16.0,0,0,0,Nick_Stankus,Walking
+944013301,3419.0,3434.0,17.0,0,0,0,Nick_Stankus,Walking
+944013302,3417.0,3130.0,19.0,0,0,0,Nick_Stankus,Walking
+944013302,3413.0,3133.0,19.0,0,0,0,Nick_Stankus,Walking
+944013302,3466.0,3286.0,18.0,0,0,0,Nick_Stankus,Walking
+944013302,3434.0,3336.0,17.0,0,0,0,Nick_Stankus,Walking
+944013303,3360.0,3241.0,19.0,0,0,0,Nick_Stankus,Walking
+944013303,3454.0,3403.0,19.0,0,0,0,Nick_Stankus,Walking
+944013303,3427.0,3303.0,19.0,0,0,0,Nick_Stankus,Walking
+944013303,3402.0,3401.0,20.0,0,0,0,Nick_Stankus,Walking
+944013304,3386.0,3491.0,19.0,0,0,0,Nick_Stankus,Walking
+944013305,3503.0,3433.0,21.0,0,0,0,Nick_Stankus,Walking
+944013305,3502.0,3464.0,20.0,0,0,0,Nick_Stankus,Walking
+944013305,3512.0,3511.0,18.0,0,0,0,Nick_Stankus,Walking
+944013314,2274.0,3226.0,18.0,0,0,0,Nick_Stankus,Walking
+944013315,3412.0,3362.0,19.0,0,0,0,Nick_Stankus,Walking
+944013315,3607.0,3360.0,17.0,0,0,0,Nick_Stankus,Walking
+944013315,3622.0,3244.0,18.0,0,0,0,Nick_Stankus,Walking
+944013316,3647.0,3376.0,20.0,0,0,0,Nick_Stankus,Walking
+944013317,3656.0,3381.0,21.0,0,0,0,Nick_Stankus,Walking
+944013317,3651.0,3435.0,21.0,0,0,0,Nick_Stankus,Walking
+944013318,3640.0,3438.0,18.0,0,0,0,Nick_Stankus,Walking
+944013318,3655.0,3481.0,19.0,0,0,0,Nick_Stankus,Walking
+944013318,3677.0,3447.0,20.0,0,0,0,Nick_Stankus,Walking
+944013318,3678.0,3375.0,19.0,0,0,0,Nick_Stankus,Walking
+944013318,3656.0,3415.0,19.0,1,0,0,Nick_Stankus,Walking
+944013319,3672.0,3456.0,19.0,1,0,0,Nick_Stankus,Walking
+944013319,3498.0,3458.0,17.0,1,0,0,Nick_Stankus,Walking
+944013320,3117.0,3159.0,21.0,0,0,0,Nick_Stankus,Walking
+944013330,3246.0,2818.0,19.0,0,0,0,Nick_Stankus,Walking
+944013330,3231.0,2758.0,17.0,0,0,0,Nick_Stankus,Walking
+944013331,3223.0,3179.0,16.0,0,0,0,Nick_Stankus,Walking
+944013331,2834.0,3222.0,12.0,0,0,0,Nick_Stankus,Walking
+944013331,2287.0,3004.0,11.0,0,0,0,Nick_Stankus,Walking
+944013331,2876.0,3050.0,12.0,0,0,0,Nick_Stankus,Walking
+944013332,3116.0,3166.0,11.0,0,0,0,Nick_Stankus,Walking
+944013332,2905.0,2854.0,12.0,0,0,0,Nick_Stankus,Walking
+944013332,2457.0,2771.0,10.0,0,0,0,Nick_Stankus,Walking
+944013332,2763.0,3122.0,8.0,0,0,0,Nick_Stankus,Walking
+944013332,1747.0,3089.0,8.0,0,0,0,Nick_Stankus,Walking
+944013333,1968.0,2912.0,10.0,0,0,0,Nick_Stankus,Walking
+944013333,2928.0,3079.0,10.0,0,0,0,Nick_Stankus,Walking
+944013333,3062.0,2916.0,9.0,0,0,0,Nick_Stankus,Walking
+944013333,2687.0,2761.0,11.0,0,0,0,Nick_Stankus,Walking
+944013334,2761.0,3102.0,12.0,0,0,0,Nick_Stankus,Walking
+944013334,2444.0,2853.0,13.0,0,0,0,Nick_Stankus,Walking
+944013334,2474.0,2611.0,14.0,0,0,0,Nick_Stankus,Walking
+944013334,3081.0,3040.0,13.0,0,0,0,Nick_Stankus,Walking
+944013335,2441.0,2195.0,14.0,0,0,0,Nick_Stankus,Walking
+944013335,2437.0,2699.0,13.0,0,0,0,Nick_Stankus,Walking
+944013335,2958.0,2902.0,13.0,0,0,0,Nick_Stankus,Walking
+944013335,2553.0,1510.0,14.0,0,0,0,Nick_Stankus,Walking
+944013336,2692.0,2023.0,14.0,0,0,0,Nick_Stankus,Walking
+944013336,3148.0,2468.0,14.0,0,0,0,Nick_Stankus,Walking
+944013336,2825.0,1204.0,16.0,0,0,0,Nick_Stankus,Walking
+944013336,3091.0,2668.0,16.0,0,0,0,Nick_Stankus,Walking
+944013337,3224.0,3247.0,15.0,0,0,0,Nick_Stankus,Walking
+944013337,3176.0,2938.0,15.0,0,0,0,Nick_Stankus,Walking
+944013337,3228.0,2889.0,15.0,0,0,0,Nick_Stankus,Walking
+944013337,3309.0,2308.0,16.0,0,0,0,Nick_Stankus,Walking
+944013338,3095.0,2026.0,17.0,0,0,0,Nick_Stankus,Walking
+944013338,3216.0,2978.0,16.0,0,0,0,Nick_Stankus,Walking
+944013338,3060.0,3146.0,15.0,0,0,0,Nick_Stankus,Walking
+944013338,2654.0,2787.0,15.0,0,0,0,Nick_Stankus,Walking
+944013339,3065.0,3075.0,15.0,0,0,0,Nick_Stankus,Walking
+944013339,3247.0,3098.0,15.0,0,0,0,Nick_Stankus,Walking
+944013339,3127.0,2772.0,17.0,0,0,0,Nick_Stankus,Walking
+944013339,3195.0,3202.0,18.0,0,0,0,Nick_Stankus,Walking
+944013340,3166.0,3301.0,18.0,0,0,0,Nick_Stankus,Walking
+944013340,3100.0,3052.0,17.0,0,0,0,Nick_Stankus,Walking
+944013340,3276.0,3006.0,15.0,0,0,0,Nick_Stankus,Walking
+944013340,3284.0,2657.0,16.0,0,0,0,Nick_Stankus,Walking
+944013341,3248.0,2761.0,17.0,0,0,0,Nick_Stankus,Walking
+944013341,3306.0,3122.0,17.0,0,0,0,Nick_Stankus,Walking
+944013341,3235.0,3252.0,15.0,0,0,0,Nick_Stankus,Walking
+944013341,3251.0,2892.0,15.0,0,0,0,Nick_Stankus,Walking
+944013342,3267.0,2663.0,15.0,0,0,0,Nick_Stankus,Walking
+944013342,3298.0,2324.0,16.0,0,0,0,Nick_Stankus,Walking
+944013342,3257.0,2285.0,17.0,0,0,0,Nick_Stankus,Walking
+944013343,3313.0,3081.0,16.0,0,0,0,Nick_Stankus,Walking
+944013343,3178.0,2972.0,17.0,0,0,0,Nick_Stankus,Walking
+944013343,3241.0,2865.0,17.0,0,0,0,Nick_Stankus,Walking
+944013343,3306.0,2955.0,18.0,0,0,0,Nick_Stankus,Walking
+944013344,3171.0,2000.0,18.0,0,0,0,Nick_Stankus,Walking
+944013344,3259.0,2938.0,18.0,0,0,0,Nick_Stankus,Walking
+944013344,3077.0,2814.0,17.0,0,0,0,Nick_Stankus,Walking
+944013345,3161.0,2596.0,17.0,0,0,0,Nick_Stankus,Walking
+944013345,3175.0,2808.0,17.0,0,0,0,Nick_Stankus,Walking
+944013345,3150.0,2351.0,17.0,0,0,0,Nick_Stankus,Walking
+944013345,3138.0,2101.0,18.0,0,0,0,Nick_Stankus,Walking
+944013346,3186.0,2769.0,16.0,0,0,0,Nick_Stankus,Walking
+944013346,3037.0,1949.0,17.0,0,0,0,Nick_Stankus,Walking
+944013346,3190.0,2586.0,17.0,0,0,0,Nick_Stankus,Walking
+944013346,3253.0,2368.0,17.0,0,0,0,Nick_Stankus,Walking
+944013346,3228.0,2520.0,21.0,0,0,0,Nick_Stankus,Walking
+944013347,3258.0,3036.0,22.0,0,0,0,Nick_Stankus,Walking
+944013347,3217.0,3249.0,20.0,0,0,0,Nick_Stankus,Walking
+944013347,3086.0,2957.0,19.0,0,0,0,Nick_Stankus,Walking
+944013348,3167.0,2735.0,19.0,0,0,0,Nick_Stankus,Walking
+944013349,3082.0,3012.0,19.0,0,0,0,Nick_Stankus,Walking
+944013349,3232.0,3168.0,19.0,0,0,0,Nick_Stankus,Walking
+944013349,3378.0,3167.0,19.0,0,0,0,Nick_Stankus,Walking
+944013349,3274.0,2838.0,19.0,0,0,0,Nick_Stankus,Walking
+944013350,3217.0,3064.0,19.0,0,0,0,Nick_Stankus,Walking
+944013352,3270.0,3292.0,22.0,0,0,0,Nick_Stankus,Walking
+944013354,3153.0,3106.0,20.0,0,0,0,Nick_Stankus,Walking
+944013355,3284.0,3160.0,19.0,0,0,0,Nick_Stankus,Walking
+944013356,3274.0,3157.0,18.0,0,0,0,Nick_Stankus,Walking
+944013360,3206.0,3068.0,17.0,0,0,0,Nick_Stankus,Walking
+944013360,2981.0,3103.0,16.0,0,0,0,Nick_Stankus,Walking
+944013360,1915.0,3130.0,16.0,0,0,0,Nick_Stankus,Walking
+944013361,194.0,2582.0,16.0,0,0,0,Nick_Stankus,Walking
+944013361,2512.0,2680.0,17.0,0,0,0,Nick_Stankus,Walking
+944013361,3146.0,3040.0,18.0,0,0,0,Nick_Stankus,Walking
+944013367,2376.0,2730.0,18.0,0,0,0,Nick_Stankus,Walking
+944012978,3389.0,2830.0,14.0,0,0,0,Nick Stankus,Standing
+944012978,3399.0,3151.0,17.0,0,0,0,Nick Stankus,Standing
+944012978,3454.0,3375.0,15.0,0,0,0,Nick Stankus,Standing
+944012978,3383.0,3367.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,3522.0,3522.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3620.0,3530.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3594.0,3473.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,1652.0,685.0,11.0,0,0,0,Nick Stankus,Standing
+944012992,2922.0,2245.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,2112.0,3100.0,15.0,0,0,0,Nick Stankus,Standing
+944012993,3506.0,3400.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,3416.0,2965.0,13.0,0,0,0,Nick Stankus,Standing
+944012994,2350.0,1847.0,12.0,0,0,0,Nick Stankus,Standing
+944012997,3488.0,3550.0,14.0,0,0,0,Nick Stankus,Standing
+944012997,3551.0,3633.0,12.0,0,0,0,Nick Stankus,Standing
+944012998,3526.0,3687.0,10.0,0,0,0,Nick Stankus,Standing
+944012998,3449.0,3684.0,11.0,0,0,0,Nick Stankus,Standing
+944012998,2588.0,2871.0,12.0,0,0,0,Nick Stankus,Standing
+944013002,2074.0,3069.0,15.0,0,0,0,Nick Stankus,Standing
+944013002,2029.0,3325.0,13.0,0,0,0,Nick Stankus,Standing
+944013005,2474.0,2984.0,12.0,0,0,0,Nick Stankus,Standing
+944013005,2435.0,3249.0,9.0,0,0,0,Nick Stankus,Standing
+944013006,535.0,3400.0,7.0,0,0,0,Nick Stankus,Standing
+944013006,2542.0,2909.0,8.0,0,0,0,Nick Stankus,Standing
+944013007,993.0,1041.0,12.0,0,0,0,Nick Stankus,Standing
+944013007,3096.0,3084.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3518.0,3515.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3598.0,3633.0,13.0,0,0,0,Nick Stankus,Standing
+944013008,3484.0,3356.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3125.0,2567.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3537.0,1981.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3613.0,1904.0,8.0,0,0,0,Nick Stankus,Standing
+944013011,3602.0,3077.0,9.0,0,0,0,Nick Stankus,Standing
+944013014,1.0,3215.0,13.0,0,0,0,Nick Stankus,Standing
+944013017,2011.0,3135.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,114.0,2765.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,152.0,2526.0,11.0,0,0,0,Nick Stankus,Standing
+944013018,2427.0,3240.0,12.0,0,0,0,Nick Stankus,Standing
+944013018,2366.0,3472.0,11.0,0,0,0,Nick Stankus,Standing
+944013019,2963.0,3588.0,13.0,0,0,0,Nick Stankus,Standing
+944013019,2118.0,2196.0,12.0,0,0,0,Nick Stankus,Standing
+944013027,2865.0,54.0,1.0,0,0,0,Nick Stankus,Standing
+944013028,3510.0,1.0,3.0,0,0,0,Nick Stankus,Standing
+944013030,948.0,592.0,1.0,0,0,0,Nick Stankus,Standing
+944013030,891.0,781.0,3.0,0,0,0,Nick Stankus,Standing
+944013040,1.0,3375.0,3.0,0,0,0,Nick Stankus,Standing
+944013046,1.0,3229.0,2.0,0,0,0,Nick Stankus,Standing
+944013047,1.0,1.0,5.0,0,0,0,Nick Stankus,Standing
+944013049,3637.0,1.0,2.0,0,0,0,Nick Stankus,Standing
+944013089,3205.0,2961.0,12.0,0,0,0,Nick Stankus,Sitting
+944013089,3484.0,3196.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3554.0,3087.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3590.0,3177.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3588.0,3272.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3596.0,3385.0,10.0,0,0,0,Nick Stankus,Sitting
+944013091,3623.0,3551.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3588.0,3536.0,5.0,0,0,0,Nick Stankus,Sitting
+944013091,3580.0,3528.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3160.0,3417.0,13.0,0,0,0,Nick Stankus,Sitting
+944013092,3104.0,3489.0,19.0,0,0,0,Nick Stankus,Sitting
+944013092,2890.0,3301.0,24.0,0,0,0,Nick Stankus,Sitting
+944013092,2611.0,3243.0,25.0,0,0,0,Nick Stankus,Sitting
+944013095,3403.0,3232.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3467.0,3089.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3477.0,2914.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3523.0,3054.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3537.0,3201.0,8.0,0,0,0,Nick Stankus,Sitting
+944013096,3609.0,3438.0,6.0,0,0,0,Nick Stankus,Sitting
+944013096,3597.0,3418.0,4.0,0,0,0,Nick Stankus,Sitting
+944013097,3632.0,3621.0,10.0,0,0,0,Nick Stankus,Sitting
+944013097,3379.0,3359.0,17.0,0,0,0,Nick Stankus,Sitting
+944013100,2995.0,2992.0,11.0,0,0,0,Nick Stankus,Sitting
+944013100,3400.0,3447.0,10.0,0,0,0,Nick Stankus,Sitting
+944013101,3603.0,3572.0,9.0,0,0,0,Nick Stankus,Sitting
+944013101,3621.0,3471.0,8.0,0,0,0,Nick Stankus,Sitting
+944013101,3533.0,3323.0,13.0,0,0,0,Nick Stankus,Sitting
+944013101,3082.0,3268.0,24.0,0,0,0,Nick Stankus,Sitting
+944013105,908.0,3226.0,9.0,0,0,0,Nick Stankus,Sitting
+944013105,3271.0,3456.0,7.0,0,0,0,Nick Stankus,Sitting
+944013105,3322.0,3474.0,5.0,0,0,0,Nick Stankus,Sitting
+944013106,2406.0,3522.0,12.0,0,0,0,Nick Stankus,Sitting
+944013106,2542.0,3467.0,17.0,0,0,0,Nick Stankus,Sitting
+944013108,2719.0,2120.0,10.0,0,0,0,Nick Stankus,Sitting
+944013108,3263.0,3185.0,11.0,0,0,0,Nick Stankus,Sitting
+944013109,3501.0,3516.0,10.0,0,0,0,Nick Stankus,Sitting
+944013109,3617.0,3648.0,9.0,0,0,0,Nick Stankus,Sitting
+944013109,3582.0,3643.0,8.0,0,0,0,Nick Stankus,Sitting
+944013109,3496.0,3417.0,15.0,0,0,0,Nick Stankus,Sitting
+944013110,3162.0,3526.0,21.0,0,0,0,Nick Stankus,Sitting
+944013112,3001.0,1801.0,6.0,0,0,0,Nick Stankus,Sitting
+944013112,3479.0,2647.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3604.0,3042.0,9.0,0,0,0,Nick Stankus,Sitting
+944013113,3648.0,3311.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3665.0,3535.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3618.0,3618.0,10.0,0,0,0,Nick Stankus,Sitting
+944013114,2755.0,3381.0,18.0,0,0,0,Nick Stankus,Sitting
+944013116,3264.0,1844.0,10.0,0,0,0,Nick Stankus,Sitting
+944013116,3535.0,2063.0,12.0,0,0,0,Nick Stankus,Sitting
+944013117,3596.0,2843.0,10.0,0,0,0,Nick Stankus,Sitting
+944013117,3615.0,3416.0,8.0,0,0,0,Nick Stankus,Sitting
+944013117,3601.0,3521.0,11.0,0,0,0,Nick Stankus,Sitting
+944013117,1922.0,3493.0,17.0,0,0,0,Nick Stankus,Sitting
+944013120,3134.0,1150.0,7.0,0,0,0,Nick Stankus,Sitting
+944013120,3446.0,2703.0,9.0,0,0,0,Nick Stankus,Sitting
+944013120,3493.0,2957.0,10.0,0,0,0,Nick Stankus,Sitting
+944013120,3592.0,3320.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3656.0,3549.0,6.0,0,0,0,Nick Stankus,Sitting
+944013121,3449.0,3465.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3591.0,3513.0,10.0,0,0,0,Nick Stankus,Sitting
+944013121,3332.0,2205.0,18.0,0,0,0,Nick Stankus,Sitting
+944013123,3523.0,2971.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3608.0,3209.0,11.0,0,0,0,Nick Stankus,Sitting
+944013124,3597.0,2960.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3678.0,3473.0,9.0,0,0,0,Nick Stankus,Sitting
+944013124,3690.0,3616.0,8.0,0,0,0,Nick Stankus,Sitting
+944013125,3643.0,3489.0,11.0,0,0,0,Nick Stankus,Sitting
+944013125,3217.0,3405.0,20.0,0,0,0,Nick Stankus,Sitting
+944013128,3540.0,607.0,10.0,0,0,0,Nick Stankus,Sitting
+944013128,3675.0,2525.0,9.0,0,0,0,Nick Stankus,Sitting
+944013128,3663.0,3014.0,8.0,0,0,0,Nick Stankus,Sitting
+944013128,3655.0,3289.0,8.0,0,0,0,Nick Stankus,Sitting
+944013129,3666.0,3502.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3677.0,3624.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3598.0,3272.0,12.0,0,0,0,Nick Stankus,Sitting
+944013134,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013135,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1252.0,266.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1.0,1989.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2895.0,742.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2526.0,190.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,2697.0,2539.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,3528.0,3201.0,2.0,0,0,0,Nick Stankus,Sitting
+944013156,3484.0,3273.0,3.0,0,0,0,Nick Stankus,Sitting
+944013160,1.0,1.0,4.0,0,0,0,Nick Stankus,Sitting
+944013163,3365.0,2278.0,2.0,0,0,0,Nick Stankus,Sitting
+944013163,3105.0,1446.0,2.0,0,0,0,Nick Stankus,Sitting
+944013164,3155.0,1498.0,4.0,0,0,0,Nick Stankus,Sitting
+944013198,3119.0,1027.0,7.0,0,0,0,Nick Stankus,Walking
+944013199,3382.0,2308.0,8.0,0,0,0,Nick Stankus,Walking
+944013199,3441.0,2614.0,10.0,0,0,0,Nick Stankus,Walking
+944013199,3431.0,2847.0,13.0,0,0,0,Nick Stankus,Walking
+944013199,3543.0,2586.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3554.0,1709.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3560.0,1535.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3576.0,2661.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3525.0,3060.0,11.0,0,0,0,Nick Stankus,Walking
+944013201,3554.0,3062.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3614.0,3019.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3606.0,2912.0,12.0,1,0,0,Nick Stankus,Walking
+944013201,3543.0,2986.0,12.0,1,0,0,Nick Stankus,Walking
+944013202,3497.0,3135.0,11.0,1,0,0,Nick Stankus,Walking
+944013202,2206.0,2673.0,10.0,1,0,0,Nick Stankus,Walking
+944013202,2139.0,2168.0,12.0,0,0,0,Nick Stankus,Walking
+944013202,3016.0,2737.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2952.0,2278.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2776.0,2342.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,3170.0,3004.0,10.0,0,0,0,Nick Stankus,Walking
+944013203,3136.0,3083.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3148.0,2946.0,11.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,3110.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,2706.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3256.0,2596.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3350.0,3154.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3216.0,3027.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3241.0,3010.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3309.0,3021.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3297.0,2515.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3321.0,2702.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3350.0,3020.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3177.0,3030.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3143.0,2958.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,3173.0,2925.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2901.0,2744.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2671.0,2733.0,12.0,0,0,0,Nick Stankus,Walking
+944013207,2905.0,2904.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3128.0,2986.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3344.0,3063.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3420.0,3197.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3321.0,3234.0,12.0,0,0,0,Nick Stankus,Walking
+944013209,3340.0,3325.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3348.0,3466.0,10.0,0,0,0,Nick Stankus,Walking
+944013209,3228.0,3582.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3299.0,3573.0,12.0,0,0,0,Nick Stankus,Walking
+944013210,3443.0,3560.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3491.0,3551.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3485.0,3585.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3497.0,3593.0,12.0,0,0,0,Nick Stankus,Walking
+944013211,3450.0,3601.0,11.0,0,0,0,Nick Stankus,Walking
+944013211,3235.0,3612.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3369.0,3622.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3400.0,3584.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3010.0,2737.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3019.0,1356.0,14.0,0,1,0,Nick Stankus,Walking
+944013212,2542.0,2132.0,13.0,0,0,0,Nick Stankus,Walking
+944013212,2356.0,1340.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,2748.0,2217.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3142.0,1982.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3174.0,1921.0,18.0,0,0,0,Nick Stankus,Walking
+944013213,3275.0,2708.0,16.0,0,0,0,Nick Stankus,Walking
+944013214,3293.0,2938.0,17.0,0,0,0,Nick Stankus,Walking
+944013215,3175.0,2974.0,27.0,0,0,0,Nick Stankus,Walking
+944013215,3185.0,2865.0,28.0,0,0,0,Nick Stankus,Walking
+944013216,3329.0,2859.0,21.0,0,0,0,Nick Stankus,Walking
+944013224,3143.0,2911.0,27.0,0,0,0,Nick Stankus,Walking
+944013224,3036.0,2380.0,26.0,0,0,0,Nick Stankus,Walking
+944013224,3023.0,2135.0,21.0,0,0,0,Nick Stankus,Walking
+944013225,3077.0,1432.0,19.0,0,0,0,Nick Stankus,Walking
+944013225,3084.0,1774.0,20.0,0,0,0,Nick Stankus,Walking
+944013225,3040.0,2554.0,24.0,0,0,0,Nick Stankus,Walking
+944013225,3033.0,3026.0,28.0,0,0,0,Nick Stankus,Walking
+944013231,3464.0,3175.0,16.0,0,0,0,Nick Stankus,Walking
+944013231,3463.0,3197.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3080.0,3125.0,13.0,0,0,0,Nick Stankus,Walking
+944013232,2923.0,3167.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3128.0,3254.0,14.0,0,0,0,Nick Stankus,Walking
+944013232,3217.0,3202.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2890.0,3217.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2986.0,3244.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2799.0,3027.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2992.0,2863.0,12.0,0,0,0,Nick Stankus,Walking
+944013234,3302.0,2236.0,13.0,0,0,0,Nick Stankus,Walking
+944013234,3382.0,1268.0,14.0,0,0,0,Nick Stankus,Walking
+944013234,3308.0,2644.0,16.0,0,0,0,Nick Stankus,Walking
+944013235,3333.0,2767.0,20.0,0,0,0,Nick Stankus,Walking
+944013235,3373.0,2788.0,20.0,0,0,0,Nick Stankus,Walking
+944013239,3400.0,3093.0,17.0,0,0,0,Nick Stankus,Walking
+944013239,3267.0,3146.0,16.0,0,0,0,Nick Stankus,Walking
+944013240,3303.0,3010.0,17.0,0,0,0,Nick Stankus,Walking
+944013240,3407.0,2981.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3522.0,3292.0,17.0,0,0,0,Nick Stankus,Walking
+944013241,3534.0,3287.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3580.0,3324.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3624.0,3300.0,16.0,0,0,0,Nick Stankus,Walking
+944013242,3614.0,3080.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3161.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3313.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3657.0,3266.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3623.0,3322.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3602.0,3312.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3644.0,3066.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3635.0,3254.0,13.0,0,0,0,Nick Stankus,Walking
+944013244,3621.0,3448.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3582.0,3429.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3647.0,3447.0,12.0,1,0,0,Nick Stankus,Walking
+944013244,3675.0,3424.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,3423.0,2914.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,1426.0,3145.0,13.0,1,0,0,Nick Stankus,Walking
+944013245,971.0,3269.0,12.0,0,0,0,Nick Stankus,Walking
+944013245,1843.0,2798.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2214.0,905.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2757.0,1488.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2884.0,1.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,3048.0,3460.0,12.0,0,0,0,Nick Stankus,Walking
+944013247,3130.0,3638.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3124.0,3677.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3114.0,3679.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3256.0,3660.0,11.0,0,0,0,Nick Stankus,Walking
+944013248,3255.0,3552.0,12.0,0,0,0,Nick Stankus,Walking
+944013248,3346.0,3569.0,14.0,0,0,0,Nick Stankus,Walking
+944013248,3353.0,3638.0,15.0,0,0,0,Nick Stankus,Walking
+944013248,3194.0,3672.0,13.0,0,0,0,Nick Stankus,Walking
+944013249,3245.0,3673.0,15.0,0,0,0,Nick Stankus,Walking
+944013249,3260.0,3664.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3278.0,3621.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3251.0,3620.0,17.0,0,0,0,Nick Stankus,Walking
+944013250,3228.0,3662.0,18.0,0,0,0,Nick Stankus,Walking
+944013250,3210.0,3642.0,20.0,0,0,0,Nick Stankus,Walking
+944013250,3149.0,3617.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,3135.0,3507.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,2908.0,3376.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1563.0,921.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1927.0,2164.0,15.0,0,0,0,Nick Stankus,Walking
+944013252,2991.0,763.0,13.0,0,0,0,Nick Stankus,Walking
+944013252,2335.0,1541.0,16.0,0,0,0,Nick Stankus,Walking
+944013253,2618.0,2672.0,17.0,0,0,0,Nick Stankus,Walking
+944013253,1996.0,2307.0,23.0,0,0,0,Nick Stankus,Walking
+944013253,2431.0,2456.0,25.0,0,0,0,Nick Stankus,Walking
+944013253,2855.0,2832.0,18.0,0,0,0,Nick Stankus,Walking
+944013254,2998.0,2790.0,16.0,0,0,0,Nick Stankus,Walking
+944013255,2970.0,2935.0,21.0,0,0,0,Nick Stankus,Walking
+944013260,3191.0,3227.0,19.0,0,0,0,Nick Stankus,Walking
+944013264,3308.0,3205.0,19.0,0,0,0,Nick Stankus,Walking
+944013269,3304.0,1.0,27.0,0,0,0,Nick Stankus,Walking
+944013270,3265.0,2514.0,19.0,0,0,0,Nick Stankus,Walking
+944013270,3241.0,3010.0,20.0,0,0,0,Nick Stankus,Walking
+944013271,2793.0,2316.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3114.0,1486.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3177.0,2915.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,2976.0,3371.0,14.0,0,0,0,Nick Stankus,Walking
+944013272,3001.0,2931.0,14.0,0,0,0,Nick Stankus,Walking
+944013273,3136.0,2825.0,15.0,0,0,0,Nick Stankus,Walking
+944013273,3365.0,2671.0,16.0,0,0,0,Nick Stankus,Walking
+944013273,3321.0,2835.0,18.0,0,0,0,Nick Stankus,Walking
+944013275,2980.0,2252.0,23.0,0,0,0,Nick Stankus,Walking
+944013276,3013.0,2633.0,21.0,0,0,0,Nick Stankus,Walking
+944013276,3135.0,2932.0,18.0,0,0,0,Nick Stankus,Walking
+944013276,3180.0,2891.0,19.0,0,0,0,Nick Stankus,Walking
+944013276,3211.0,3092.0,23.0,0,0,0,Nick Stankus,Walking
+944013277,3257.0,3384.0,25.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3422.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3350.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3375.0,3423.0,24.0,0,0,1,Nick Stankus,Walking
+944013278,3400.0,3305.0,20.0,0,0,1,Nick Stankus,Walking
+944013278,3218.0,3346.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3147.0,2968.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3246.0,3272.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,3219.0,3144.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,2869.0,2445.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,3126.0,3104.0,13.0,0,0,0,Nick Stankus,Walking
+944013280,2858.0,2942.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,2915.0,2914.0,15.0,0,0,0,Nick Stankus,Walking
+944013280,3163.0,2950.0,15.0,0,0,0,Nick Stankus,Walking
+944013281,3170.0,2935.0,16.0,0,0,0,Nick Stankus,Walking
+944013281,3090.0,3147.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3180.0,3326.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3110.0,3126.0,18.0,0,0,0,Nick Stankus,Walking
+944013292,3474.0,3520.0,24.0,0,0,0,Nick Stankus,Walking
+944013292,3417.0,3434.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3407.0,3430.0,17.0,0,0,0,Nick Stankus,Walking
+944013293,3377.0,3449.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3135.0,2819.0,15.0,0,0,0,Nick Stankus,Walking
+944013293,2958.0,2643.0,13.0,0,0,0,Nick Stankus,Walking
+944013294,3175.0,2669.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3187.0,2032.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,2973.0,2097.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3074.0,3173.0,12.0,0,0,0,Nick Stankus,Walking
+944013295,2967.0,2952.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2755.0,1351.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2950.0,1885.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,3084.0,1103.0,10.0,0,0,0,Nick Stankus,Walking
+944013296,3038.0,72.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3036.0,1739.0,13.0,0,0,0,Nick Stankus,Walking
+944013296,3114.0,2962.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3093.0,2726.0,13.0,0,0,0,Nick Stankus,Walking
+944013297,3045.0,2707.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,3160.0,2784.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,2998.0,2644.0,15.0,0,0,0,Nick Stankus,Walking
+944013297,3055.0,3223.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,3066.0,3159.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,2340.0,2429.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2589.0,2586.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2859.0,2702.0,14.0,0,0,0,Nick Stankus,Walking
+944013299,2845.0,2307.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2776.0,3007.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2951.0,3402.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,3090.0,3465.0,16.0,0,0,0,Nick Stankus,Walking
+944013300,3040.0,3480.0,18.0,0,0,0,Nick Stankus,Walking
+944013300,3177.0,3501.0,17.0,0,0,0,Nick Stankus,Walking
+944013300,3344.0,3432.0,15.0,0,0,0,Nick Stankus,Walking
+944013300,3336.0,3239.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3367.0,3415.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3362.0,3474.0,15.0,0,0,0,Nick Stankus,Walking
+944013301,3336.0,3433.0,16.0,0,0,0,Nick Stankus,Walking
+944013301,3419.0,3434.0,17.0,0,0,0,Nick Stankus,Walking
+944013302,3417.0,3130.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3413.0,3133.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3466.0,3286.0,18.0,0,0,0,Nick Stankus,Walking
+944013302,3434.0,3336.0,17.0,0,0,0,Nick Stankus,Walking
+944013303,3360.0,3241.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3454.0,3403.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3427.0,3303.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3402.0,3401.0,20.0,0,0,0,Nick Stankus,Walking
+944013304,3386.0,3491.0,19.0,0,0,0,Nick Stankus,Walking
+944013305,3503.0,3433.0,21.0,0,0,0,Nick Stankus,Walking
+944013305,3502.0,3464.0,20.0,0,0,0,Nick Stankus,Walking
+944013305,3512.0,3511.0,18.0,0,0,0,Nick Stankus,Walking
+944013314,2274.0,3226.0,18.0,0,0,0,Nick Stankus,Walking
+944013315,3412.0,3362.0,19.0,0,0,0,Nick Stankus,Walking
+944013315,3607.0,3360.0,17.0,0,0,0,Nick Stankus,Walking
+944013315,3622.0,3244.0,18.0,0,0,0,Nick Stankus,Walking
+944013316,3647.0,3376.0,20.0,0,0,0,Nick Stankus,Walking
+944013317,3656.0,3381.0,21.0,0,0,0,Nick Stankus,Walking
+944013317,3651.0,3435.0,21.0,0,0,0,Nick Stankus,Walking
+944013318,3640.0,3438.0,18.0,0,0,0,Nick Stankus,Walking
+944013318,3655.0,3481.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3677.0,3447.0,20.0,0,0,0,Nick Stankus,Walking
+944013318,3678.0,3375.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3656.0,3415.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3672.0,3456.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3498.0,3458.0,17.0,1,0,0,Nick Stankus,Walking
+944013320,3117.0,3159.0,21.0,0,0,0,Nick Stankus,Walking
+944013330,3246.0,2818.0,19.0,0,0,0,Nick Stankus,Walking
+944013330,3231.0,2758.0,17.0,0,0,0,Nick Stankus,Walking
+944013331,3223.0,3179.0,16.0,0,0,0,Nick Stankus,Walking
+944013331,2834.0,3222.0,12.0,0,0,0,Nick Stankus,Walking
+944013331,2287.0,3004.0,11.0,0,0,0,Nick Stankus,Walking
+944013331,2876.0,3050.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,3116.0,3166.0,11.0,0,0,0,Nick Stankus,Walking
+944013332,2905.0,2854.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,2457.0,2771.0,10.0,0,0,0,Nick Stankus,Walking
+944013332,2763.0,3122.0,8.0,0,0,0,Nick Stankus,Walking
+944013332,1747.0,3089.0,8.0,0,0,0,Nick Stankus,Walking
+944013333,1968.0,2912.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,2928.0,3079.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,3062.0,2916.0,9.0,0,0,0,Nick Stankus,Walking
+944013333,2687.0,2761.0,11.0,0,0,0,Nick Stankus,Walking
+944013334,2761.0,3102.0,12.0,0,0,0,Nick Stankus,Walking
+944013334,2444.0,2853.0,13.0,0,0,0,Nick Stankus,Walking
+944013334,2474.0,2611.0,14.0,0,0,0,Nick Stankus,Walking
+944013334,3081.0,3040.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2441.0,2195.0,14.0,0,0,0,Nick Stankus,Walking
+944013335,2437.0,2699.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2958.0,2902.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2553.0,1510.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2692.0,2023.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,3148.0,2468.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2825.0,1204.0,16.0,0,0,0,Nick Stankus,Walking
+944013336,3091.0,2668.0,16.0,0,0,0,Nick Stankus,Walking
+944013337,3224.0,3247.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3176.0,2938.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3228.0,2889.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3309.0,2308.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3095.0,2026.0,17.0,0,0,0,Nick Stankus,Walking
+944013338,3216.0,2978.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3060.0,3146.0,15.0,0,0,0,Nick Stankus,Walking
+944013338,2654.0,2787.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3065.0,3075.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3247.0,3098.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3127.0,2772.0,17.0,0,0,0,Nick Stankus,Walking
+944013339,3195.0,3202.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3166.0,3301.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3100.0,3052.0,17.0,0,0,0,Nick Stankus,Walking
+944013340,3276.0,3006.0,15.0,0,0,0,Nick Stankus,Walking
+944013340,3284.0,2657.0,16.0,0,0,0,Nick Stankus,Walking
+944013341,3248.0,2761.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3306.0,3122.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3235.0,3252.0,15.0,0,0,0,Nick Stankus,Walking
+944013341,3251.0,2892.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3267.0,2663.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3298.0,2324.0,16.0,0,0,0,Nick Stankus,Walking
+944013342,3257.0,2285.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3313.0,3081.0,16.0,0,0,0,Nick Stankus,Walking
+944013343,3178.0,2972.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3241.0,2865.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3306.0,2955.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3171.0,2000.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3259.0,2938.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3077.0,2814.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3161.0,2596.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3175.0,2808.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3150.0,2351.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3138.0,2101.0,18.0,0,0,0,Nick Stankus,Walking
+944013346,3186.0,2769.0,16.0,0,0,0,Nick Stankus,Walking
+944013346,3037.0,1949.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3190.0,2586.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3253.0,2368.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3228.0,2520.0,21.0,0,0,0,Nick Stankus,Walking
+944013347,3258.0,3036.0,22.0,0,0,0,Nick Stankus,Walking
+944013347,3217.0,3249.0,20.0,0,0,0,Nick Stankus,Walking
+944013347,3086.0,2957.0,19.0,0,0,0,Nick Stankus,Walking
+944013348,3167.0,2735.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3082.0,3012.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3232.0,3168.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3378.0,3167.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3274.0,2838.0,19.0,0,0,0,Nick Stankus,Walking
+944013350,3217.0,3064.0,19.0,0,0,0,Nick Stankus,Walking
+944013352,3270.0,3292.0,22.0,0,0,0,Nick Stankus,Walking
+944013354,3153.0,3106.0,20.0,0,0,0,Nick Stankus,Walking
+944013355,3284.0,3160.0,19.0,0,0,0,Nick Stankus,Walking
+944013356,3274.0,3157.0,18.0,0,0,0,Nick Stankus,Walking
+944013360,3206.0,3068.0,17.0,0,0,0,Nick Stankus,Walking
+944013360,2981.0,3103.0,16.0,0,0,0,Nick Stankus,Walking
+944013360,1915.0,3130.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,194.0,2582.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,2512.0,2680.0,17.0,0,0,0,Nick Stankus,Walking
+944013361,3146.0,3040.0,18.0,0,0,0,Nick Stankus,Walking
+944013367,2376.0,2730.0,18.0,0,0,0,Nick Stankus,Walking
+944012978,3389.0,2830.0,14.0,0,0,0,Nick Stankus,Standing
+944012978,3399.0,3151.0,17.0,0,0,0,Nick Stankus,Standing
+944012978,3454.0,3375.0,15.0,0,0,0,Nick Stankus,Standing
+944012978,3383.0,3367.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,3522.0,3522.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3620.0,3530.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3594.0,3473.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,1652.0,685.0,11.0,0,0,0,Nick Stankus,Standing
+944012992,2922.0,2245.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,2112.0,3100.0,15.0,0,0,0,Nick Stankus,Standing
+944012993,3506.0,3400.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,3416.0,2965.0,13.0,0,0,0,Nick Stankus,Standing
+944012994,2350.0,1847.0,12.0,0,0,0,Nick Stankus,Standing
+944012997,3488.0,3550.0,14.0,0,0,0,Nick Stankus,Standing
+944012997,3551.0,3633.0,12.0,0,0,0,Nick Stankus,Standing
+944012998,3526.0,3687.0,10.0,0,0,0,Nick Stankus,Standing
+944012998,3449.0,3684.0,11.0,0,0,0,Nick Stankus,Standing
+944012998,2588.0,2871.0,12.0,0,0,0,Nick Stankus,Standing
+944013002,2074.0,3069.0,15.0,0,0,0,Nick Stankus,Standing
+944013002,2029.0,3325.0,13.0,0,0,0,Nick Stankus,Standing
+944013005,2474.0,2984.0,12.0,0,0,0,Nick Stankus,Standing
+944013005,2435.0,3249.0,9.0,0,0,0,Nick Stankus,Standing
+944013006,535.0,3400.0,7.0,0,0,0,Nick Stankus,Standing
+944013006,2542.0,2909.0,8.0,0,0,0,Nick Stankus,Standing
+944013007,993.0,1041.0,12.0,0,0,0,Nick Stankus,Standing
+944013007,3096.0,3084.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3518.0,3515.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3598.0,3633.0,13.0,0,0,0,Nick Stankus,Standing
+944013008,3484.0,3356.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3125.0,2567.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3537.0,1981.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3613.0,1904.0,8.0,0,0,0,Nick Stankus,Standing
+944013011,3602.0,3077.0,9.0,0,0,0,Nick Stankus,Standing
+944013014,1.0,3215.0,13.0,0,0,0,Nick Stankus,Standing
+944013017,2011.0,3135.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,114.0,2765.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,152.0,2526.0,11.0,0,0,0,Nick Stankus,Standing
+944013018,2427.0,3240.0,12.0,0,0,0,Nick Stankus,Standing
+944013018,2366.0,3472.0,11.0,0,0,0,Nick Stankus,Standing
+944013019,2963.0,3588.0,13.0,0,0,0,Nick Stankus,Standing
+944013019,2118.0,2196.0,12.0,0,0,0,Nick Stankus,Standing
+944013027,2865.0,54.0,1.0,0,0,0,Nick Stankus,Standing
+944013028,3510.0,1.0,3.0,0,0,0,Nick Stankus,Standing
+944013030,948.0,592.0,1.0,0,0,0,Nick Stankus,Standing
+944013030,891.0,781.0,3.0,0,0,0,Nick Stankus,Standing
+944013040,1.0,3375.0,3.0,0,0,0,Nick Stankus,Standing
+944013046,1.0,3229.0,2.0,0,0,0,Nick Stankus,Standing
+944013047,1.0,1.0,5.0,0,0,0,Nick Stankus,Standing
+944013049,3637.0,1.0,2.0,0,0,0,Nick Stankus,Standing
+944013089,3205.0,2961.0,12.0,0,0,0,Nick Stankus,Sitting
+944013089,3484.0,3196.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3554.0,3087.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3590.0,3177.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3588.0,3272.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3596.0,3385.0,10.0,0,0,0,Nick Stankus,Sitting
+944013091,3623.0,3551.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3588.0,3536.0,5.0,0,0,0,Nick Stankus,Sitting
+944013091,3580.0,3528.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3160.0,3417.0,13.0,0,0,0,Nick Stankus,Sitting
+944013092,3104.0,3489.0,19.0,0,0,0,Nick Stankus,Sitting
+944013092,2890.0,3301.0,24.0,0,0,0,Nick Stankus,Sitting
+944013092,2611.0,3243.0,25.0,0,0,0,Nick Stankus,Sitting
+944013095,3403.0,3232.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3467.0,3089.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3477.0,2914.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3523.0,3054.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3537.0,3201.0,8.0,0,0,0,Nick Stankus,Sitting
+944013096,3609.0,3438.0,6.0,0,0,0,Nick Stankus,Sitting
+944013096,3597.0,3418.0,4.0,0,0,0,Nick Stankus,Sitting
+944013097,3632.0,3621.0,10.0,0,0,0,Nick Stankus,Sitting
+944013097,3379.0,3359.0,17.0,0,0,0,Nick Stankus,Sitting
+944013100,2995.0,2992.0,11.0,0,0,0,Nick Stankus,Sitting
+944013100,3400.0,3447.0,10.0,0,0,0,Nick Stankus,Sitting
+944013101,3603.0,3572.0,9.0,0,0,0,Nick Stankus,Sitting
+944013101,3621.0,3471.0,8.0,0,0,0,Nick Stankus,Sitting
+944013101,3533.0,3323.0,13.0,0,0,0,Nick Stankus,Sitting
+944013101,3082.0,3268.0,24.0,0,0,0,Nick Stankus,Sitting
+944013105,908.0,3226.0,9.0,0,0,0,Nick Stankus,Sitting
+944013105,3271.0,3456.0,7.0,0,0,0,Nick Stankus,Sitting
+944013105,3322.0,3474.0,5.0,0,0,0,Nick Stankus,Sitting
+944013106,2406.0,3522.0,12.0,0,0,0,Nick Stankus,Sitting
+944013106,2542.0,3467.0,17.0,0,0,0,Nick Stankus,Sitting
+944013108,2719.0,2120.0,10.0,0,0,0,Nick Stankus,Sitting
+944013108,3263.0,3185.0,11.0,0,0,0,Nick Stankus,Sitting
+944013109,3501.0,3516.0,10.0,0,0,0,Nick Stankus,Sitting
+944013109,3617.0,3648.0,9.0,0,0,0,Nick Stankus,Sitting
+944013109,3582.0,3643.0,8.0,0,0,0,Nick Stankus,Sitting
+944013109,3496.0,3417.0,15.0,0,0,0,Nick Stankus,Sitting
+944013110,3162.0,3526.0,21.0,0,0,0,Nick Stankus,Sitting
+944013112,3001.0,1801.0,6.0,0,0,0,Nick Stankus,Sitting
+944013112,3479.0,2647.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3604.0,3042.0,9.0,0,0,0,Nick Stankus,Sitting
+944013113,3648.0,3311.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3665.0,3535.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3618.0,3618.0,10.0,0,0,0,Nick Stankus,Sitting
+944013114,2755.0,3381.0,18.0,0,0,0,Nick Stankus,Sitting
+944013116,3264.0,1844.0,10.0,0,0,0,Nick Stankus,Sitting
+944013116,3535.0,2063.0,12.0,0,0,0,Nick Stankus,Sitting
+944013117,3596.0,2843.0,10.0,0,0,0,Nick Stankus,Sitting
+944013117,3615.0,3416.0,8.0,0,0,0,Nick Stankus,Sitting
+944013117,3601.0,3521.0,11.0,0,0,0,Nick Stankus,Sitting
+944013117,1922.0,3493.0,17.0,0,0,0,Nick Stankus,Sitting
+944013120,3134.0,1150.0,7.0,0,0,0,Nick Stankus,Sitting
+944013120,3446.0,2703.0,9.0,0,0,0,Nick Stankus,Sitting
+944013120,3493.0,2957.0,10.0,0,0,0,Nick Stankus,Sitting
+944013120,3592.0,3320.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3656.0,3549.0,6.0,0,0,0,Nick Stankus,Sitting
+944013121,3449.0,3465.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3591.0,3513.0,10.0,0,0,0,Nick Stankus,Sitting
+944013121,3332.0,2205.0,18.0,0,0,0,Nick Stankus,Sitting
+944013123,3523.0,2971.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3608.0,3209.0,11.0,0,0,0,Nick Stankus,Sitting
+944013124,3597.0,2960.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3678.0,3473.0,9.0,0,0,0,Nick Stankus,Sitting
+944013124,3690.0,3616.0,8.0,0,0,0,Nick Stankus,Sitting
+944013125,3643.0,3489.0,11.0,0,0,0,Nick Stankus,Sitting
+944013125,3217.0,3405.0,20.0,0,0,0,Nick Stankus,Sitting
+944013128,3540.0,607.0,10.0,0,0,0,Nick Stankus,Sitting
+944013128,3675.0,2525.0,9.0,0,0,0,Nick Stankus,Sitting
+944013128,3663.0,3014.0,8.0,0,0,0,Nick Stankus,Sitting
+944013128,3655.0,3289.0,8.0,0,0,0,Nick Stankus,Sitting
+944013129,3666.0,3502.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3677.0,3624.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3598.0,3272.0,12.0,0,0,0,Nick Stankus,Sitting
+944013134,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013135,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1252.0,266.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1.0,1989.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2895.0,742.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2526.0,190.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,2697.0,2539.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,3528.0,3201.0,2.0,0,0,0,Nick Stankus,Sitting
+944013156,3484.0,3273.0,3.0,0,0,0,Nick Stankus,Sitting
+944013160,1.0,1.0,4.0,0,0,0,Nick Stankus,Sitting
+944013163,3365.0,2278.0,2.0,0,0,0,Nick Stankus,Sitting
+944013163,3105.0,1446.0,2.0,0,0,0,Nick Stankus,Sitting
+944013164,3155.0,1498.0,4.0,0,0,0,Nick Stankus,Sitting
+944013198,3119.0,1027.0,7.0,0,0,0,Nick Stankus,Walking
+944013199,3382.0,2308.0,8.0,0,0,0,Nick Stankus,Walking
+944013199,3441.0,2614.0,10.0,0,0,0,Nick Stankus,Walking
+944013199,3431.0,2847.0,13.0,0,0,0,Nick Stankus,Walking
+944013199,3543.0,2586.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3554.0,1709.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3560.0,1535.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3576.0,2661.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3525.0,3060.0,11.0,0,0,0,Nick Stankus,Walking
+944013201,3554.0,3062.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3614.0,3019.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3606.0,2912.0,12.0,1,0,0,Nick Stankus,Walking
+944013201,3543.0,2986.0,12.0,1,0,0,Nick Stankus,Walking
+944013202,3497.0,3135.0,11.0,1,0,0,Nick Stankus,Walking
+944013202,2206.0,2673.0,10.0,1,0,0,Nick Stankus,Walking
+944013202,2139.0,2168.0,12.0,0,0,0,Nick Stankus,Walking
+944013202,3016.0,2737.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2952.0,2278.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2776.0,2342.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,3170.0,3004.0,10.0,0,0,0,Nick Stankus,Walking
+944013203,3136.0,3083.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3148.0,2946.0,11.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,3110.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,2706.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3256.0,2596.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3350.0,3154.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3216.0,3027.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3241.0,3010.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3309.0,3021.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3297.0,2515.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3321.0,2702.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3350.0,3020.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3177.0,3030.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3143.0,2958.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,3173.0,2925.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2901.0,2744.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2671.0,2733.0,12.0,0,0,0,Nick Stankus,Walking
+944013207,2905.0,2904.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3128.0,2986.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3344.0,3063.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3420.0,3197.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3321.0,3234.0,12.0,0,0,0,Nick Stankus,Walking
+944013209,3340.0,3325.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3348.0,3466.0,10.0,0,0,0,Nick Stankus,Walking
+944013209,3228.0,3582.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3299.0,3573.0,12.0,0,0,0,Nick Stankus,Walking
+944013210,3443.0,3560.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3491.0,3551.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3485.0,3585.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3497.0,3593.0,12.0,0,0,0,Nick Stankus,Walking
+944013211,3450.0,3601.0,11.0,0,0,0,Nick Stankus,Walking
+944013211,3235.0,3612.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3369.0,3622.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3400.0,3584.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3010.0,2737.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3019.0,1356.0,14.0,0,1,0,Nick Stankus,Walking
+944013212,2542.0,2132.0,13.0,0,0,0,Nick Stankus,Walking
+944013212,2356.0,1340.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,2748.0,2217.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3142.0,1982.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3174.0,1921.0,18.0,0,0,0,Nick Stankus,Walking
+944013213,3275.0,2708.0,16.0,0,0,0,Nick Stankus,Walking
+944013214,3293.0,2938.0,17.0,0,0,0,Nick Stankus,Walking
+944013215,3175.0,2974.0,27.0,0,0,0,Nick Stankus,Walking
+944013215,3185.0,2865.0,28.0,0,0,0,Nick Stankus,Walking
+944013216,3329.0,2859.0,21.0,0,0,0,Nick Stankus,Walking
+944013224,3143.0,2911.0,27.0,0,0,0,Nick Stankus,Walking
+944013224,3036.0,2380.0,26.0,0,0,0,Nick Stankus,Walking
+944013224,3023.0,2135.0,21.0,0,0,0,Nick Stankus,Walking
+944013225,3077.0,1432.0,19.0,0,0,0,Nick Stankus,Walking
+944013225,3084.0,1774.0,20.0,0,0,0,Nick Stankus,Walking
+944013225,3040.0,2554.0,24.0,0,0,0,Nick Stankus,Walking
+944013225,3033.0,3026.0,28.0,0,0,0,Nick Stankus,Walking
+944013231,3464.0,3175.0,16.0,0,0,0,Nick Stankus,Walking
+944013231,3463.0,3197.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3080.0,3125.0,13.0,0,0,0,Nick Stankus,Walking
+944013232,2923.0,3167.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3128.0,3254.0,14.0,0,0,0,Nick Stankus,Walking
+944013232,3217.0,3202.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2890.0,3217.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2986.0,3244.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2799.0,3027.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2992.0,2863.0,12.0,0,0,0,Nick Stankus,Walking
+944013234,3302.0,2236.0,13.0,0,0,0,Nick Stankus,Walking
+944013234,3382.0,1268.0,14.0,0,0,0,Nick Stankus,Walking
+944013234,3308.0,2644.0,16.0,0,0,0,Nick Stankus,Walking
+944013235,3333.0,2767.0,20.0,0,0,0,Nick Stankus,Walking
+944013235,3373.0,2788.0,20.0,0,0,0,Nick Stankus,Walking
+944013239,3400.0,3093.0,17.0,0,0,0,Nick Stankus,Walking
+944013239,3267.0,3146.0,16.0,0,0,0,Nick Stankus,Walking
+944013240,3303.0,3010.0,17.0,0,0,0,Nick Stankus,Walking
+944013240,3407.0,2981.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3522.0,3292.0,17.0,0,0,0,Nick Stankus,Walking
+944013241,3534.0,3287.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3580.0,3324.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3624.0,3300.0,16.0,0,0,0,Nick Stankus,Walking
+944013242,3614.0,3080.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3161.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3313.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3657.0,3266.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3623.0,3322.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3602.0,3312.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3644.0,3066.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3635.0,3254.0,13.0,0,0,0,Nick Stankus,Walking
+944013244,3621.0,3448.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3582.0,3429.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3647.0,3447.0,12.0,1,0,0,Nick Stankus,Walking
+944013244,3675.0,3424.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,3423.0,2914.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,1426.0,3145.0,13.0,1,0,0,Nick Stankus,Walking
+944013245,971.0,3269.0,12.0,0,0,0,Nick Stankus,Walking
+944013245,1843.0,2798.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2214.0,905.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2757.0,1488.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2884.0,1.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,3048.0,3460.0,12.0,0,0,0,Nick Stankus,Walking
+944013247,3130.0,3638.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3124.0,3677.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3114.0,3679.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3256.0,3660.0,11.0,0,0,0,Nick Stankus,Walking
+944013248,3255.0,3552.0,12.0,0,0,0,Nick Stankus,Walking
+944013248,3346.0,3569.0,14.0,0,0,0,Nick Stankus,Walking
+944013248,3353.0,3638.0,15.0,0,0,0,Nick Stankus,Walking
+944013248,3194.0,3672.0,13.0,0,0,0,Nick Stankus,Walking
+944013249,3245.0,3673.0,15.0,0,0,0,Nick Stankus,Walking
+944013249,3260.0,3664.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3278.0,3621.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3251.0,3620.0,17.0,0,0,0,Nick Stankus,Walking
+944013250,3228.0,3662.0,18.0,0,0,0,Nick Stankus,Walking
+944013250,3210.0,3642.0,20.0,0,0,0,Nick Stankus,Walking
+944013250,3149.0,3617.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,3135.0,3507.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,2908.0,3376.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1563.0,921.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1927.0,2164.0,15.0,0,0,0,Nick Stankus,Walking
+944013252,2991.0,763.0,13.0,0,0,0,Nick Stankus,Walking
+944013252,2335.0,1541.0,16.0,0,0,0,Nick Stankus,Walking
+944013253,2618.0,2672.0,17.0,0,0,0,Nick Stankus,Walking
+944013253,1996.0,2307.0,23.0,0,0,0,Nick Stankus,Walking
+944013253,2431.0,2456.0,25.0,0,0,0,Nick Stankus,Walking
+944013253,2855.0,2832.0,18.0,0,0,0,Nick Stankus,Walking
+944013254,2998.0,2790.0,16.0,0,0,0,Nick Stankus,Walking
+944013255,2970.0,2935.0,21.0,0,0,0,Nick Stankus,Walking
+944013260,3191.0,3227.0,19.0,0,0,0,Nick Stankus,Walking
+944013264,3308.0,3205.0,19.0,0,0,0,Nick Stankus,Walking
+944013269,3304.0,1.0,27.0,0,0,0,Nick Stankus,Walking
+944013270,3265.0,2514.0,19.0,0,0,0,Nick Stankus,Walking
+944013270,3241.0,3010.0,20.0,0,0,0,Nick Stankus,Walking
+944013271,2793.0,2316.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3114.0,1486.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3177.0,2915.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,2976.0,3371.0,14.0,0,0,0,Nick Stankus,Walking
+944013272,3001.0,2931.0,14.0,0,0,0,Nick Stankus,Walking
+944013273,3136.0,2825.0,15.0,0,0,0,Nick Stankus,Walking
+944013273,3365.0,2671.0,16.0,0,0,0,Nick Stankus,Walking
+944013273,3321.0,2835.0,18.0,0,0,0,Nick Stankus,Walking
+944013275,2980.0,2252.0,23.0,0,0,0,Nick Stankus,Walking
+944013276,3013.0,2633.0,21.0,0,0,0,Nick Stankus,Walking
+944013276,3135.0,2932.0,18.0,0,0,0,Nick Stankus,Walking
+944013276,3180.0,2891.0,19.0,0,0,0,Nick Stankus,Walking
+944013276,3211.0,3092.0,23.0,0,0,0,Nick Stankus,Walking
+944013277,3257.0,3384.0,25.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3422.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3350.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3375.0,3423.0,24.0,0,0,1,Nick Stankus,Walking
+944013278,3400.0,3305.0,20.0,0,0,1,Nick Stankus,Walking
+944013278,3218.0,3346.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3147.0,2968.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3246.0,3272.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,3219.0,3144.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,2869.0,2445.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,3126.0,3104.0,13.0,0,0,0,Nick Stankus,Walking
+944013280,2858.0,2942.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,2915.0,2914.0,15.0,0,0,0,Nick Stankus,Walking
+944013280,3163.0,2950.0,15.0,0,0,0,Nick Stankus,Walking
+944013281,3170.0,2935.0,16.0,0,0,0,Nick Stankus,Walking
+944013281,3090.0,3147.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3180.0,3326.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3110.0,3126.0,18.0,0,0,0,Nick Stankus,Walking
+944013292,3474.0,3520.0,24.0,0,0,0,Nick Stankus,Walking
+944013292,3417.0,3434.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3407.0,3430.0,17.0,0,0,0,Nick Stankus,Walking
+944013293,3377.0,3449.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3135.0,2819.0,15.0,0,0,0,Nick Stankus,Walking
+944013293,2958.0,2643.0,13.0,0,0,0,Nick Stankus,Walking
+944013294,3175.0,2669.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3187.0,2032.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,2973.0,2097.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3074.0,3173.0,12.0,0,0,0,Nick Stankus,Walking
+944013295,2967.0,2952.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2755.0,1351.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2950.0,1885.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,3084.0,1103.0,10.0,0,0,0,Nick Stankus,Walking
+944013296,3038.0,72.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3036.0,1739.0,13.0,0,0,0,Nick Stankus,Walking
+944013296,3114.0,2962.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3093.0,2726.0,13.0,0,0,0,Nick Stankus,Walking
+944013297,3045.0,2707.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,3160.0,2784.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,2998.0,2644.0,15.0,0,0,0,Nick Stankus,Walking
+944013297,3055.0,3223.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,3066.0,3159.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,2340.0,2429.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2589.0,2586.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2859.0,2702.0,14.0,0,0,0,Nick Stankus,Walking
+944013299,2845.0,2307.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2776.0,3007.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2951.0,3402.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,3090.0,3465.0,16.0,0,0,0,Nick Stankus,Walking
+944013300,3040.0,3480.0,18.0,0,0,0,Nick Stankus,Walking
+944013300,3177.0,3501.0,17.0,0,0,0,Nick Stankus,Walking
+944013300,3344.0,3432.0,15.0,0,0,0,Nick Stankus,Walking
+944013300,3336.0,3239.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3367.0,3415.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3362.0,3474.0,15.0,0,0,0,Nick Stankus,Walking
+944013301,3336.0,3433.0,16.0,0,0,0,Nick Stankus,Walking
+944013301,3419.0,3434.0,17.0,0,0,0,Nick Stankus,Walking
+944013302,3417.0,3130.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3413.0,3133.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3466.0,3286.0,18.0,0,0,0,Nick Stankus,Walking
+944013302,3434.0,3336.0,17.0,0,0,0,Nick Stankus,Walking
+944013303,3360.0,3241.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3454.0,3403.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3427.0,3303.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3402.0,3401.0,20.0,0,0,0,Nick Stankus,Walking
+944013304,3386.0,3491.0,19.0,0,0,0,Nick Stankus,Walking
+944013305,3503.0,3433.0,21.0,0,0,0,Nick Stankus,Walking
+944013305,3502.0,3464.0,20.0,0,0,0,Nick Stankus,Walking
+944013305,3512.0,3511.0,18.0,0,0,0,Nick Stankus,Walking
+944013314,2274.0,3226.0,18.0,0,0,0,Nick Stankus,Walking
+944013315,3412.0,3362.0,19.0,0,0,0,Nick Stankus,Walking
+944013315,3607.0,3360.0,17.0,0,0,0,Nick Stankus,Walking
+944013315,3622.0,3244.0,18.0,0,0,0,Nick Stankus,Walking
+944013316,3647.0,3376.0,20.0,0,0,0,Nick Stankus,Walking
+944013317,3656.0,3381.0,21.0,0,0,0,Nick Stankus,Walking
+944013317,3651.0,3435.0,21.0,0,0,0,Nick Stankus,Walking
+944013318,3640.0,3438.0,18.0,0,0,0,Nick Stankus,Walking
+944013318,3655.0,3481.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3677.0,3447.0,20.0,0,0,0,Nick Stankus,Walking
+944013318,3678.0,3375.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3656.0,3415.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3672.0,3456.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3498.0,3458.0,17.0,1,0,0,Nick Stankus,Walking
+944013320,3117.0,3159.0,21.0,0,0,0,Nick Stankus,Walking
+944013330,3246.0,2818.0,19.0,0,0,0,Nick Stankus,Walking
+944013330,3231.0,2758.0,17.0,0,0,0,Nick Stankus,Walking
+944013331,3223.0,3179.0,16.0,0,0,0,Nick Stankus,Walking
+944013331,2834.0,3222.0,12.0,0,0,0,Nick Stankus,Walking
+944013331,2287.0,3004.0,11.0,0,0,0,Nick Stankus,Walking
+944013331,2876.0,3050.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,3116.0,3166.0,11.0,0,0,0,Nick Stankus,Walking
+944013332,2905.0,2854.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,2457.0,2771.0,10.0,0,0,0,Nick Stankus,Walking
+944013332,2763.0,3122.0,8.0,0,0,0,Nick Stankus,Walking
+944013332,1747.0,3089.0,8.0,0,0,0,Nick Stankus,Walking
+944013333,1968.0,2912.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,2928.0,3079.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,3062.0,2916.0,9.0,0,0,0,Nick Stankus,Walking
+944013333,2687.0,2761.0,11.0,0,0,0,Nick Stankus,Walking
+944013334,2761.0,3102.0,12.0,0,0,0,Nick Stankus,Walking
+944013334,2444.0,2853.0,13.0,0,0,0,Nick Stankus,Walking
+944013334,2474.0,2611.0,14.0,0,0,0,Nick Stankus,Walking
+944013334,3081.0,3040.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2441.0,2195.0,14.0,0,0,0,Nick Stankus,Walking
+944013335,2437.0,2699.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2958.0,2902.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2553.0,1510.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2692.0,2023.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,3148.0,2468.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2825.0,1204.0,16.0,0,0,0,Nick Stankus,Walking
+944013336,3091.0,2668.0,16.0,0,0,0,Nick Stankus,Walking
+944013337,3224.0,3247.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3176.0,2938.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3228.0,2889.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3309.0,2308.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3095.0,2026.0,17.0,0,0,0,Nick Stankus,Walking
+944013338,3216.0,2978.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3060.0,3146.0,15.0,0,0,0,Nick Stankus,Walking
+944013338,2654.0,2787.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3065.0,3075.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3247.0,3098.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3127.0,2772.0,17.0,0,0,0,Nick Stankus,Walking
+944013339,3195.0,3202.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3166.0,3301.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3100.0,3052.0,17.0,0,0,0,Nick Stankus,Walking
+944013340,3276.0,3006.0,15.0,0,0,0,Nick Stankus,Walking
+944013340,3284.0,2657.0,16.0,0,0,0,Nick Stankus,Walking
+944013341,3248.0,2761.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3306.0,3122.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3235.0,3252.0,15.0,0,0,0,Nick Stankus,Walking
+944013341,3251.0,2892.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3267.0,2663.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3298.0,2324.0,16.0,0,0,0,Nick Stankus,Walking
+944013342,3257.0,2285.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3313.0,3081.0,16.0,0,0,0,Nick Stankus,Walking
+944013343,3178.0,2972.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3241.0,2865.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3306.0,2955.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3171.0,2000.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3259.0,2938.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3077.0,2814.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3161.0,2596.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3175.0,2808.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3150.0,2351.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3138.0,2101.0,18.0,0,0,0,Nick Stankus,Walking
+944013346,3186.0,2769.0,16.0,0,0,0,Nick Stankus,Walking
+944013346,3037.0,1949.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3190.0,2586.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3253.0,2368.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3228.0,2520.0,21.0,0,0,0,Nick Stankus,Walking
+944013347,3258.0,3036.0,22.0,0,0,0,Nick Stankus,Walking
+944013347,3217.0,3249.0,20.0,0,0,0,Nick Stankus,Walking
+944013347,3086.0,2957.0,19.0,0,0,0,Nick Stankus,Walking
+944013348,3167.0,2735.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3082.0,3012.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3232.0,3168.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3378.0,3167.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3274.0,2838.0,19.0,0,0,0,Nick Stankus,Walking
+944013350,3217.0,3064.0,19.0,0,0,0,Nick Stankus,Walking
+944013352,3270.0,3292.0,22.0,0,0,0,Nick Stankus,Walking
+944013354,3153.0,3106.0,20.0,0,0,0,Nick Stankus,Walking
+944013355,3284.0,3160.0,19.0,0,0,0,Nick Stankus,Walking
+944013356,3274.0,3157.0,18.0,0,0,0,Nick Stankus,Walking
+944013360,3206.0,3068.0,17.0,0,0,0,Nick Stankus,Walking
+944013360,2981.0,3103.0,16.0,0,0,0,Nick Stankus,Walking
+944013360,1915.0,3130.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,194.0,2582.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,2512.0,2680.0,17.0,0,0,0,Nick Stankus,Walking
+944013361,3146.0,3040.0,18.0,0,0,0,Nick Stankus,Walking
+944013367,2376.0,2730.0,18.0,0,0,0,Nick Stankus,Walking
+944012978,3389.0,2830.0,14.0,0,0,0,Nick Stankus,Standing
+944012978,3399.0,3151.0,17.0,0,0,0,Nick Stankus,Standing
+944012978,3454.0,3375.0,15.0,0,0,0,Nick Stankus,Standing
+944012978,3383.0,3367.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,3522.0,3522.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3620.0,3530.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3594.0,3473.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,1652.0,685.0,11.0,0,0,0,Nick Stankus,Standing
+944012992,2922.0,2245.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,2112.0,3100.0,15.0,0,0,0,Nick Stankus,Standing
+944012993,3506.0,3400.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,3416.0,2965.0,13.0,0,0,0,Nick Stankus,Standing
+944012994,2350.0,1847.0,12.0,0,0,0,Nick Stankus,Standing
+944012997,3488.0,3550.0,14.0,0,0,0,Nick Stankus,Standing
+944012997,3551.0,3633.0,12.0,0,0,0,Nick Stankus,Standing
+944012998,3526.0,3687.0,10.0,0,0,0,Nick Stankus,Standing
+944012998,3449.0,3684.0,11.0,0,0,0,Nick Stankus,Standing
+944012998,2588.0,2871.0,12.0,0,0,0,Nick Stankus,Standing
+944013002,2074.0,3069.0,15.0,0,0,0,Nick Stankus,Standing
+944013002,2029.0,3325.0,13.0,0,0,0,Nick Stankus,Standing
+944013005,2474.0,2984.0,12.0,0,0,0,Nick Stankus,Standing
+944013005,2435.0,3249.0,9.0,0,0,0,Nick Stankus,Standing
+944013006,535.0,3400.0,7.0,0,0,0,Nick Stankus,Standing
+944013006,2542.0,2909.0,8.0,0,0,0,Nick Stankus,Standing
+944013007,993.0,1041.0,12.0,0,0,0,Nick Stankus,Standing
+944013007,3096.0,3084.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3518.0,3515.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3598.0,3633.0,13.0,0,0,0,Nick Stankus,Standing
+944013008,3484.0,3356.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3125.0,2567.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3537.0,1981.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3613.0,1904.0,8.0,0,0,0,Nick Stankus,Standing
+944013011,3602.0,3077.0,9.0,0,0,0,Nick Stankus,Standing
+944013014,1.0,3215.0,13.0,0,0,0,Nick Stankus,Standing
+944013017,2011.0,3135.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,114.0,2765.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,152.0,2526.0,11.0,0,0,0,Nick Stankus,Standing
+944013018,2427.0,3240.0,12.0,0,0,0,Nick Stankus,Standing
+944013018,2366.0,3472.0,11.0,0,0,0,Nick Stankus,Standing
+944013019,2963.0,3588.0,13.0,0,0,0,Nick Stankus,Standing
+944013019,2118.0,2196.0,12.0,0,0,0,Nick Stankus,Standing
+944013027,2865.0,54.0,1.0,0,0,0,Nick Stankus,Standing
+944013028,3510.0,1.0,3.0,0,0,0,Nick Stankus,Standing
+944013030,948.0,592.0,1.0,0,0,0,Nick Stankus,Standing
+944013030,891.0,781.0,3.0,0,0,0,Nick Stankus,Standing
+944013040,1.0,3375.0,3.0,0,0,0,Nick Stankus,Standing
+944013046,1.0,3229.0,2.0,0,0,0,Nick Stankus,Standing
+944013047,1.0,1.0,5.0,0,0,0,Nick Stankus,Standing
+944013049,3637.0,1.0,2.0,0,0,0,Nick Stankus,Standing
+944013089,3205.0,2961.0,12.0,0,0,0,Nick Stankus,Sitting
+944013089,3484.0,3196.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3554.0,3087.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3590.0,3177.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3588.0,3272.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3596.0,3385.0,10.0,0,0,0,Nick Stankus,Sitting
+944013091,3623.0,3551.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3588.0,3536.0,5.0,0,0,0,Nick Stankus,Sitting
+944013091,3580.0,3528.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3160.0,3417.0,13.0,0,0,0,Nick Stankus,Sitting
+944013092,3104.0,3489.0,19.0,0,0,0,Nick Stankus,Sitting
+944013092,2890.0,3301.0,24.0,0,0,0,Nick Stankus,Sitting
+944013092,2611.0,3243.0,25.0,0,0,0,Nick Stankus,Sitting
+944013095,3403.0,3232.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3467.0,3089.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3477.0,2914.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3523.0,3054.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3537.0,3201.0,8.0,0,0,0,Nick Stankus,Sitting
+944013096,3609.0,3438.0,6.0,0,0,0,Nick Stankus,Sitting
+944013096,3597.0,3418.0,4.0,0,0,0,Nick Stankus,Sitting
+944013097,3632.0,3621.0,10.0,0,0,0,Nick Stankus,Sitting
+944013097,3379.0,3359.0,17.0,0,0,0,Nick Stankus,Sitting
+944013100,2995.0,2992.0,11.0,0,0,0,Nick Stankus,Sitting
+944013100,3400.0,3447.0,10.0,0,0,0,Nick Stankus,Sitting
+944013101,3603.0,3572.0,9.0,0,0,0,Nick Stankus,Sitting
+944013101,3621.0,3471.0,8.0,0,0,0,Nick Stankus,Sitting
+944013101,3533.0,3323.0,13.0,0,0,0,Nick Stankus,Sitting
+944013101,3082.0,3268.0,24.0,0,0,0,Nick Stankus,Sitting
+944013105,908.0,3226.0,9.0,0,0,0,Nick Stankus,Sitting
+944013105,3271.0,3456.0,7.0,0,0,0,Nick Stankus,Sitting
+944013105,3322.0,3474.0,5.0,0,0,0,Nick Stankus,Sitting
+944013106,2406.0,3522.0,12.0,0,0,0,Nick Stankus,Sitting
+944013106,2542.0,3467.0,17.0,0,0,0,Nick Stankus,Sitting
+944013108,2719.0,2120.0,10.0,0,0,0,Nick Stankus,Sitting
+944013108,3263.0,3185.0,11.0,0,0,0,Nick Stankus,Sitting
+944013109,3501.0,3516.0,10.0,0,0,0,Nick Stankus,Sitting
+944013109,3617.0,3648.0,9.0,0,0,0,Nick Stankus,Sitting
+944013109,3582.0,3643.0,8.0,0,0,0,Nick Stankus,Sitting
+944013109,3496.0,3417.0,15.0,0,0,0,Nick Stankus,Sitting
+944013110,3162.0,3526.0,21.0,0,0,0,Nick Stankus,Sitting
+944013112,3001.0,1801.0,6.0,0,0,0,Nick Stankus,Sitting
+944013112,3479.0,2647.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3604.0,3042.0,9.0,0,0,0,Nick Stankus,Sitting
+944013113,3648.0,3311.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3665.0,3535.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3618.0,3618.0,10.0,0,0,0,Nick Stankus,Sitting
+944013114,2755.0,3381.0,18.0,0,0,0,Nick Stankus,Sitting
+944013116,3264.0,1844.0,10.0,0,0,0,Nick Stankus,Sitting
+944013116,3535.0,2063.0,12.0,0,0,0,Nick Stankus,Sitting
+944013117,3596.0,2843.0,10.0,0,0,0,Nick Stankus,Sitting
+944013117,3615.0,3416.0,8.0,0,0,0,Nick Stankus,Sitting
+944013117,3601.0,3521.0,11.0,0,0,0,Nick Stankus,Sitting
+944013117,1922.0,3493.0,17.0,0,0,0,Nick Stankus,Sitting
+944013120,3134.0,1150.0,7.0,0,0,0,Nick Stankus,Sitting
+944013120,3446.0,2703.0,9.0,0,0,0,Nick Stankus,Sitting
+944013120,3493.0,2957.0,10.0,0,0,0,Nick Stankus,Sitting
+944013120,3592.0,3320.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3656.0,3549.0,6.0,0,0,0,Nick Stankus,Sitting
+944013121,3449.0,3465.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3591.0,3513.0,10.0,0,0,0,Nick Stankus,Sitting
+944013121,3332.0,2205.0,18.0,0,0,0,Nick Stankus,Sitting
+944013123,3523.0,2971.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3608.0,3209.0,11.0,0,0,0,Nick Stankus,Sitting
+944013124,3597.0,2960.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3678.0,3473.0,9.0,0,0,0,Nick Stankus,Sitting
+944013124,3690.0,3616.0,8.0,0,0,0,Nick Stankus,Sitting
+944013125,3643.0,3489.0,11.0,0,0,0,Nick Stankus,Sitting
+944013125,3217.0,3405.0,20.0,0,0,0,Nick Stankus,Sitting
+944013128,3540.0,607.0,10.0,0,0,0,Nick Stankus,Sitting
+944013128,3675.0,2525.0,9.0,0,0,0,Nick Stankus,Sitting
+944013128,3663.0,3014.0,8.0,0,0,0,Nick Stankus,Sitting
+944013128,3655.0,3289.0,8.0,0,0,0,Nick Stankus,Sitting
+944013129,3666.0,3502.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3677.0,3624.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3598.0,3272.0,12.0,0,0,0,Nick Stankus,Sitting
+944013134,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013135,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1252.0,266.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1.0,1989.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2895.0,742.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2526.0,190.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,2697.0,2539.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,3528.0,3201.0,2.0,0,0,0,Nick Stankus,Sitting
+944013156,3484.0,3273.0,3.0,0,0,0,Nick Stankus,Sitting
+944013160,1.0,1.0,4.0,0,0,0,Nick Stankus,Sitting
+944013163,3365.0,2278.0,2.0,0,0,0,Nick Stankus,Sitting
+944013163,3105.0,1446.0,2.0,0,0,0,Nick Stankus,Sitting
+944013164,3155.0,1498.0,4.0,0,0,0,Nick Stankus,Sitting
+944013198,3119.0,1027.0,7.0,0,0,0,Nick Stankus,Walking
+944013199,3382.0,2308.0,8.0,0,0,0,Nick Stankus,Walking
+944013199,3441.0,2614.0,10.0,0,0,0,Nick Stankus,Walking
+944013199,3431.0,2847.0,13.0,0,0,0,Nick Stankus,Walking
+944013199,3543.0,2586.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3554.0,1709.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3560.0,1535.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3576.0,2661.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3525.0,3060.0,11.0,0,0,0,Nick Stankus,Walking
+944013201,3554.0,3062.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3614.0,3019.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3606.0,2912.0,12.0,1,0,0,Nick Stankus,Walking
+944013201,3543.0,2986.0,12.0,1,0,0,Nick Stankus,Walking
+944013202,3497.0,3135.0,11.0,1,0,0,Nick Stankus,Walking
+944013202,2206.0,2673.0,10.0,1,0,0,Nick Stankus,Walking
+944013202,2139.0,2168.0,12.0,0,0,0,Nick Stankus,Walking
+944013202,3016.0,2737.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2952.0,2278.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2776.0,2342.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,3170.0,3004.0,10.0,0,0,0,Nick Stankus,Walking
+944013203,3136.0,3083.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3148.0,2946.0,11.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,3110.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,2706.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3256.0,2596.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3350.0,3154.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3216.0,3027.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3241.0,3010.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3309.0,3021.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3297.0,2515.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3321.0,2702.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3350.0,3020.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3177.0,3030.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3143.0,2958.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,3173.0,2925.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2901.0,2744.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2671.0,2733.0,12.0,0,0,0,Nick Stankus,Walking
+944013207,2905.0,2904.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3128.0,2986.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3344.0,3063.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3420.0,3197.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3321.0,3234.0,12.0,0,0,0,Nick Stankus,Walking
+944013209,3340.0,3325.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3348.0,3466.0,10.0,0,0,0,Nick Stankus,Walking
+944013209,3228.0,3582.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3299.0,3573.0,12.0,0,0,0,Nick Stankus,Walking
+944013210,3443.0,3560.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3491.0,3551.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3485.0,3585.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3497.0,3593.0,12.0,0,0,0,Nick Stankus,Walking
+944013211,3450.0,3601.0,11.0,0,0,0,Nick Stankus,Walking
+944013211,3235.0,3612.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3369.0,3622.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3400.0,3584.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3010.0,2737.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3019.0,1356.0,14.0,0,1,0,Nick Stankus,Walking
+944013212,2542.0,2132.0,13.0,0,0,0,Nick Stankus,Walking
+944013212,2356.0,1340.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,2748.0,2217.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3142.0,1982.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3174.0,1921.0,18.0,0,0,0,Nick Stankus,Walking
+944013213,3275.0,2708.0,16.0,0,0,0,Nick Stankus,Walking
+944013214,3293.0,2938.0,17.0,0,0,0,Nick Stankus,Walking
+944013215,3175.0,2974.0,27.0,0,0,0,Nick Stankus,Walking
+944013215,3185.0,2865.0,28.0,0,0,0,Nick Stankus,Walking
+944013216,3329.0,2859.0,21.0,0,0,0,Nick Stankus,Walking
+944013224,3143.0,2911.0,27.0,0,0,0,Nick Stankus,Walking
+944013224,3036.0,2380.0,26.0,0,0,0,Nick Stankus,Walking
+944013224,3023.0,2135.0,21.0,0,0,0,Nick Stankus,Walking
+944013225,3077.0,1432.0,19.0,0,0,0,Nick Stankus,Walking
+944013225,3084.0,1774.0,20.0,0,0,0,Nick Stankus,Walking
+944013225,3040.0,2554.0,24.0,0,0,0,Nick Stankus,Walking
+944013225,3033.0,3026.0,28.0,0,0,0,Nick Stankus,Walking
+944013231,3464.0,3175.0,16.0,0,0,0,Nick Stankus,Walking
+944013231,3463.0,3197.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3080.0,3125.0,13.0,0,0,0,Nick Stankus,Walking
+944013232,2923.0,3167.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3128.0,3254.0,14.0,0,0,0,Nick Stankus,Walking
+944013232,3217.0,3202.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2890.0,3217.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2986.0,3244.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2799.0,3027.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2992.0,2863.0,12.0,0,0,0,Nick Stankus,Walking
+944013234,3302.0,2236.0,13.0,0,0,0,Nick Stankus,Walking
+944013234,3382.0,1268.0,14.0,0,0,0,Nick Stankus,Walking
+944013234,3308.0,2644.0,16.0,0,0,0,Nick Stankus,Walking
+944013235,3333.0,2767.0,20.0,0,0,0,Nick Stankus,Walking
+944013235,3373.0,2788.0,20.0,0,0,0,Nick Stankus,Walking
+944013239,3400.0,3093.0,17.0,0,0,0,Nick Stankus,Walking
+944013239,3267.0,3146.0,16.0,0,0,0,Nick Stankus,Walking
+944013240,3303.0,3010.0,17.0,0,0,0,Nick Stankus,Walking
+944013240,3407.0,2981.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3522.0,3292.0,17.0,0,0,0,Nick Stankus,Walking
+944013241,3534.0,3287.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3580.0,3324.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3624.0,3300.0,16.0,0,0,0,Nick Stankus,Walking
+944013242,3614.0,3080.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3161.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3313.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3657.0,3266.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3623.0,3322.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3602.0,3312.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3644.0,3066.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3635.0,3254.0,13.0,0,0,0,Nick Stankus,Walking
+944013244,3621.0,3448.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3582.0,3429.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3647.0,3447.0,12.0,1,0,0,Nick Stankus,Walking
+944013244,3675.0,3424.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,3423.0,2914.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,1426.0,3145.0,13.0,1,0,0,Nick Stankus,Walking
+944013245,971.0,3269.0,12.0,0,0,0,Nick Stankus,Walking
+944013245,1843.0,2798.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2214.0,905.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2757.0,1488.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2884.0,1.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,3048.0,3460.0,12.0,0,0,0,Nick Stankus,Walking
+944013247,3130.0,3638.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3124.0,3677.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3114.0,3679.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3256.0,3660.0,11.0,0,0,0,Nick Stankus,Walking
+944013248,3255.0,3552.0,12.0,0,0,0,Nick Stankus,Walking
+944013248,3346.0,3569.0,14.0,0,0,0,Nick Stankus,Walking
+944013248,3353.0,3638.0,15.0,0,0,0,Nick Stankus,Walking
+944013248,3194.0,3672.0,13.0,0,0,0,Nick Stankus,Walking
+944013249,3245.0,3673.0,15.0,0,0,0,Nick Stankus,Walking
+944013249,3260.0,3664.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3278.0,3621.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3251.0,3620.0,17.0,0,0,0,Nick Stankus,Walking
+944013250,3228.0,3662.0,18.0,0,0,0,Nick Stankus,Walking
+944013250,3210.0,3642.0,20.0,0,0,0,Nick Stankus,Walking
+944013250,3149.0,3617.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,3135.0,3507.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,2908.0,3376.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1563.0,921.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1927.0,2164.0,15.0,0,0,0,Nick Stankus,Walking
+944013252,2991.0,763.0,13.0,0,0,0,Nick Stankus,Walking
+944013252,2335.0,1541.0,16.0,0,0,0,Nick Stankus,Walking
+944013253,2618.0,2672.0,17.0,0,0,0,Nick Stankus,Walking
+944013253,1996.0,2307.0,23.0,0,0,0,Nick Stankus,Walking
+944013253,2431.0,2456.0,25.0,0,0,0,Nick Stankus,Walking
+944013253,2855.0,2832.0,18.0,0,0,0,Nick Stankus,Walking
+944013254,2998.0,2790.0,16.0,0,0,0,Nick Stankus,Walking
+944013255,2970.0,2935.0,21.0,0,0,0,Nick Stankus,Walking
+944013260,3191.0,3227.0,19.0,0,0,0,Nick Stankus,Walking
+944013264,3308.0,3205.0,19.0,0,0,0,Nick Stankus,Walking
+944013269,3304.0,1.0,27.0,0,0,0,Nick Stankus,Walking
+944013270,3265.0,2514.0,19.0,0,0,0,Nick Stankus,Walking
+944013270,3241.0,3010.0,20.0,0,0,0,Nick Stankus,Walking
+944013271,2793.0,2316.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3114.0,1486.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3177.0,2915.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,2976.0,3371.0,14.0,0,0,0,Nick Stankus,Walking
+944013272,3001.0,2931.0,14.0,0,0,0,Nick Stankus,Walking
+944013273,3136.0,2825.0,15.0,0,0,0,Nick Stankus,Walking
+944013273,3365.0,2671.0,16.0,0,0,0,Nick Stankus,Walking
+944013273,3321.0,2835.0,18.0,0,0,0,Nick Stankus,Walking
+944013275,2980.0,2252.0,23.0,0,0,0,Nick Stankus,Walking
+944013276,3013.0,2633.0,21.0,0,0,0,Nick Stankus,Walking
+944013276,3135.0,2932.0,18.0,0,0,0,Nick Stankus,Walking
+944013276,3180.0,2891.0,19.0,0,0,0,Nick Stankus,Walking
+944013276,3211.0,3092.0,23.0,0,0,0,Nick Stankus,Walking
+944013277,3257.0,3384.0,25.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3422.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3350.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3375.0,3423.0,24.0,0,0,1,Nick Stankus,Walking
+944013278,3400.0,3305.0,20.0,0,0,1,Nick Stankus,Walking
+944013278,3218.0,3346.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3147.0,2968.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3246.0,3272.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,3219.0,3144.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,2869.0,2445.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,3126.0,3104.0,13.0,0,0,0,Nick Stankus,Walking
+944013280,2858.0,2942.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,2915.0,2914.0,15.0,0,0,0,Nick Stankus,Walking
+944013280,3163.0,2950.0,15.0,0,0,0,Nick Stankus,Walking
+944013281,3170.0,2935.0,16.0,0,0,0,Nick Stankus,Walking
+944013281,3090.0,3147.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3180.0,3326.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3110.0,3126.0,18.0,0,0,0,Nick Stankus,Walking
+944013292,3474.0,3520.0,24.0,0,0,0,Nick Stankus,Walking
+944013292,3417.0,3434.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3407.0,3430.0,17.0,0,0,0,Nick Stankus,Walking
+944013293,3377.0,3449.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3135.0,2819.0,15.0,0,0,0,Nick Stankus,Walking
+944013293,2958.0,2643.0,13.0,0,0,0,Nick Stankus,Walking
+944013294,3175.0,2669.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3187.0,2032.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,2973.0,2097.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3074.0,3173.0,12.0,0,0,0,Nick Stankus,Walking
+944013295,2967.0,2952.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2755.0,1351.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2950.0,1885.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,3084.0,1103.0,10.0,0,0,0,Nick Stankus,Walking
+944013296,3038.0,72.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3036.0,1739.0,13.0,0,0,0,Nick Stankus,Walking
+944013296,3114.0,2962.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3093.0,2726.0,13.0,0,0,0,Nick Stankus,Walking
+944013297,3045.0,2707.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,3160.0,2784.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,2998.0,2644.0,15.0,0,0,0,Nick Stankus,Walking
+944013297,3055.0,3223.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,3066.0,3159.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,2340.0,2429.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2589.0,2586.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2859.0,2702.0,14.0,0,0,0,Nick Stankus,Walking
+944013299,2845.0,2307.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2776.0,3007.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2951.0,3402.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,3090.0,3465.0,16.0,0,0,0,Nick Stankus,Walking
+944013300,3040.0,3480.0,18.0,0,0,0,Nick Stankus,Walking
+944013300,3177.0,3501.0,17.0,0,0,0,Nick Stankus,Walking
+944013300,3344.0,3432.0,15.0,0,0,0,Nick Stankus,Walking
+944013300,3336.0,3239.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3367.0,3415.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3362.0,3474.0,15.0,0,0,0,Nick Stankus,Walking
+944013301,3336.0,3433.0,16.0,0,0,0,Nick Stankus,Walking
+944013301,3419.0,3434.0,17.0,0,0,0,Nick Stankus,Walking
+944013302,3417.0,3130.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3413.0,3133.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3466.0,3286.0,18.0,0,0,0,Nick Stankus,Walking
+944013302,3434.0,3336.0,17.0,0,0,0,Nick Stankus,Walking
+944013303,3360.0,3241.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3454.0,3403.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3427.0,3303.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3402.0,3401.0,20.0,0,0,0,Nick Stankus,Walking
+944013304,3386.0,3491.0,19.0,0,0,0,Nick Stankus,Walking
+944013305,3503.0,3433.0,21.0,0,0,0,Nick Stankus,Walking
+944013305,3502.0,3464.0,20.0,0,0,0,Nick Stankus,Walking
+944013305,3512.0,3511.0,18.0,0,0,0,Nick Stankus,Walking
+944013314,2274.0,3226.0,18.0,0,0,0,Nick Stankus,Walking
+944013315,3412.0,3362.0,19.0,0,0,0,Nick Stankus,Walking
+944013315,3607.0,3360.0,17.0,0,0,0,Nick Stankus,Walking
+944013315,3622.0,3244.0,18.0,0,0,0,Nick Stankus,Walking
+944013316,3647.0,3376.0,20.0,0,0,0,Nick Stankus,Walking
+944013317,3656.0,3381.0,21.0,0,0,0,Nick Stankus,Walking
+944013317,3651.0,3435.0,21.0,0,0,0,Nick Stankus,Walking
+944013318,3640.0,3438.0,18.0,0,0,0,Nick Stankus,Walking
+944013318,3655.0,3481.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3677.0,3447.0,20.0,0,0,0,Nick Stankus,Walking
+944013318,3678.0,3375.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3656.0,3415.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3672.0,3456.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3498.0,3458.0,17.0,1,0,0,Nick Stankus,Walking
+944013320,3117.0,3159.0,21.0,0,0,0,Nick Stankus,Walking
+944013330,3246.0,2818.0,19.0,0,0,0,Nick Stankus,Walking
+944013330,3231.0,2758.0,17.0,0,0,0,Nick Stankus,Walking
+944013331,3223.0,3179.0,16.0,0,0,0,Nick Stankus,Walking
+944013331,2834.0,3222.0,12.0,0,0,0,Nick Stankus,Walking
+944013331,2287.0,3004.0,11.0,0,0,0,Nick Stankus,Walking
+944013331,2876.0,3050.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,3116.0,3166.0,11.0,0,0,0,Nick Stankus,Walking
+944013332,2905.0,2854.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,2457.0,2771.0,10.0,0,0,0,Nick Stankus,Walking
+944013332,2763.0,3122.0,8.0,0,0,0,Nick Stankus,Walking
+944013332,1747.0,3089.0,8.0,0,0,0,Nick Stankus,Walking
+944013333,1968.0,2912.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,2928.0,3079.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,3062.0,2916.0,9.0,0,0,0,Nick Stankus,Walking
+944013333,2687.0,2761.0,11.0,0,0,0,Nick Stankus,Walking
+944013334,2761.0,3102.0,12.0,0,0,0,Nick Stankus,Walking
+944013334,2444.0,2853.0,13.0,0,0,0,Nick Stankus,Walking
+944013334,2474.0,2611.0,14.0,0,0,0,Nick Stankus,Walking
+944013334,3081.0,3040.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2441.0,2195.0,14.0,0,0,0,Nick Stankus,Walking
+944013335,2437.0,2699.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2958.0,2902.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2553.0,1510.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2692.0,2023.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,3148.0,2468.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2825.0,1204.0,16.0,0,0,0,Nick Stankus,Walking
+944013336,3091.0,2668.0,16.0,0,0,0,Nick Stankus,Walking
+944013337,3224.0,3247.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3176.0,2938.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3228.0,2889.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3309.0,2308.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3095.0,2026.0,17.0,0,0,0,Nick Stankus,Walking
+944013338,3216.0,2978.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3060.0,3146.0,15.0,0,0,0,Nick Stankus,Walking
+944013338,2654.0,2787.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3065.0,3075.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3247.0,3098.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3127.0,2772.0,17.0,0,0,0,Nick Stankus,Walking
+944013339,3195.0,3202.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3166.0,3301.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3100.0,3052.0,17.0,0,0,0,Nick Stankus,Walking
+944013340,3276.0,3006.0,15.0,0,0,0,Nick Stankus,Walking
+944013340,3284.0,2657.0,16.0,0,0,0,Nick Stankus,Walking
+944013341,3248.0,2761.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3306.0,3122.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3235.0,3252.0,15.0,0,0,0,Nick Stankus,Walking
+944013341,3251.0,2892.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3267.0,2663.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3298.0,2324.0,16.0,0,0,0,Nick Stankus,Walking
+944013342,3257.0,2285.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3313.0,3081.0,16.0,0,0,0,Nick Stankus,Walking
+944013343,3178.0,2972.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3241.0,2865.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3306.0,2955.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3171.0,2000.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3259.0,2938.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3077.0,2814.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3161.0,2596.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3175.0,2808.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3150.0,2351.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3138.0,2101.0,18.0,0,0,0,Nick Stankus,Walking
+944013346,3186.0,2769.0,16.0,0,0,0,Nick Stankus,Walking
+944013346,3037.0,1949.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3190.0,2586.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3253.0,2368.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3228.0,2520.0,21.0,0,0,0,Nick Stankus,Walking
+944013347,3258.0,3036.0,22.0,0,0,0,Nick Stankus,Walking
+944013347,3217.0,3249.0,20.0,0,0,0,Nick Stankus,Walking
+944013347,3086.0,2957.0,19.0,0,0,0,Nick Stankus,Walking
+944013348,3167.0,2735.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3082.0,3012.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3232.0,3168.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3378.0,3167.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3274.0,2838.0,19.0,0,0,0,Nick Stankus,Walking
+944013350,3217.0,3064.0,19.0,0,0,0,Nick Stankus,Walking
+944013352,3270.0,3292.0,22.0,0,0,0,Nick Stankus,Walking
+944013354,3153.0,3106.0,20.0,0,0,0,Nick Stankus,Walking
+944013355,3284.0,3160.0,19.0,0,0,0,Nick Stankus,Walking
+944013356,3274.0,3157.0,18.0,0,0,0,Nick Stankus,Walking
+944013360,3206.0,3068.0,17.0,0,0,0,Nick Stankus,Walking
+944013360,2981.0,3103.0,16.0,0,0,0,Nick Stankus,Walking
+944013360,1915.0,3130.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,194.0,2582.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,2512.0,2680.0,17.0,0,0,0,Nick Stankus,Walking
+944013361,3146.0,3040.0,18.0,0,0,0,Nick Stankus,Walking
+944013367,2376.0,2730.0,18.0,0,0,0,Nick Stankus,Walking
+944012978,3389.0,2830.0,14.0,0,0,0,Nick Stankus,Standing
+944012978,3399.0,3151.0,17.0,0,0,0,Nick Stankus,Standing
+944012978,3454.0,3375.0,15.0,0,0,0,Nick Stankus,Standing
+944012978,3383.0,3367.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,3522.0,3522.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3620.0,3530.0,10.0,0,0,0,Nick Stankus,Standing
+944012979,3594.0,3473.0,11.0,0,0,0,Nick Stankus,Standing
+944012979,1652.0,685.0,11.0,0,0,0,Nick Stankus,Standing
+944012992,2922.0,2245.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,2112.0,3100.0,15.0,0,0,0,Nick Stankus,Standing
+944012993,3506.0,3400.0,14.0,0,0,0,Nick Stankus,Standing
+944012993,3416.0,2965.0,13.0,0,0,0,Nick Stankus,Standing
+944012994,2350.0,1847.0,12.0,0,0,0,Nick Stankus,Standing
+944012997,3488.0,3550.0,14.0,0,0,0,Nick Stankus,Standing
+944012997,3551.0,3633.0,12.0,0,0,0,Nick Stankus,Standing
+944012998,3526.0,3687.0,10.0,0,0,0,Nick Stankus,Standing
+944012998,3449.0,3684.0,11.0,0,0,0,Nick Stankus,Standing
+944012998,2588.0,2871.0,12.0,0,0,0,Nick Stankus,Standing
+944013002,2074.0,3069.0,15.0,0,0,0,Nick Stankus,Standing
+944013002,2029.0,3325.0,13.0,0,0,0,Nick Stankus,Standing
+944013005,2474.0,2984.0,12.0,0,0,0,Nick Stankus,Standing
+944013005,2435.0,3249.0,9.0,0,0,0,Nick Stankus,Standing
+944013006,535.0,3400.0,7.0,0,0,0,Nick Stankus,Standing
+944013006,2542.0,2909.0,8.0,0,0,0,Nick Stankus,Standing
+944013007,993.0,1041.0,12.0,0,0,0,Nick Stankus,Standing
+944013007,3096.0,3084.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3518.0,3515.0,15.0,0,0,0,Nick Stankus,Standing
+944013007,3598.0,3633.0,13.0,0,0,0,Nick Stankus,Standing
+944013008,3484.0,3356.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3125.0,2567.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3537.0,1981.0,12.0,0,0,0,Nick Stankus,Standing
+944013011,3613.0,1904.0,8.0,0,0,0,Nick Stankus,Standing
+944013011,3602.0,3077.0,9.0,0,0,0,Nick Stankus,Standing
+944013014,1.0,3215.0,13.0,0,0,0,Nick Stankus,Standing
+944013017,2011.0,3135.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,114.0,2765.0,10.0,0,0,0,Nick Stankus,Standing
+944013018,152.0,2526.0,11.0,0,0,0,Nick Stankus,Standing
+944013018,2427.0,3240.0,12.0,0,0,0,Nick Stankus,Standing
+944013018,2366.0,3472.0,11.0,0,0,0,Nick Stankus,Standing
+944013019,2963.0,3588.0,13.0,0,0,0,Nick Stankus,Standing
+944013019,2118.0,2196.0,12.0,0,0,0,Nick Stankus,Standing
+944013027,2865.0,54.0,1.0,0,0,0,Nick Stankus,Standing
+944013028,3510.0,1.0,3.0,0,0,0,Nick Stankus,Standing
+944013030,948.0,592.0,1.0,0,0,0,Nick Stankus,Standing
+944013030,891.0,781.0,3.0,0,0,0,Nick Stankus,Standing
+944013040,1.0,3375.0,3.0,0,0,0,Nick Stankus,Standing
+944013046,1.0,3229.0,2.0,0,0,0,Nick Stankus,Standing
+944013047,1.0,1.0,5.0,0,0,0,Nick Stankus,Standing
+944013049,3637.0,1.0,2.0,0,0,0,Nick Stankus,Standing
+944013089,3205.0,2961.0,12.0,0,0,0,Nick Stankus,Sitting
+944013089,3484.0,3196.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3554.0,3087.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3590.0,3177.0,10.0,0,0,0,Nick Stankus,Sitting
+944013090,3588.0,3272.0,11.0,0,0,0,Nick Stankus,Sitting
+944013090,3596.0,3385.0,10.0,0,0,0,Nick Stankus,Sitting
+944013091,3623.0,3551.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3588.0,3536.0,5.0,0,0,0,Nick Stankus,Sitting
+944013091,3580.0,3528.0,8.0,0,0,0,Nick Stankus,Sitting
+944013091,3160.0,3417.0,13.0,0,0,0,Nick Stankus,Sitting
+944013092,3104.0,3489.0,19.0,0,0,0,Nick Stankus,Sitting
+944013092,2890.0,3301.0,24.0,0,0,0,Nick Stankus,Sitting
+944013092,2611.0,3243.0,25.0,0,0,0,Nick Stankus,Sitting
+944013095,3403.0,3232.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3467.0,3089.0,8.0,0,0,0,Nick Stankus,Sitting
+944013095,3477.0,2914.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3523.0,3054.0,10.0,0,0,0,Nick Stankus,Sitting
+944013096,3537.0,3201.0,8.0,0,0,0,Nick Stankus,Sitting
+944013096,3609.0,3438.0,6.0,0,0,0,Nick Stankus,Sitting
+944013096,3597.0,3418.0,4.0,0,0,0,Nick Stankus,Sitting
+944013097,3632.0,3621.0,10.0,0,0,0,Nick Stankus,Sitting
+944013097,3379.0,3359.0,17.0,0,0,0,Nick Stankus,Sitting
+944013100,2995.0,2992.0,11.0,0,0,0,Nick Stankus,Sitting
+944013100,3400.0,3447.0,10.0,0,0,0,Nick Stankus,Sitting
+944013101,3603.0,3572.0,9.0,0,0,0,Nick Stankus,Sitting
+944013101,3621.0,3471.0,8.0,0,0,0,Nick Stankus,Sitting
+944013101,3533.0,3323.0,13.0,0,0,0,Nick Stankus,Sitting
+944013101,3082.0,3268.0,24.0,0,0,0,Nick Stankus,Sitting
+944013105,908.0,3226.0,9.0,0,0,0,Nick Stankus,Sitting
+944013105,3271.0,3456.0,7.0,0,0,0,Nick Stankus,Sitting
+944013105,3322.0,3474.0,5.0,0,0,0,Nick Stankus,Sitting
+944013106,2406.0,3522.0,12.0,0,0,0,Nick Stankus,Sitting
+944013106,2542.0,3467.0,17.0,0,0,0,Nick Stankus,Sitting
+944013108,2719.0,2120.0,10.0,0,0,0,Nick Stankus,Sitting
+944013108,3263.0,3185.0,11.0,0,0,0,Nick Stankus,Sitting
+944013109,3501.0,3516.0,10.0,0,0,0,Nick Stankus,Sitting
+944013109,3617.0,3648.0,9.0,0,0,0,Nick Stankus,Sitting
+944013109,3582.0,3643.0,8.0,0,0,0,Nick Stankus,Sitting
+944013109,3496.0,3417.0,15.0,0,0,0,Nick Stankus,Sitting
+944013110,3162.0,3526.0,21.0,0,0,0,Nick Stankus,Sitting
+944013112,3001.0,1801.0,6.0,0,0,0,Nick Stankus,Sitting
+944013112,3479.0,2647.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3604.0,3042.0,9.0,0,0,0,Nick Stankus,Sitting
+944013113,3648.0,3311.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3665.0,3535.0,7.0,0,0,0,Nick Stankus,Sitting
+944013113,3618.0,3618.0,10.0,0,0,0,Nick Stankus,Sitting
+944013114,2755.0,3381.0,18.0,0,0,0,Nick Stankus,Sitting
+944013116,3264.0,1844.0,10.0,0,0,0,Nick Stankus,Sitting
+944013116,3535.0,2063.0,12.0,0,0,0,Nick Stankus,Sitting
+944013117,3596.0,2843.0,10.0,0,0,0,Nick Stankus,Sitting
+944013117,3615.0,3416.0,8.0,0,0,0,Nick Stankus,Sitting
+944013117,3601.0,3521.0,11.0,0,0,0,Nick Stankus,Sitting
+944013117,1922.0,3493.0,17.0,0,0,0,Nick Stankus,Sitting
+944013120,3134.0,1150.0,7.0,0,0,0,Nick Stankus,Sitting
+944013120,3446.0,2703.0,9.0,0,0,0,Nick Stankus,Sitting
+944013120,3493.0,2957.0,10.0,0,0,0,Nick Stankus,Sitting
+944013120,3592.0,3320.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3656.0,3549.0,6.0,0,0,0,Nick Stankus,Sitting
+944013121,3449.0,3465.0,8.0,0,0,0,Nick Stankus,Sitting
+944013121,3591.0,3513.0,10.0,0,0,0,Nick Stankus,Sitting
+944013121,3332.0,2205.0,18.0,0,0,0,Nick Stankus,Sitting
+944013123,3523.0,2971.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3608.0,3209.0,11.0,0,0,0,Nick Stankus,Sitting
+944013124,3597.0,2960.0,10.0,0,0,0,Nick Stankus,Sitting
+944013124,3678.0,3473.0,9.0,0,0,0,Nick Stankus,Sitting
+944013124,3690.0,3616.0,8.0,0,0,0,Nick Stankus,Sitting
+944013125,3643.0,3489.0,11.0,0,0,0,Nick Stankus,Sitting
+944013125,3217.0,3405.0,20.0,0,0,0,Nick Stankus,Sitting
+944013128,3540.0,607.0,10.0,0,0,0,Nick Stankus,Sitting
+944013128,3675.0,2525.0,9.0,0,0,0,Nick Stankus,Sitting
+944013128,3663.0,3014.0,8.0,0,0,0,Nick Stankus,Sitting
+944013128,3655.0,3289.0,8.0,0,0,0,Nick Stankus,Sitting
+944013129,3666.0,3502.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3677.0,3624.0,6.0,0,0,0,Nick Stankus,Sitting
+944013129,3598.0,3272.0,12.0,0,0,0,Nick Stankus,Sitting
+944013134,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013135,1.0,1.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1252.0,266.0,2.0,0,0,0,Nick Stankus,Sitting
+944013137,1.0,1989.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2895.0,742.0,1.0,0,0,0,Nick Stankus,Sitting
+944013141,2526.0,190.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,2697.0,2539.0,1.0,0,0,0,Nick Stankus,Sitting
+944013156,3528.0,3201.0,2.0,0,0,0,Nick Stankus,Sitting
+944013156,3484.0,3273.0,3.0,0,0,0,Nick Stankus,Sitting
+944013160,1.0,1.0,4.0,0,0,0,Nick Stankus,Sitting
+944013163,3365.0,2278.0,2.0,0,0,0,Nick Stankus,Sitting
+944013163,3105.0,1446.0,2.0,0,0,0,Nick Stankus,Sitting
+944013164,3155.0,1498.0,4.0,0,0,0,Nick Stankus,Sitting
+944013198,3119.0,1027.0,7.0,0,0,0,Nick Stankus,Walking
+944013199,3382.0,2308.0,8.0,0,0,0,Nick Stankus,Walking
+944013199,3441.0,2614.0,10.0,0,0,0,Nick Stankus,Walking
+944013199,3431.0,2847.0,13.0,0,0,0,Nick Stankus,Walking
+944013199,3543.0,2586.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3554.0,1709.0,14.0,0,0,0,Nick Stankus,Walking
+944013200,3560.0,1535.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3576.0,2661.0,13.0,0,0,0,Nick Stankus,Walking
+944013200,3525.0,3060.0,11.0,0,0,0,Nick Stankus,Walking
+944013201,3554.0,3062.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3614.0,3019.0,12.0,0,0,0,Nick Stankus,Walking
+944013201,3606.0,2912.0,12.0,1,0,0,Nick Stankus,Walking
+944013201,3543.0,2986.0,12.0,1,0,0,Nick Stankus,Walking
+944013202,3497.0,3135.0,11.0,1,0,0,Nick Stankus,Walking
+944013202,2206.0,2673.0,10.0,1,0,0,Nick Stankus,Walking
+944013202,2139.0,2168.0,12.0,0,0,0,Nick Stankus,Walking
+944013202,3016.0,2737.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2952.0,2278.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,2776.0,2342.0,11.0,0,0,0,Nick Stankus,Walking
+944013203,3170.0,3004.0,10.0,0,0,0,Nick Stankus,Walking
+944013203,3136.0,3083.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3148.0,2946.0,11.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,3110.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3271.0,2706.0,10.0,0,0,0,Nick Stankus,Walking
+944013204,3256.0,2596.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3350.0,3154.0,10.0,0,0,0,Nick Stankus,Walking
+944013205,3216.0,3027.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3241.0,3010.0,11.0,0,0,0,Nick Stankus,Walking
+944013205,3309.0,3021.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3297.0,2515.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3321.0,2702.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3350.0,3020.0,11.0,0,0,0,Nick Stankus,Walking
+944013206,3177.0,3030.0,12.0,0,0,0,Nick Stankus,Walking
+944013206,3143.0,2958.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,3173.0,2925.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2901.0,2744.0,13.0,0,0,0,Nick Stankus,Walking
+944013207,2671.0,2733.0,12.0,0,0,0,Nick Stankus,Walking
+944013207,2905.0,2904.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3128.0,2986.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3344.0,3063.0,11.0,0,0,0,Nick Stankus,Walking
+944013208,3420.0,3197.0,12.0,0,0,0,Nick Stankus,Walking
+944013208,3321.0,3234.0,12.0,0,0,0,Nick Stankus,Walking
+944013209,3340.0,3325.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3348.0,3466.0,10.0,0,0,0,Nick Stankus,Walking
+944013209,3228.0,3582.0,11.0,0,0,0,Nick Stankus,Walking
+944013209,3299.0,3573.0,12.0,0,0,0,Nick Stankus,Walking
+944013210,3443.0,3560.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3491.0,3551.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3485.0,3585.0,13.0,0,0,0,Nick Stankus,Walking
+944013210,3497.0,3593.0,12.0,0,0,0,Nick Stankus,Walking
+944013211,3450.0,3601.0,11.0,0,0,0,Nick Stankus,Walking
+944013211,3235.0,3612.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3369.0,3622.0,11.0,0,1,0,Nick Stankus,Walking
+944013211,3400.0,3584.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3010.0,2737.0,13.0,0,1,0,Nick Stankus,Walking
+944013212,3019.0,1356.0,14.0,0,1,0,Nick Stankus,Walking
+944013212,2542.0,2132.0,13.0,0,0,0,Nick Stankus,Walking
+944013212,2356.0,1340.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,2748.0,2217.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3142.0,1982.0,13.0,0,0,0,Nick Stankus,Walking
+944013213,3174.0,1921.0,18.0,0,0,0,Nick Stankus,Walking
+944013213,3275.0,2708.0,16.0,0,0,0,Nick Stankus,Walking
+944013214,3293.0,2938.0,17.0,0,0,0,Nick Stankus,Walking
+944013215,3175.0,2974.0,27.0,0,0,0,Nick Stankus,Walking
+944013215,3185.0,2865.0,28.0,0,0,0,Nick Stankus,Walking
+944013216,3329.0,2859.0,21.0,0,0,0,Nick Stankus,Walking
+944013224,3143.0,2911.0,27.0,0,0,0,Nick Stankus,Walking
+944013224,3036.0,2380.0,26.0,0,0,0,Nick Stankus,Walking
+944013224,3023.0,2135.0,21.0,0,0,0,Nick Stankus,Walking
+944013225,3077.0,1432.0,19.0,0,0,0,Nick Stankus,Walking
+944013225,3084.0,1774.0,20.0,0,0,0,Nick Stankus,Walking
+944013225,3040.0,2554.0,24.0,0,0,0,Nick Stankus,Walking
+944013225,3033.0,3026.0,28.0,0,0,0,Nick Stankus,Walking
+944013231,3464.0,3175.0,16.0,0,0,0,Nick Stankus,Walking
+944013231,3463.0,3197.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3080.0,3125.0,13.0,0,0,0,Nick Stankus,Walking
+944013232,2923.0,3167.0,15.0,0,0,0,Nick Stankus,Walking
+944013232,3128.0,3254.0,14.0,0,0,0,Nick Stankus,Walking
+944013232,3217.0,3202.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2890.0,3217.0,14.0,0,0,0,Nick Stankus,Walking
+944013233,2986.0,3244.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2799.0,3027.0,12.0,0,0,0,Nick Stankus,Walking
+944013233,2992.0,2863.0,12.0,0,0,0,Nick Stankus,Walking
+944013234,3302.0,2236.0,13.0,0,0,0,Nick Stankus,Walking
+944013234,3382.0,1268.0,14.0,0,0,0,Nick Stankus,Walking
+944013234,3308.0,2644.0,16.0,0,0,0,Nick Stankus,Walking
+944013235,3333.0,2767.0,20.0,0,0,0,Nick Stankus,Walking
+944013235,3373.0,2788.0,20.0,0,0,0,Nick Stankus,Walking
+944013239,3400.0,3093.0,17.0,0,0,0,Nick Stankus,Walking
+944013239,3267.0,3146.0,16.0,0,0,0,Nick Stankus,Walking
+944013240,3303.0,3010.0,17.0,0,0,0,Nick Stankus,Walking
+944013240,3407.0,2981.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3522.0,3292.0,17.0,0,0,0,Nick Stankus,Walking
+944013241,3534.0,3287.0,16.0,0,0,0,Nick Stankus,Walking
+944013241,3580.0,3324.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3624.0,3300.0,16.0,0,0,0,Nick Stankus,Walking
+944013242,3614.0,3080.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3161.0,17.0,0,0,0,Nick Stankus,Walking
+944013242,3639.0,3313.0,15.0,0,0,0,Nick Stankus,Walking
+944013242,3657.0,3266.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3623.0,3322.0,15.0,0,0,0,Nick Stankus,Walking
+944013243,3602.0,3312.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3644.0,3066.0,13.0,0,0,0,Nick Stankus,Walking
+944013243,3635.0,3254.0,13.0,0,0,0,Nick Stankus,Walking
+944013244,3621.0,3448.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3582.0,3429.0,12.0,0,0,0,Nick Stankus,Walking
+944013244,3647.0,3447.0,12.0,1,0,0,Nick Stankus,Walking
+944013244,3675.0,3424.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,3423.0,2914.0,12.0,1,0,0,Nick Stankus,Walking
+944013245,1426.0,3145.0,13.0,1,0,0,Nick Stankus,Walking
+944013245,971.0,3269.0,12.0,0,0,0,Nick Stankus,Walking
+944013245,1843.0,2798.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2214.0,905.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2757.0,1488.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,2884.0,1.0,12.0,0,0,0,Nick Stankus,Walking
+944013246,3048.0,3460.0,12.0,0,0,0,Nick Stankus,Walking
+944013247,3130.0,3638.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3124.0,3677.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3114.0,3679.0,11.0,0,0,0,Nick Stankus,Walking
+944013247,3256.0,3660.0,11.0,0,0,0,Nick Stankus,Walking
+944013248,3255.0,3552.0,12.0,0,0,0,Nick Stankus,Walking
+944013248,3346.0,3569.0,14.0,0,0,0,Nick Stankus,Walking
+944013248,3353.0,3638.0,15.0,0,0,0,Nick Stankus,Walking
+944013248,3194.0,3672.0,13.0,0,0,0,Nick Stankus,Walking
+944013249,3245.0,3673.0,15.0,0,0,0,Nick Stankus,Walking
+944013249,3260.0,3664.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3278.0,3621.0,14.0,0,0,0,Nick Stankus,Walking
+944013249,3251.0,3620.0,17.0,0,0,0,Nick Stankus,Walking
+944013250,3228.0,3662.0,18.0,0,0,0,Nick Stankus,Walking
+944013250,3210.0,3642.0,20.0,0,0,0,Nick Stankus,Walking
+944013250,3149.0,3617.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,3135.0,3507.0,20.0,0,1,0,Nick Stankus,Walking
+944013251,2908.0,3376.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1563.0,921.0,17.0,0,1,0,Nick Stankus,Walking
+944013251,1927.0,2164.0,15.0,0,0,0,Nick Stankus,Walking
+944013252,2991.0,763.0,13.0,0,0,0,Nick Stankus,Walking
+944013252,2335.0,1541.0,16.0,0,0,0,Nick Stankus,Walking
+944013253,2618.0,2672.0,17.0,0,0,0,Nick Stankus,Walking
+944013253,1996.0,2307.0,23.0,0,0,0,Nick Stankus,Walking
+944013253,2431.0,2456.0,25.0,0,0,0,Nick Stankus,Walking
+944013253,2855.0,2832.0,18.0,0,0,0,Nick Stankus,Walking
+944013254,2998.0,2790.0,16.0,0,0,0,Nick Stankus,Walking
+944013255,2970.0,2935.0,21.0,0,0,0,Nick Stankus,Walking
+944013260,3191.0,3227.0,19.0,0,0,0,Nick Stankus,Walking
+944013264,3308.0,3205.0,19.0,0,0,0,Nick Stankus,Walking
+944013269,3304.0,1.0,27.0,0,0,0,Nick Stankus,Walking
+944013270,3265.0,2514.0,19.0,0,0,0,Nick Stankus,Walking
+944013270,3241.0,3010.0,20.0,0,0,0,Nick Stankus,Walking
+944013271,2793.0,2316.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3114.0,1486.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,3177.0,2915.0,15.0,0,0,0,Nick Stankus,Walking
+944013272,2976.0,3371.0,14.0,0,0,0,Nick Stankus,Walking
+944013272,3001.0,2931.0,14.0,0,0,0,Nick Stankus,Walking
+944013273,3136.0,2825.0,15.0,0,0,0,Nick Stankus,Walking
+944013273,3365.0,2671.0,16.0,0,0,0,Nick Stankus,Walking
+944013273,3321.0,2835.0,18.0,0,0,0,Nick Stankus,Walking
+944013275,2980.0,2252.0,23.0,0,0,0,Nick Stankus,Walking
+944013276,3013.0,2633.0,21.0,0,0,0,Nick Stankus,Walking
+944013276,3135.0,2932.0,18.0,0,0,0,Nick Stankus,Walking
+944013276,3180.0,2891.0,19.0,0,0,0,Nick Stankus,Walking
+944013276,3211.0,3092.0,23.0,0,0,0,Nick Stankus,Walking
+944013277,3257.0,3384.0,25.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3422.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3277.0,3350.0,27.0,0,0,0,Nick Stankus,Walking
+944013277,3375.0,3423.0,24.0,0,0,1,Nick Stankus,Walking
+944013278,3400.0,3305.0,20.0,0,0,1,Nick Stankus,Walking
+944013278,3218.0,3346.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3147.0,2968.0,17.0,0,0,0,Nick Stankus,Walking
+944013279,3246.0,3272.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,3219.0,3144.0,15.0,0,0,0,Nick Stankus,Walking
+944013279,2869.0,2445.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,3126.0,3104.0,13.0,0,0,0,Nick Stankus,Walking
+944013280,2858.0,2942.0,14.0,0,0,0,Nick Stankus,Walking
+944013280,2915.0,2914.0,15.0,0,0,0,Nick Stankus,Walking
+944013280,3163.0,2950.0,15.0,0,0,0,Nick Stankus,Walking
+944013281,3170.0,2935.0,16.0,0,0,0,Nick Stankus,Walking
+944013281,3090.0,3147.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3180.0,3326.0,17.0,0,0,0,Nick Stankus,Walking
+944013281,3110.0,3126.0,18.0,0,0,0,Nick Stankus,Walking
+944013292,3474.0,3520.0,24.0,0,0,0,Nick Stankus,Walking
+944013292,3417.0,3434.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3407.0,3430.0,17.0,0,0,0,Nick Stankus,Walking
+944013293,3377.0,3449.0,18.0,0,0,0,Nick Stankus,Walking
+944013293,3135.0,2819.0,15.0,0,0,0,Nick Stankus,Walking
+944013293,2958.0,2643.0,13.0,0,0,0,Nick Stankus,Walking
+944013294,3175.0,2669.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3187.0,2032.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,2973.0,2097.0,12.0,0,0,0,Nick Stankus,Walking
+944013294,3074.0,3173.0,12.0,0,0,0,Nick Stankus,Walking
+944013295,2967.0,2952.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2755.0,1351.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,2950.0,1885.0,11.0,0,0,0,Nick Stankus,Walking
+944013295,3084.0,1103.0,10.0,0,0,0,Nick Stankus,Walking
+944013296,3038.0,72.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3036.0,1739.0,13.0,0,0,0,Nick Stankus,Walking
+944013296,3114.0,2962.0,12.0,0,0,0,Nick Stankus,Walking
+944013296,3093.0,2726.0,13.0,0,0,0,Nick Stankus,Walking
+944013297,3045.0,2707.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,3160.0,2784.0,14.0,0,0,0,Nick Stankus,Walking
+944013297,2998.0,2644.0,15.0,0,0,0,Nick Stankus,Walking
+944013297,3055.0,3223.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,3066.0,3159.0,16.0,0,0,0,Nick Stankus,Walking
+944013298,2340.0,2429.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2589.0,2586.0,15.0,0,0,0,Nick Stankus,Walking
+944013298,2859.0,2702.0,14.0,0,0,0,Nick Stankus,Walking
+944013299,2845.0,2307.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2776.0,3007.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,2951.0,3402.0,15.0,0,0,0,Nick Stankus,Walking
+944013299,3090.0,3465.0,16.0,0,0,0,Nick Stankus,Walking
+944013300,3040.0,3480.0,18.0,0,0,0,Nick Stankus,Walking
+944013300,3177.0,3501.0,17.0,0,0,0,Nick Stankus,Walking
+944013300,3344.0,3432.0,15.0,0,0,0,Nick Stankus,Walking
+944013300,3336.0,3239.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3367.0,3415.0,17.0,0,0,0,Nick Stankus,Walking
+944013301,3362.0,3474.0,15.0,0,0,0,Nick Stankus,Walking
+944013301,3336.0,3433.0,16.0,0,0,0,Nick Stankus,Walking
+944013301,3419.0,3434.0,17.0,0,0,0,Nick Stankus,Walking
+944013302,3417.0,3130.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3413.0,3133.0,19.0,0,0,0,Nick Stankus,Walking
+944013302,3466.0,3286.0,18.0,0,0,0,Nick Stankus,Walking
+944013302,3434.0,3336.0,17.0,0,0,0,Nick Stankus,Walking
+944013303,3360.0,3241.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3454.0,3403.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3427.0,3303.0,19.0,0,0,0,Nick Stankus,Walking
+944013303,3402.0,3401.0,20.0,0,0,0,Nick Stankus,Walking
+944013304,3386.0,3491.0,19.0,0,0,0,Nick Stankus,Walking
+944013305,3503.0,3433.0,21.0,0,0,0,Nick Stankus,Walking
+944013305,3502.0,3464.0,20.0,0,0,0,Nick Stankus,Walking
+944013305,3512.0,3511.0,18.0,0,0,0,Nick Stankus,Walking
+944013314,2274.0,3226.0,18.0,0,0,0,Nick Stankus,Walking
+944013315,3412.0,3362.0,19.0,0,0,0,Nick Stankus,Walking
+944013315,3607.0,3360.0,17.0,0,0,0,Nick Stankus,Walking
+944013315,3622.0,3244.0,18.0,0,0,0,Nick Stankus,Walking
+944013316,3647.0,3376.0,20.0,0,0,0,Nick Stankus,Walking
+944013317,3656.0,3381.0,21.0,0,0,0,Nick Stankus,Walking
+944013317,3651.0,3435.0,21.0,0,0,0,Nick Stankus,Walking
+944013318,3640.0,3438.0,18.0,0,0,0,Nick Stankus,Walking
+944013318,3655.0,3481.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3677.0,3447.0,20.0,0,0,0,Nick Stankus,Walking
+944013318,3678.0,3375.0,19.0,0,0,0,Nick Stankus,Walking
+944013318,3656.0,3415.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3672.0,3456.0,19.0,1,0,0,Nick Stankus,Walking
+944013319,3498.0,3458.0,17.0,1,0,0,Nick Stankus,Walking
+944013320,3117.0,3159.0,21.0,0,0,0,Nick Stankus,Walking
+944013330,3246.0,2818.0,19.0,0,0,0,Nick Stankus,Walking
+944013330,3231.0,2758.0,17.0,0,0,0,Nick Stankus,Walking
+944013331,3223.0,3179.0,16.0,0,0,0,Nick Stankus,Walking
+944013331,2834.0,3222.0,12.0,0,0,0,Nick Stankus,Walking
+944013331,2287.0,3004.0,11.0,0,0,0,Nick Stankus,Walking
+944013331,2876.0,3050.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,3116.0,3166.0,11.0,0,0,0,Nick Stankus,Walking
+944013332,2905.0,2854.0,12.0,0,0,0,Nick Stankus,Walking
+944013332,2457.0,2771.0,10.0,0,0,0,Nick Stankus,Walking
+944013332,2763.0,3122.0,8.0,0,0,0,Nick Stankus,Walking
+944013332,1747.0,3089.0,8.0,0,0,0,Nick Stankus,Walking
+944013333,1968.0,2912.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,2928.0,3079.0,10.0,0,0,0,Nick Stankus,Walking
+944013333,3062.0,2916.0,9.0,0,0,0,Nick Stankus,Walking
+944013333,2687.0,2761.0,11.0,0,0,0,Nick Stankus,Walking
+944013334,2761.0,3102.0,12.0,0,0,0,Nick Stankus,Walking
+944013334,2444.0,2853.0,13.0,0,0,0,Nick Stankus,Walking
+944013334,2474.0,2611.0,14.0,0,0,0,Nick Stankus,Walking
+944013334,3081.0,3040.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2441.0,2195.0,14.0,0,0,0,Nick Stankus,Walking
+944013335,2437.0,2699.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2958.0,2902.0,13.0,0,0,0,Nick Stankus,Walking
+944013335,2553.0,1510.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2692.0,2023.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,3148.0,2468.0,14.0,0,0,0,Nick Stankus,Walking
+944013336,2825.0,1204.0,16.0,0,0,0,Nick Stankus,Walking
+944013336,3091.0,2668.0,16.0,0,0,0,Nick Stankus,Walking
+944013337,3224.0,3247.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3176.0,2938.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3228.0,2889.0,15.0,0,0,0,Nick Stankus,Walking
+944013337,3309.0,2308.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3095.0,2026.0,17.0,0,0,0,Nick Stankus,Walking
+944013338,3216.0,2978.0,16.0,0,0,0,Nick Stankus,Walking
+944013338,3060.0,3146.0,15.0,0,0,0,Nick Stankus,Walking
+944013338,2654.0,2787.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3065.0,3075.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3247.0,3098.0,15.0,0,0,0,Nick Stankus,Walking
+944013339,3127.0,2772.0,17.0,0,0,0,Nick Stankus,Walking
+944013339,3195.0,3202.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3166.0,3301.0,18.0,0,0,0,Nick Stankus,Walking
+944013340,3100.0,3052.0,17.0,0,0,0,Nick Stankus,Walking
+944013340,3276.0,3006.0,15.0,0,0,0,Nick Stankus,Walking
+944013340,3284.0,2657.0,16.0,0,0,0,Nick Stankus,Walking
+944013341,3248.0,2761.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3306.0,3122.0,17.0,0,0,0,Nick Stankus,Walking
+944013341,3235.0,3252.0,15.0,0,0,0,Nick Stankus,Walking
+944013341,3251.0,2892.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3267.0,2663.0,15.0,0,0,0,Nick Stankus,Walking
+944013342,3298.0,2324.0,16.0,0,0,0,Nick Stankus,Walking
+944013342,3257.0,2285.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3313.0,3081.0,16.0,0,0,0,Nick Stankus,Walking
+944013343,3178.0,2972.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3241.0,2865.0,17.0,0,0,0,Nick Stankus,Walking
+944013343,3306.0,2955.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3171.0,2000.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3259.0,2938.0,18.0,0,0,0,Nick Stankus,Walking
+944013344,3077.0,2814.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3161.0,2596.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3175.0,2808.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3150.0,2351.0,17.0,0,0,0,Nick Stankus,Walking
+944013345,3138.0,2101.0,18.0,0,0,0,Nick Stankus,Walking
+944013346,3186.0,2769.0,16.0,0,0,0,Nick Stankus,Walking
+944013346,3037.0,1949.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3190.0,2586.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3253.0,2368.0,17.0,0,0,0,Nick Stankus,Walking
+944013346,3228.0,2520.0,21.0,0,0,0,Nick Stankus,Walking
+944013347,3258.0,3036.0,22.0,0,0,0,Nick Stankus,Walking
+944013347,3217.0,3249.0,20.0,0,0,0,Nick Stankus,Walking
+944013347,3086.0,2957.0,19.0,0,0,0,Nick Stankus,Walking
+944013348,3167.0,2735.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3082.0,3012.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3232.0,3168.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3378.0,3167.0,19.0,0,0,0,Nick Stankus,Walking
+944013349,3274.0,2838.0,19.0,0,0,0,Nick Stankus,Walking
+944013350,3217.0,3064.0,19.0,0,0,0,Nick Stankus,Walking
+944013352,3270.0,3292.0,22.0,0,0,0,Nick Stankus,Walking
+944013354,3153.0,3106.0,20.0,0,0,0,Nick Stankus,Walking
+944013355,3284.0,3160.0,19.0,0,0,0,Nick Stankus,Walking
+944013356,3274.0,3157.0,18.0,0,0,0,Nick Stankus,Walking
+944013360,3206.0,3068.0,17.0,0,0,0,Nick Stankus,Walking
+944013360,2981.0,3103.0,16.0,0,0,0,Nick Stankus,Walking
+944013360,1915.0,3130.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,194.0,2582.0,16.0,0,0,0,Nick Stankus,Walking
+944013361,2512.0,2680.0,17.0,0,0,0,Nick Stankus,Walking
+944013361,3146.0,3040.0,18.0,0,0,0,Nick Stankus,Walking
+944013367,2376.0,2730.0,18.0,0,0,0,Nick Stankus,Walking
